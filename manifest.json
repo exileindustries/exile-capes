@@ -2,6 +2,56 @@
  "version": 1,
  "files": [
   {
+   "path": "capes/Exile Members/exile_ale6oo.png",
+   "size": 42534,
+   "sha1": "129a2e72f0fa1fdab541350619933ce2786bccb8"
+  },
+  {
+   "path": "capes/Exile Members/exile_criperlo.png",
+   "size": 42616,
+   "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
+  },
+  {
+   "path": "capes/Exile Members/exile_lucy.png",
+   "size": 40200,
+   "sha1": "cd77b05d39f08c1be451cd9257545e52074b0634"
+  },
+  {
+   "path": "capes/Exile Members/exile_mich.png",
+   "size": 40086,
+   "sha1": "a3c9221521e1b2a3a813f41ce614d2e505e79a23"
+  },
+  {
+   "path": "capes/Exile Members/exile_nindar.png",
+   "size": 40947,
+   "sha1": "bc577c383a1f7e382415faad649391b244bc93a6"
+  },
+  {
+   "path": "capes/Exile Members/exile_nyzoo.png",
+   "size": 41759,
+   "sha1": "e4246bd07b0aa896f54efb75999b8165f35a7531"
+  },
+  {
+   "path": "capes/Exile Members/exile_oken.png",
+   "size": 41391,
+   "sha1": "4fdf171354341aa34fd3134327da6db15e3d8e46"
+  },
+  {
+   "path": "capes/Exile Members/exile_pasku.png",
+   "size": 41962,
+   "sha1": "04ce217fd13d4970009022fd65ecd004b609b586"
+  },
+  {
+   "path": "capes/Exile Members/exile_vanigliamoon.png",
+   "size": 42649,
+   "sha1": "b3a9dc0f2850bc44128a5f76656460898bbb8ed1"
+  },
+  {
+   "path": "capes/Exile Members/exile_vucak.png",
+   "size": 42126,
+   "sha1": "615618fabae6d45d9fb5305d09cede86b7f9853a"
+  },
+  {
    "path": "capes/Exile/exile.png",
    "size": 3091546,
    "sha1": "28380195113e523f5a8cf5c13163e1e96ceef265"
@@ -1255,56 +1305,6 @@
    "path": "capes/Youtube & Twitch/YoutubeWhite.png",
    "size": 40478,
    "sha1": "18025ac9ba4301cb18853f58f04efa97a7632eee"
-  },
-  {
-   "path": "capes/members/exile_ale6oo.png",
-   "size": 42534,
-   "sha1": "129a2e72f0fa1fdab541350619933ce2786bccb8"
-  },
-  {
-   "path": "capes/members/exile_criperlo.png",
-   "size": 42616,
-   "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
-  },
-  {
-   "path": "capes/members/exile_lucy.png",
-   "size": 40200,
-   "sha1": "cd77b05d39f08c1be451cd9257545e52074b0634"
-  },
-  {
-   "path": "capes/members/exile_mich.png",
-   "size": 40086,
-   "sha1": "a3c9221521e1b2a3a813f41ce614d2e505e79a23"
-  },
-  {
-   "path": "capes/members/exile_nindar.png",
-   "size": 40947,
-   "sha1": "bc577c383a1f7e382415faad649391b244bc93a6"
-  },
-  {
-   "path": "capes/members/exile_nyzoo.png",
-   "size": 41759,
-   "sha1": "e4246bd07b0aa896f54efb75999b8165f35a7531"
-  },
-  {
-   "path": "capes/members/exile_oken.png",
-   "size": 41391,
-   "sha1": "4fdf171354341aa34fd3134327da6db15e3d8e46"
-  },
-  {
-   "path": "capes/members/exile_pasku.png",
-   "size": 41962,
-   "sha1": "04ce217fd13d4970009022fd65ecd004b609b586"
-  },
-  {
-   "path": "capes/members/exile_vanigliamoon.png",
-   "size": 42649,
-   "sha1": "b3a9dc0f2850bc44128a5f76656460898bbb8ed1"
-  },
-  {
-   "path": "capes/members/exile_vucak.png",
-   "size": 42126,
-   "sha1": "615618fabae6d45d9fb5305d09cede86b7f9853a"
   },
   {
    "path": "identities.properties",
