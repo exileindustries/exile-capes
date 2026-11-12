@@ -812,31 +812,6 @@
    "sha1": "1ea23d543cc3f85cd7ae84f64b0a1aff97e57882"
   },
   {
-   "path": "capes/MInecons/2011.png",
-   "size": 937,
-   "sha1": "a29361581ff19c837cae8b75c6269af3bd5b741d"
-  },
-  {
-   "path": "capes/MInecons/2012.png",
-   "size": 3549,
-   "sha1": "8ae53a13260dfe67b93e3bc5305524442d15cba1"
-  },
-  {
-   "path": "capes/MInecons/2013.png",
-   "size": 1111,
-   "sha1": "55ebbab7cad67a638b435b5c6756373b26059d56"
-  },
-  {
-   "path": "capes/MInecons/2015.png",
-   "size": 3753,
-   "sha1": "ba01540ed303b24305e4a025d7ab4786bd15488a"
-  },
-  {
-   "path": "capes/MInecons/2016.png",
-   "size": 754,
-   "sha1": "5bfdb47991d6ef76040fd4a43bdef73722aad212"
-  },
-  {
    "path": "capes/Midnight/midnight.png",
    "size": 84273,
    "sha1": "bf647eb94a2ed8e442118263a03908834fe7949a"
@@ -850,6 +825,31 @@
    "path": "capes/Midnight/midnight_glow.png",
    "size": 84273,
    "sha1": "bf647eb94a2ed8e442118263a03908834fe7949a"
+  },
+  {
+   "path": "capes/Minecons/2011.png",
+   "size": 937,
+   "sha1": "a29361581ff19c837cae8b75c6269af3bd5b741d"
+  },
+  {
+   "path": "capes/Minecons/2012.png",
+   "size": 3549,
+   "sha1": "8ae53a13260dfe67b93e3bc5305524442d15cba1"
+  },
+  {
+   "path": "capes/Minecons/2013.png",
+   "size": 1111,
+   "sha1": "55ebbab7cad67a638b435b5c6756373b26059d56"
+  },
+  {
+   "path": "capes/Minecons/2015.png",
+   "size": 3753,
+   "sha1": "ba01540ed303b24305e4a025d7ab4786bd15488a"
+  },
+  {
+   "path": "capes/Minecons/2016.png",
+   "size": 754,
+   "sha1": "5bfdb47991d6ef76040fd4a43bdef73722aad212"
   },
   {
    "path": "capes/Others/420private.png",
