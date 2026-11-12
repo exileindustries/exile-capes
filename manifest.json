@@ -502,11 +502,6 @@
    "sha1": "4817a616ab124bc4ccff3e4f5f36b2e38f029636"
   },
   {
-   "path": "capes/Leaderboard/sad.png",
-   "size": 256,
-   "sha1": "0eb76505422583ed02f7bce72e01bdb5e0145688"
-  },
-  {
    "path": "capes/Leaderboard/season1_archer.png",
    "size": 71075,
    "sha1": "6897f0d87ec1452fd0e5b41332fbd9d7a66667cf"
@@ -1125,6 +1120,11 @@
    "path": "capes/Others/mcteamsGlitched.png",
    "size": 222555,
    "sha1": "66858cd73b4514dc1d006d4b51e7eca711910f48"
+  },
+  {
+   "path": "capes/Others/sad.png",
+   "size": 256,
+   "sha1": "0eb76505422583ed02f7bce72e01bdb5e0145688"
   },
   {
    "path": "capes/Others/sammygreenwhite.png",
