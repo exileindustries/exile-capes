@@ -4,7 +4,6 @@
 # Gli UUID sono piu' sicuri: non cambiano se qualcuno cambia nome.
 polleg
 criperlo
-nindar
 nyzoo
 oken
 pasku
