@@ -1,0 +1,5110 @@
+{
+ "version": 1,
+ "files": [
+  {
+   "path": "capes/EXILE Membri/exile_ale6oo.png",
+   "size": 42534,
+   "sha1": "129a2e72f0fa1fdab541350619933ce2786bccb8"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_criperlo.png",
+   "size": 42616,
+   "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_lucy.png",
+   "size": 40200,
+   "sha1": "cd77b05d39f08c1be451cd9257545e52074b0634"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_mich.png",
+   "size": 40086,
+   "sha1": "a3c9221521e1b2a3a813f41ce614d2e505e79a23"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_nindar.png",
+   "size": 40947,
+   "sha1": "bc577c383a1f7e382415faad649391b244bc93a6"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_nyzoo.png",
+   "size": 41759,
+   "sha1": "e4246bd07b0aa896f54efb75999b8165f35a7531"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_oken.png",
+   "size": 41391,
+   "sha1": "4fdf171354341aa34fd3134327da6db15e3d8e46"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_pasku.png",
+   "size": 41962,
+   "sha1": "04ce217fd13d4970009022fd65ecd004b609b586"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_vanigliamoon.png",
+   "size": 42649,
+   "sha1": "b3a9dc0f2850bc44128a5f76656460898bbb8ed1"
+  },
+  {
+   "path": "capes/EXILE Membri/exile_vucak.png",
+   "size": 42126,
+   "sha1": "615618fabae6d45d9fb5305d09cede86b7f9853a"
+  },
+  {
+   "path": "capes/EXILE Membri/migliori.png",
+   "size": 398521,
+   "sha1": "3d838c72fd86f1c656d68b01d9c00a3fc04c2cc8"
+  },
+  {
+   "path": "capes/Lunar/aceofclubs.png",
+   "size": 2716,
+   "sha1": "45fda7266a817776c153ba54cc1d0cff5ecc149c"
+  },
+  {
+   "path": "capes/Lunar/adviser.png",
+   "size": 2752,
+   "sha1": "ebb6c46a198674d1f24b19de34523ddfa08bce06"
+  },
+  {
+   "path": "capes/Lunar/africafaction.png",
+   "size": 138741,
+   "sha1": "6d987d80fc8b85b638f05cf7df1df74ad3fb0a07"
+  },
+  {
+   "path": "capes/Lunar/akatsuki.png",
+   "size": 7844,
+   "sha1": "db8c23175491498059e1c75f5b6e7db5259618f1"
+  },
+  {
+   "path": "capes/Lunar/albypromagna.png",
+   "size": 340,
+   "sha1": "ef777407fb1e949b844c4e3681c1ed8fcc909d17"
+  },
+  {
+   "path": "capes/Lunar/allegiance.png",
+   "size": 255708,
+   "sha1": "b5565353748aff8efa2cac028f1db87f09b37da6"
+  },
+  {
+   "path": "capes/Lunar/americanheart.png",
+   "size": 996,
+   "sha1": "0ad408d572cf09480cb5430f6bd2641e3aa05a11"
+  },
+  {
+   "path": "capes/Lunar/angryemoji.png",
+   "size": 42418,
+   "sha1": "5a898b56f0efb65952d24f6db8d217f91af70866"
+  },
+  {
+   "path": "capes/Lunar/animalfox.png",
+   "size": 83103,
+   "sha1": "5627e0b2efbff165d1ed49a3a743131760538821"
+  },
+  {
+   "path": "capes/Lunar/animalkitten.png",
+   "size": 112588,
+   "sha1": "2d7eaba1efcabfa748bf22391ebd7897d5f08d49"
+  },
+  {
+   "path": "capes/Lunar/animalkoala.png",
+   "size": 78026,
+   "sha1": "2e4aca39a710d9190d871acd734bd877a02113a0"
+  },
+  {
+   "path": "capes/Lunar/animallion.png",
+   "size": 121225,
+   "sha1": "612bde332922691002dbf5b85f0b65029dfa8fe4"
+  },
+  {
+   "path": "capes/Lunar/animalpanda.png",
+   "size": 109471,
+   "sha1": "cf8367ac493db8dd15f02de8dd62d12d8dfdede8"
+  },
+  {
+   "path": "capes/Lunar/animalpenguin.png",
+   "size": 81045,
+   "sha1": "baacdcbb3789acadd7a155fbd0f2de067b7258c7"
+  },
+  {
+   "path": "capes/Lunar/animalpig.png",
+   "size": 92615,
+   "sha1": "52699777e8072a32ede45ed704742b608a01688d"
+  },
+  {
+   "path": "capes/Lunar/animalpuppy.png",
+   "size": 101216,
+   "sha1": "ef822f9a04527940cca6f2193019d15df5d9cc3b"
+  },
+  {
+   "path": "capes/Lunar/antisocial.png",
+   "size": 2493,
+   "sha1": "b0400f2a6e836d7232aa2765d7b273320a9500ab"
+  },
+  {
+   "path": "capes/Lunar/areumadlol.png",
+   "size": 10582,
+   "sha1": "26a09967be0674bb9f794cd8daef9b5dc0f53428"
+  },
+  {
+   "path": "capes/Lunar/argentina.png",
+   "size": 24609,
+   "sha1": "e10a3ee08a656288067b288c7e8d2da0d897e169"
+  },
+  {
+   "path": "capes/Lunar/arma.png",
+   "size": 314288,
+   "sha1": "ee3adcbbcca1c0f25272f308a1fb00edf1e1f119"
+  },
+  {
+   "path": "capes/Lunar/aurora.png",
+   "size": 267795,
+   "sha1": "92ec76c883b4aff19e4ca98ed7ca6e3d0c593b30"
+  },
+  {
+   "path": "capes/Lunar/australia.png",
+   "size": 35840,
+   "sha1": "731f53c05448c2594f4960fa59b540950f74feb4"
+  },
+  {
+   "path": "capes/Lunar/autumnhedgehog.png",
+   "size": 2287,
+   "sha1": "0fd269d1188a3a7e77df25b5a3b57380b7e0d23c"
+  },
+  {
+   "path": "capes/Lunar/autumnorangelogo.png",
+   "size": 73333,
+   "sha1": "168c0a56ba64c23530ccbf3e139b4b0416de8144"
+  },
+  {
+   "path": "capes/Lunar/autumnpumpkin.png",
+   "size": 123180,
+   "sha1": "a190d2c43b55a31ffb75129b85e549037db96231"
+  },
+  {
+   "path": "capes/Lunar/autumnredlogo.png",
+   "size": 71058,
+   "sha1": "da27276096996304677c9a928ace976369666424"
+  },
+  {
+   "path": "capes/Lunar/autumnsquirrel.png",
+   "size": 2922,
+   "sha1": "a8dc03e9b869a96c0e8b88b5fce6b1e1303b96a0"
+  },
+  {
+   "path": "capes/Lunar/autumnyellow.png",
+   "size": 66175,
+   "sha1": "e8bd80b8d1907fa944d4913f91ab28a8a122ad9f"
+  },
+  {
+   "path": "capes/Lunar/avery.png",
+   "size": 688,
+   "sha1": "136fdea1518214e5e24522bbd30ab2f0dbc53a83"
+  },
+  {
+   "path": "capes/Lunar/averyanarchy.png",
+   "size": 2291,
+   "sha1": "7fdb95fda98d65baca127165e689ff525246654e"
+  },
+  {
+   "path": "capes/Lunar/averyheart.png",
+   "size": 4240,
+   "sha1": "bc673f59e97637b7552ed022c69308981c5238d2"
+  },
+  {
+   "path": "capes/Lunar/averypain.png",
+   "size": 375,
+   "sha1": "59b18922c8d92a4461ea1e74769b307a3166df83"
+  },
+  {
+   "path": "capes/Lunar/babyblueaugust.png",
+   "size": 65333,
+   "sha1": "3a2e245d6c259f57cde610262504719d76e98cc3"
+  },
+  {
+   "path": "capes/Lunar/banana.png",
+   "size": 387783,
+   "sha1": "1cc5598da6422154c68bbb9062a620e17094d584"
+  },
+  {
+   "path": "capes/Lunar/bcrfawarenessmonth.png",
+   "size": 81771,
+   "sha1": "7769a9a764ed7fe2ce30438cc847835475dd1792"
+  },
+  {
+   "path": "capes/Lunar/beans.png",
+   "size": 312964,
+   "sha1": "04fe753c816259c040d3e6cbe0470e9f9090a221"
+  },
+  {
+   "path": "capes/Lunar/belgium.png",
+   "size": 8620,
+   "sha1": "5028c162ffdaf831dcd72203a724ce055c9c2d09"
+  },
+  {
+   "path": "capes/Lunar/bitbee.png",
+   "size": 1371,
+   "sha1": "1ce11858cf6f484810f14d66b92e574ae6de2bc6"
+  },
+  {
+   "path": "capes/Lunar/bitbloodmoon.png",
+   "size": 899,
+   "sha1": "6f0234608fb6e90fe86c15007e6e127232ebe2a4"
+  },
+  {
+   "path": "capes/Lunar/bitdemon.png",
+   "size": 1012,
+   "sha1": "e7e36079dfe3cb35c5f68548dcfd3bdd878c03e8"
+  },
+  {
+   "path": "capes/Lunar/bitdracula.png",
+   "size": 989,
+   "sha1": "6e9f9cbded7a7d44201d26e49477cdc7e50b95b1"
+  },
+  {
+   "path": "capes/Lunar/bitfrankenstein.png",
+   "size": 962,
+   "sha1": "7cc6a012f18d875876dfe00978ebd35db01d12c4"
+  },
+  {
+   "path": "capes/Lunar/bitghostface.png",
+   "size": 744,
+   "sha1": "df91fa7b0af6c66eaf71a735c6104ecc78241384"
+  },
+  {
+   "path": "capes/Lunar/bitjackolantern.png",
+   "size": 1006,
+   "sha1": "5bed79d04c4b9dfdb92c34630ac80aac2e8921d4"
+  },
+  {
+   "path": "capes/Lunar/bitlunar.png",
+   "size": 955,
+   "sha1": "cdc204a5e430df867e80a6a274507057b7d1d300"
+  },
+  {
+   "path": "capes/Lunar/bitmummy.png",
+   "size": 991,
+   "sha1": "6f0569976cba6a20dd918d97aa8bf5be6f973b31"
+  },
+  {
+   "path": "capes/Lunar/bitpinkbulb.png",
+   "size": 1080,
+   "sha1": "92963d1346b252403d334697755fb50d6a3a7107"
+  },
+  {
+   "path": "capes/Lunar/bitscaryclown.png",
+   "size": 1097,
+   "sha1": "840db629eb20b6160641d970e5b51719bca08bc6"
+  },
+  {
+   "path": "capes/Lunar/bitskull.png",
+   "size": 1371,
+   "sha1": "d6b9a56a43d780a83aeba32f9ff4d366e5d68c24"
+  },
+  {
+   "path": "capes/Lunar/bitstar.png",
+   "size": 759,
+   "sha1": "3e1da9c736871436353dc81001ba23f8541a16a4"
+  },
+  {
+   "path": "capes/Lunar/bitstrider.png",
+   "size": 1180,
+   "sha1": "b3a81135958bc6aec7b8aeb7ea621dc22bf5907f"
+  },
+  {
+   "path": "capes/Lunar/bitsword.png",
+   "size": 1046,
+   "sha1": "623856870caefd3321a1efdd5bbf621c536ad77d"
+  },
+  {
+   "path": "capes/Lunar/bitvillager.png",
+   "size": 936,
+   "sha1": "a3965a7d4806dd6fb89e0d4f4da3ee3b71f35e43"
+  },
+  {
+   "path": "capes/Lunar/blackchromalogo.png",
+   "size": 18633,
+   "sha1": "5a30ae724a7a000e0d63eb2ac9757bc02a08d5d1"
+  },
+  {
+   "path": "capes/Lunar/blackdice.png",
+   "size": 3340,
+   "sha1": "e82bfc6b54d1c01a2d4ea8605ca7e84e0526bc10"
+  },
+  {
+   "path": "capes/Lunar/blackstripedcloak.png",
+   "size": 498106,
+   "sha1": "6bc83e4ab271f4ebbfc99e7e50a037e50c3aff9c"
+  },
+  {
+   "path": "capes/Lunar/blacktiltedlogocloak.png",
+   "size": 47822,
+   "sha1": "53810db58dd06c6dba4f372707681f7819d27078"
+  },
+  {
+   "path": "capes/Lunar/blackvalentineheart.png",
+   "size": 42227,
+   "sha1": "1f2502558acb4f1a20fc3626b4aa1ac0171f36ee"
+  },
+  {
+   "path": "capes/Lunar/bluefoglogo.png",
+   "size": 145892,
+   "sha1": "817cc017119db76dc318354125453af55faa4a71"
+  },
+  {
+   "path": "capes/Lunar/bluelunarbunnies.png",
+   "size": 154640,
+   "sha1": "f7a3c0354c1bbc2d16caaaf76b169dfebb1045a7"
+  },
+  {
+   "path": "capes/Lunar/bluestripedcloak.png",
+   "size": 370176,
+   "sha1": "d95621fed3adc1fef579a88247a2bb851291aeb3"
+  },
+  {
+   "path": "capes/Lunar/bluetiltedlogocloak.png",
+   "size": 49955,
+   "sha1": "4ba390ac35884c7b09cf5cb8389c99362b50336c"
+  },
+  {
+   "path": "capes/Lunar/brazil.png",
+   "size": 35657,
+   "sha1": "6cb43840c0fd86c1fdbf606b3eaa75cc824cbbd7"
+  },
+  {
+   "path": "capes/Lunar/breastcancerawarenessmonth1.png",
+   "size": 27983,
+   "sha1": "527214470058dcefd8ec58eb777a1316f4727f78"
+  },
+  {
+   "path": "capes/Lunar/breastcancerawarenessmonth2.png",
+   "size": 29407,
+   "sha1": "a6f16deaec878c42b0e80cb81d3a4a69309fc13a"
+  },
+  {
+   "path": "capes/Lunar/breastcancerbow1.png",
+   "size": 55092,
+   "sha1": "23398d64fce05aff6d73b011c22c98aa14b2b6d6"
+  },
+  {
+   "path": "capes/Lunar/breastcancerbow2.png",
+   "size": 66424,
+   "sha1": "5e1a0176739e4c01372eee7b6eabba92b02526e7"
+  },
+  {
+   "path": "capes/Lunar/breastcancerbow3.png",
+   "size": 54253,
+   "sha1": "44db9b0d1464e552356222de747ee9d07eea0fe9"
+  },
+  {
+   "path": "capes/Lunar/breastcancerbow4.png",
+   "size": 50054,
+   "sha1": "7e5660e43a4cbf2392c47f19aa64fc67a59fb7b6"
+  },
+  {
+   "path": "capes/Lunar/breastcancerheart1.png",
+   "size": 48265,
+   "sha1": "4ec1da9a38ba9dff9255df128546205de43e8f52"
+  },
+  {
+   "path": "capes/Lunar/breastcancerheart2.png",
+   "size": 55511,
+   "sha1": "659ebd6721fc6f5aaee22a91a6496c6ed36f882f"
+  },
+  {
+   "path": "capes/Lunar/buildcloak1.png",
+   "size": 201180,
+   "sha1": "e14212e5d8b853aee68a7620c4a622611ab99e4a"
+  },
+  {
+   "path": "capes/Lunar/buildcloak2.png",
+   "size": 174030,
+   "sha1": "0413c011529bc33d50ee2269afb453d761fe1403"
+  },
+  {
+   "path": "capes/Lunar/buildcloak3.png",
+   "size": 180630,
+   "sha1": "704d119d4c56356ac15ff4aa32713ce095569799"
+  },
+  {
+   "path": "capes/Lunar/bunkersleague1.png",
+   "size": 116937,
+   "sha1": "6707267b869eb0584083fa460ea1ab7948f16894"
+  },
+  {
+   "path": "capes/Lunar/calvin.png",
+   "size": 588,
+   "sha1": "39efe2ff7dbe319dc35194d428fabd08215cafc5"
+  },
+  {
+   "path": "capes/Lunar/calvinblue.png",
+   "size": 451,
+   "sha1": "f3bce93aa3abcf9f13696216d075a77dded49a19"
+  },
+  {
+   "path": "capes/Lunar/calvinredrod.png",
+   "size": 4085,
+   "sha1": "70c8c1ac0ed7c1f4f8d2fad7a2ecd71334e700d6"
+  },
+  {
+   "path": "capes/Lunar/calvinunsure.png",
+   "size": 384,
+   "sha1": "9c824011e93871c9c87402343a4169dd3b4ddb7f"
+  },
+  {
+   "path": "capes/Lunar/camoblue.png",
+   "size": 216930,
+   "sha1": "931cb9193e53657458ada3af58d6829c22e7f561"
+  },
+  {
+   "path": "capes/Lunar/camogray.png",
+   "size": 315175,
+   "sha1": "0ea8b814786bdd0a65a0ac1f091f6516d8c3ec49"
+  },
+  {
+   "path": "capes/Lunar/camogreen.png",
+   "size": 266113,
+   "sha1": "ad68a9b0ba5e516afcdac553fe29166d521ed934"
+  },
+  {
+   "path": "capes/Lunar/camored.png",
+   "size": 95547,
+   "sha1": "e16c51d874d29d8ba6fa9890050b9851ebd7f44d"
+  },
+  {
+   "path": "capes/Lunar/canada.png",
+   "size": 12927,
+   "sha1": "46f877b68a965604dc7a03c1e8a3f6212f5c9c17"
+  },
+  {
+   "path": "capes/Lunar/champagne.png",
+   "size": 3208,
+   "sha1": "57a9e7687eabf6b63938a38430a17ee8fbf71442"
+  },
+  {
+   "path": "capes/Lunar/cheetahgreenprints.png",
+   "size": 4823,
+   "sha1": "2190275021f76303ca130b6311312c6d2a23d375"
+  },
+  {
+   "path": "capes/Lunar/cheetahhprints.png",
+   "size": 4823,
+   "sha1": "2190275021f76303ca130b6311312c6d2a23d375"
+  },
+  {
+   "path": "capes/Lunar/cherrypicloak.png",
+   "size": 53848,
+   "sha1": "e6e6cf9a408b0e1b40f174f90e43d1527caf29ec"
+  },
+  {
+   "path": "capes/Lunar/chile.png",
+   "size": 11717,
+   "sha1": "0c8e754e3a845134d11edc23e840c31c81103774"
+  },
+  {
+   "path": "capes/Lunar/christmas.png",
+   "size": 1456,
+   "sha1": "6850b5bf7a78888d9a1a2403412c12ff09c9f4d7"
+  },
+  {
+   "path": "capes/Lunar/christmas2020bell.png",
+   "size": 2439,
+   "sha1": "52e560bc4229f72e845933d53a51244d3e0b7843"
+  },
+  {
+   "path": "capes/Lunar/christmas2020blue.png",
+   "size": 168974,
+   "sha1": "f0a136218c2938d1f65d1f1067f94a515c362069"
+  },
+  {
+   "path": "capes/Lunar/christmas2020candycane.png",
+   "size": 135651,
+   "sha1": "e33827e032b8d0c3c23742015df0e559851d462c"
+  },
+  {
+   "path": "capes/Lunar/christmas2020gingerbread.png",
+   "size": 2454,
+   "sha1": "a774e8a725f87a70de4f92dde431288733d1d8db"
+  },
+  {
+   "path": "capes/Lunar/christmas2020green.png",
+   "size": 165121,
+   "sha1": "edc4ba3c3946fcd2fb6951ad1015681de82aa5f8"
+  },
+  {
+   "path": "capes/Lunar/christmas2020lunar.png",
+   "size": 159328,
+   "sha1": "4b98bdfc69e0adab3cb6cad8529317a0c225b32c"
+  },
+  {
+   "path": "capes/Lunar/christmas2020red.png",
+   "size": 130750,
+   "sha1": "2fc1d26a6cd397b69686ee2ca167995bf7216428"
+  },
+  {
+   "path": "capes/Lunar/christmas2020winter.png",
+   "size": 91849,
+   "sha1": "d6fefc4f024fe0a7b1dc7209ac8a76d12a61e77e"
+  },
+  {
+   "path": "capes/Lunar/christmasblue.png",
+   "size": 589475,
+   "sha1": "8a152d559a82f26b8c6233ff7a90e1d916d45039"
+  },
+  {
+   "path": "capes/Lunar/christmasmittens.png",
+   "size": 10373,
+   "sha1": "5d986623d3a1f6a777314cbf3d48c87bfa4493fc"
+  },
+  {
+   "path": "capes/Lunar/christmasred.png",
+   "size": 383015,
+   "sha1": "f8880603b0b3377f21037d4f676ce376d00c39ec"
+  },
+  {
+   "path": "capes/Lunar/christmassanta.png",
+   "size": 677,
+   "sha1": "b069f7cea08602a310000d6b4d9cd3360dea9747"
+  },
+  {
+   "path": "capes/Lunar/christmassnowflake.png",
+   "size": 853,
+   "sha1": "e0bb38d7fb8fc5abc272d409d2986c76a3add916"
+  },
+  {
+   "path": "capes/Lunar/christmassnowman.png",
+   "size": 867,
+   "sha1": "7672fc997a3dff3e336d0e0c026ea9fd1fb196b7"
+  },
+  {
+   "path": "capes/Lunar/christmastree.png",
+   "size": 731,
+   "sha1": "98b5225f214d13987261a7879cda9e0bc36bbf82"
+  },
+  {
+   "path": "capes/Lunar/clownemoji.png",
+   "size": 72480,
+   "sha1": "821c49e24ba494d7c351b4519d779307a35bb7ae"
+  },
+  {
+   "path": "capes/Lunar/coldemoji.png",
+   "size": 44216,
+   "sha1": "4dd9eb249e5f3f193140ef0b689f33539d99050d"
+  },
+  {
+   "path": "capes/Lunar/colorfulpicloak.png",
+   "size": 139237,
+   "sha1": "48fe31ff22f0e68bf875965783f2a75ba9dbc08d"
+  },
+  {
+   "path": "capes/Lunar/croatia.png",
+   "size": 27969,
+   "sha1": "cb5668697028af1f8c144f2d6a69494a64f74b8f"
+  },
+  {
+   "path": "capes/Lunar/darkpurplestripedcloak.png",
+   "size": 465935,
+   "sha1": "da51462277fcd38a18c43ec2efc06464d84d5048"
+  },
+  {
+   "path": "capes/Lunar/dauntless.png",
+   "size": 186833,
+   "sha1": "5e92fcb0b4f0adeefd00fe31e950c265b926b60e"
+  },
+  {
+   "path": "capes/Lunar/devilemoji.png",
+   "size": 54348,
+   "sha1": "0ecf42b008e3edce977f07ad1975fd78c4dbe390"
+  },
+  {
+   "path": "capes/Lunar/die.png",
+   "size": 2022,
+   "sha1": "dd13bbc8c76eda2f13dbd6fb72482f132309b86f"
+  },
+  {
+   "path": "capes/Lunar/discord.png",
+   "size": 7613,
+   "sha1": "b0e1589335120c835d0dd051419d8846afbea976"
+  },
+  {
+   "path": "capes/Lunar/djibouti.png",
+   "size": 25558,
+   "sha1": "a445623ebdee959e38245a66581e3378a106a24b"
+  },
+  {
+   "path": "capes/Lunar/doge.png",
+   "size": 1940,
+   "sha1": "5dbdf63cb29761542e5b11ee64ff42e3f884e646"
+  },
+  {
+   "path": "capes/Lunar/dotwav.png",
+   "size": 3384,
+   "sha1": "2292346dd31a96d814eb15d19847591203578396"
+  },
+  {
+   "path": "capes/Lunar/dotwavoddball.png",
+   "size": 279774,
+   "sha1": "806ab5bdd88bafdc55cc4a0077e6b7d023ca9662"
+  },
+  {
+   "path": "capes/Lunar/dragneel.png",
+   "size": 134744,
+   "sha1": "b0136a10845cd4ef9d476b3b2d74ca267a2c384b"
+  },
+  {
+   "path": "capes/Lunar/easterbasketcloak.png",
+   "size": 8346,
+   "sha1": "67cc154d479cf107165cce6bfa4c7c60404f2873"
+  },
+  {
+   "path": "capes/Lunar/easterblossom.png",
+   "size": 177465,
+   "sha1": "776051c91d25865ea2903b0021808e34204664cd"
+  },
+  {
+   "path": "capes/Lunar/easterbunnyears.png",
+   "size": 79213,
+   "sha1": "0b9a23dbcb17db9453fd80e587643317409d7573"
+  },
+  {
+   "path": "capes/Lunar/easterlunarclient.png",
+   "size": 99637,
+   "sha1": "c4fe039e2f3dd5b6de2ca79eb5b13a6a853d7fb2"
+  },
+  {
+   "path": "capes/Lunar/easterlunarnetwork.png",
+   "size": 223078,
+   "sha1": "96687aad22ab08c41a3e96760e4ba46efccfb888"
+  },
+  {
+   "path": "capes/Lunar/easterteggscloak.png",
+   "size": 5366,
+   "sha1": "b5a82b01ee43061383f2ef6482025e4f00e73d0a"
+  },
+  {
+   "path": "capes/Lunar/emmarose1.png",
+   "size": 1191,
+   "sha1": "fd73ad401da9e473ace305a3f26462cb0c0102df"
+  },
+  {
+   "path": "capes/Lunar/emmarose2.png",
+   "size": 1099,
+   "sha1": "1374bec6bc9ff340e74cf3c1f368eac8f2c3a50e"
+  },
+  {
+   "path": "capes/Lunar/emorsomethingcherry.png",
+   "size": 5289,
+   "sha1": "108d440db70f192140c3bc70730e0f53a4b763ca"
+  },
+  {
+   "path": "capes/Lunar/epaxial.png",
+   "size": 1635,
+   "sha1": "f7275270bc8ea82c2a35c7f4beda732d1774cf5c"
+  },
+  {
+   "path": "capes/Lunar/epaxialcamo.png",
+   "size": 35467,
+   "sha1": "3d4302cdb032127cde1dd8de22ce903f1982f1f6"
+  },
+  {
+   "path": "capes/Lunar/faithfulnetwork.png",
+   "size": 70850,
+   "sha1": "6645472e55e458767ebfaef0ce5befa7886681d2"
+  },
+  {
+   "path": "capes/Lunar/faithfulnetworkblue.png",
+   "size": 291654,
+   "sha1": "555e71d69bf8cc07f4a695563ece5392f3a660d8"
+  },
+  {
+   "path": "capes/Lunar/faze_1.png",
+   "size": 132498,
+   "sha1": "fc01f51522698201a34d67a27a0f3416186667b9"
+  },
+  {
+   "path": "capes/Lunar/faze_2.png",
+   "size": 137259,
+   "sha1": "d14409b91b6f87cdd5a1db9e807341742cf5a629"
+  },
+  {
+   "path": "capes/Lunar/firework.png",
+   "size": 3271,
+   "sha1": "31165895f394509286b0be016215b1e1b6c88bca"
+  },
+  {
+   "path": "capes/Lunar/flag_croatia.png",
+   "size": 27389,
+   "sha1": "3810cfe39772e89fa6d27c0361cd159c5cf6b464"
+  },
+  {
+   "path": "capes/Lunar/france.png",
+   "size": 8592,
+   "sha1": "624efee450c554042061b7b51b42661eee19fccc"
+  },
+  {
+   "path": "capes/Lunar/galaxylogo.png",
+   "size": 536736,
+   "sha1": "4bf50aab1a2e5fb0a3f287c81ae0c9ecbcd8b49b"
+  },
+  {
+   "path": "capes/Lunar/germany.png",
+   "size": 8603,
+   "sha1": "53379c8179232fa5a02a66b70ba5340901ddebec"
+  },
+  {
+   "path": "capes/Lunar/ghost.png",
+   "size": 72526,
+   "sha1": "5d44b4d9d8f3f4a60fc47a18fc620633e01ef08f"
+  },
+  {
+   "path": "capes/Lunar/ghostlyflame.png",
+   "size": 89199,
+   "sha1": "32c2ebf8ed8d697c2fb455d662a898cbf260df03"
+  },
+  {
+   "path": "capes/Lunar/ghostlyhcfblack.png",
+   "size": 62860,
+   "sha1": "f02c01490da53616ed8586b0deaf7ab23f35145b"
+  },
+  {
+   "path": "capes/Lunar/ghostlyhcfred.png",
+   "size": 72720,
+   "sha1": "313cd9abd80aa3475fb06b26c855d45530d72325"
+  },
+  {
+   "path": "capes/Lunar/ghostlystore.png",
+   "size": 112658,
+   "sha1": "8c92585c4ce01e810fa597f03ca26215ffd02c16"
+  },
+  {
+   "path": "capes/Lunar/ghostylyhcf.png",
+   "size": 250175,
+   "sha1": "78ee461e91a62dec972194e9f82db256ff884df5"
+  },
+  {
+   "path": "capes/Lunar/gladenetwork.png",
+   "size": 68469,
+   "sha1": "b569fa6ce0fb160d13370c9721de4186458de296"
+  },
+  {
+   "path": "capes/Lunar/gladenetworkwhite.png",
+   "size": 193513,
+   "sha1": "ba1400cdb0f2733e32114159d1fd4a0ca40e7439"
+  },
+  {
+   "path": "capes/Lunar/glitch_cube.png",
+   "size": 5994,
+   "sha1": "d2c599e5e45877014cae559097888a7bd234ee1e"
+  },
+  {
+   "path": "capes/Lunar/glitch_storm.png",
+   "size": 42704,
+   "sha1": "31eab0ee85f7f4449fb798b2f0c2cb170be30b4f"
+  },
+  {
+   "path": "capes/Lunar/goldenappledark.png",
+   "size": 10526,
+   "sha1": "5cb28cc9d0831149c727406c1697882078bf7f2f"
+  },
+  {
+   "path": "capes/Lunar/goldenapplewhite.png",
+   "size": 286002,
+   "sha1": "eac20de704cfc9b47d9702c72b6fff5c582574cb"
+  },
+  {
+   "path": "capes/Lunar/graecidaisies.png",
+   "size": 1808,
+   "sha1": "f956664e3c764a81b2cb4a664250fa8855dad899"
+  },
+  {
+   "path": "capes/Lunar/grapeapplesauce.png",
+   "size": 3060,
+   "sha1": "cca0916e609de289f137cc0b3cd8b7e7cb7c7efe"
+  },
+  {
+   "path": "capes/Lunar/grapeapplesaucepink.png",
+   "size": 1867,
+   "sha1": "d36a88363d2cc54952a38c45609023f2c2d8d36d"
+  },
+  {
+   "path": "capes/Lunar/graser1.png",
+   "size": 1278,
+   "sha1": "86f15c1e0b8688f79ddb7e0e736efa4bea813676"
+  },
+  {
+   "path": "capes/Lunar/graser2.png",
+   "size": 1957,
+   "sha1": "5f9aaa47c8ddea0f852b1b94e7d484bdbf83a30d"
+  },
+  {
+   "path": "capes/Lunar/graser3.png",
+   "size": 2541,
+   "sha1": "ede46819d58b5ec5b7a07874a751af17d48e600c"
+  },
+  {
+   "path": "capes/Lunar/graser4.png",
+   "size": 2278,
+   "sha1": "5db264209372087caa1029a6b74d6b5b1ab721f8"
+  },
+  {
+   "path": "capes/Lunar/graser5.png",
+   "size": 2447,
+   "sha1": "42a09c91ea4354b86bc2f9a7da31fde1c807f13f"
+  },
+  {
+   "path": "capes/Lunar/greece.png",
+   "size": 8821,
+   "sha1": "0bdf054feeb07d39f1a81098ffb5649e0b17ac20"
+  },
+  {
+   "path": "capes/Lunar/greenbunnyearscloak.png",
+   "size": 1514,
+   "sha1": "b2cb93b9fd96af317b149c02620b05e395252019"
+  },
+  {
+   "path": "capes/Lunar/greenfoglogo.png",
+   "size": 114065,
+   "sha1": "7ef4df8bb474af2bd49c45d4b96bedde475f0234"
+  },
+  {
+   "path": "capes/Lunar/greentiltedlogocloak.png",
+   "size": 51040,
+   "sha1": "7c4698117aa9f3b45662e16f0a64e73073f5ca6e"
+  },
+  {
+   "path": "capes/Lunar/guatemala.png",
+   "size": 29531,
+   "sha1": "9502293fdfe03b472a796be05b154116d22cae1e"
+  },
+  {
+   "path": "capes/Lunar/gunga.png",
+   "size": 296583,
+   "sha1": "372cdd77be4168b68c6ba33094e0741b7d0c3819"
+  },
+  {
+   "path": "capes/Lunar/halloweenbats.png",
+   "size": 4736,
+   "sha1": "5c11bc920d7ba404357b0c6b8d73a67bd268b932"
+  },
+  {
+   "path": "capes/Lunar/halloweenclown.png",
+   "size": 139932,
+   "sha1": "465c31cdc4baf794328e2ec90f0aa0fb6766c1e8"
+  },
+  {
+   "path": "capes/Lunar/halloweengraveyard.png",
+   "size": 172925,
+   "sha1": "0d7fd44bf11a37652cb8f80f4975b7fc3b9610ba"
+  },
+  {
+   "path": "capes/Lunar/halloweenjoker.png",
+   "size": 286484,
+   "sha1": "ac1d784c42d658366a34187dce0c510372a33d02"
+  },
+  {
+   "path": "capes/Lunar/halloweenskull.png",
+   "size": 1994,
+   "sha1": "5e79f05cd40fb9208e5002a955adad2b18f65cc6"
+  },
+  {
+   "path": "capes/Lunar/halloweenspider.png",
+   "size": 5130,
+   "sha1": "b3b2f80f8878aae10a1aaf053a6c91289b4a9c3c"
+  },
+  {
+   "path": "capes/Lunar/halloweenwitch.png",
+   "size": 234670,
+   "sha1": "ac5bb5af87e56716a933c6eb4c710e8d07d84927"
+  },
+  {
+   "path": "capes/Lunar/heart.png",
+   "size": 2167,
+   "sha1": "2a851b8551f95a56b6b6194c9b1aad9348018087"
+  },
+  {
+   "path": "capes/Lunar/heart1.png",
+   "size": 11035,
+   "sha1": "14ab791a9ff27734c5fe0db3eeff929546d0f1cc"
+  },
+  {
+   "path": "capes/Lunar/heart2.png",
+   "size": 11360,
+   "sha1": "1d660f2841b59452eebc7e5c65b371698bcb15f6"
+  },
+  {
+   "path": "capes/Lunar/hearteyesemoji.png",
+   "size": 45027,
+   "sha1": "a3f89761fb6cde67db76e7f0406cc2f23af0de83"
+  },
+  {
+   "path": "capes/Lunar/hesmineleft.png",
+   "size": 4463,
+   "sha1": "66cf53acb7c00eceb5333223e808ef12df817510"
+  },
+  {
+   "path": "capes/Lunar/hesmineright.png",
+   "size": 4451,
+   "sha1": "0d2458cb08f6cf54a3300e7d820c7f904bd59236"
+  },
+  {
+   "path": "capes/Lunar/holdinghands.png",
+   "size": 2742,
+   "sha1": "3d35051a46c45465bb54334668ad1f38a2faab81"
+  },
+  {
+   "path": "capes/Lunar/holyhcfblack.png",
+   "size": 155563,
+   "sha1": "b52525d4b97b32e3a292533a19c37513171883d6"
+  },
+  {
+   "path": "capes/Lunar/holyhcfgold.png",
+   "size": 190989,
+   "sha1": "345e907a89369e5f96129c08a3448b83da525cd9"
+  },
+  {
+   "path": "capes/Lunar/holyhcfgoldborder.png",
+   "size": 50808,
+   "sha1": "a95481463439b523f1537bf23b53148bb88ccaf1"
+  },
+  {
+   "path": "capes/Lunar/holyhcfred.png",
+   "size": 176016,
+   "sha1": "da9a9003da1694a21473b913fe7a8c26b1dd7593"
+  },
+  {
+   "path": "capes/Lunar/holyhcfwhite.png",
+   "size": 168018,
+   "sha1": "c0da25292d3f4a8463581a86ff591490191c6483"
+  },
+  {
+   "path": "capes/Lunar/holyhcfyellow.png",
+   "size": 44167,
+   "sha1": "741df59d71803f188ccaa3dd282fb83afa5b8a5e"
+  },
+  {
+   "path": "capes/Lunar/honor.png",
+   "size": 169234,
+   "sha1": "b90278a94ae574795ffbd4d23da54d0004123acc"
+  },
+  {
+   "path": "capes/Lunar/idiol.png",
+   "size": 612,
+   "sha1": "b47b459106493b8f973ee281445f512c67c03af3"
+  },
+  {
+   "path": "capes/Lunar/idiolturtle.png",
+   "size": 5130,
+   "sha1": "f0b87f716d1069dcd67993f14fee0b8a4d04f02d"
+  },
+  {
+   "path": "capes/Lunar/idk.png",
+   "size": 42283,
+   "sha1": "a9630f0e02f20c3e69aff1f0dc73a0b46fc1a24c"
+  },
+  {
+   "path": "capes/Lunar/imakemcvids3.png",
+   "size": 5835,
+   "sha1": "ee4a61f866676f80cfc8805ebe1633903350b36e"
+  },
+  {
+   "path": "capes/Lunar/imakemcvidz1.png",
+   "size": 5714,
+   "sha1": "0cc21befb7d92cb0f5a87c85db112339b676ea01"
+  },
+  {
+   "path": "capes/Lunar/imakemcvidz2.png",
+   "size": 5714,
+   "sha1": "0d76ca17552be134315624e5d81ae6a033d1aeb9"
+  },
+  {
+   "path": "capes/Lunar/inteledits.png",
+   "size": 1617,
+   "sha1": "b8b23e0970c137bad95ec5faa200c7fc59616c4d"
+  },
+  {
+   "path": "capes/Lunar/ireland.png",
+   "size": 8588,
+   "sha1": "027c2f4b59e0bf94b2db869c07eae052d234319a"
+  },
+  {
+   "path": "capes/Lunar/israel.png",
+   "size": 16094,
+   "sha1": "ffc6e77c7977acf4848a5c946f1721bd22eaa6ad"
+  },
+  {
+   "path": "capes/Lunar/italy.png",
+   "size": 8634,
+   "sha1": "89e4a240e19942f2edf9cf763ab309597585109f"
+  },
+  {
+   "path": "capes/Lunar/itzglimpsered.png",
+   "size": 1245,
+   "sha1": "d5161811caed7deeda9476ba5c6951b41fb1dd84"
+  },
+  {
+   "path": "capes/Lunar/itzglimpseyinyang.png",
+   "size": 1300,
+   "sha1": "3a07e8aa22c4866ec367d4e8997635b9375d9ef2"
+  },
+  {
+   "path": "capes/Lunar/japan.png",
+   "size": 14830,
+   "sha1": "ca22f989ed409e63787e7b2f1620c23a4a0aab78"
+  },
+  {
+   "path": "capes/Lunar/kangaroo.png",
+   "size": 248325,
+   "sha1": "17d84623998aed6d7668f5b325040c7aa2870aaa"
+  },
+  {
+   "path": "capes/Lunar/kangaroofamily.png",
+   "size": 227283,
+   "sha1": "85f3194a016ad6e03cf7a20df16ffb443b7de528"
+  },
+  {
+   "path": "capes/Lunar/kiingtong1.png",
+   "size": 1580,
+   "sha1": "4b97e7cc925071f41d718402d9625283c28f98d4"
+  },
+  {
+   "path": "capes/Lunar/kiingtong2.png",
+   "size": 1409,
+   "sha1": "6ddd33ab25291a52b9a310d4e8a02d02b5513940"
+  },
+  {
+   "path": "capes/Lunar/kiingtongclappedred.png",
+   "size": 1668,
+   "sha1": "ff6638e5c891f10bc3a98fd0ff69bfb7fb79ea3d"
+  },
+  {
+   "path": "capes/Lunar/kiingtongezcalppedwhite.png",
+   "size": 1665,
+   "sha1": "5763d06608e2ec3c0e69f157abd89f56429b18aa"
+  },
+  {
+   "path": "capes/Lunar/kiingtongezclappedwhite.png",
+   "size": 1665,
+   "sha1": "5763d06608e2ec3c0e69f157abd89f56429b18aa"
+  },
+  {
+   "path": "capes/Lunar/kiingtongezdubred.png",
+   "size": 1639,
+   "sha1": "57afd725ccc943b2d7bbdabd4b052403768194c9"
+  },
+  {
+   "path": "capes/Lunar/kiingtonggg.png",
+   "size": 5704,
+   "sha1": "c0d27ec712d2edb46590627a2d84bfcc2c6504b0"
+  },
+  {
+   "path": "capes/Lunar/kiingtonglred.png",
+   "size": 1866,
+   "sha1": "27e6a5f454cd840a2b1c9ba4ad4f6fe9f742bd58"
+  },
+  {
+   "path": "capes/Lunar/kiingtongwhite.png",
+   "size": 2062,
+   "sha1": "246ba2a8e3a092c80b91d874ebd49bba7e5ffc00"
+  },
+  {
+   "path": "capes/Lunar/kiingtongwhite2.png",
+   "size": 2097,
+   "sha1": "340bdff6b00c33db82e56d94de9be256a4ccbdde"
+  },
+  {
+   "path": "capes/Lunar/kiingtongwhite3.png",
+   "size": 2060,
+   "sha1": "36dd1334459c43bb2238492ffb6c718afcb2eb0f"
+  },
+  {
+   "path": "capes/Lunar/king.png",
+   "size": 117148,
+   "sha1": "fb11dc867b95c568bdf805706628624774a75b9d"
+  },
+  {
+   "path": "capes/Lunar/kingrank.png",
+   "size": 117158,
+   "sha1": "f6f11d3ea6d972bf586ad752dd5e219399d5b070"
+  },
+  {
+   "path": "capes/Lunar/kissemoji.png",
+   "size": 48876,
+   "sha1": "58cd15fc8b37ded5c88cf0ffb2955fcc777a3bed"
+  },
+  {
+   "path": "capes/Lunar/kitmapseason1.png",
+   "size": 170749,
+   "sha1": "12e8e5ba520552c0648c1b75ac48d929b369815e"
+  },
+  {
+   "path": "capes/Lunar/kitmaptourney.png",
+   "size": 611789,
+   "sha1": "13e8c29893d14c6c6fb0fc6b42c36b8b9353e17c"
+  },
+  {
+   "path": "capes/Lunar/kittenhearts.png",
+   "size": 1216,
+   "sha1": "ea310937c984453227a81682abf077acf26db142"
+  },
+  {
+   "path": "capes/Lunar/koala.png",
+   "size": 341364,
+   "sha1": "a6cf54dfeed729f80c51502c39250ecfb8e1069f"
+  },
+  {
+   "path": "capes/Lunar/koalafamily.png",
+   "size": 328834,
+   "sha1": "4fc0600dc3e2077de7c63b5e79fec2ccfddf7184"
+  },
+  {
+   "path": "capes/Lunar/krtzyy.png",
+   "size": 340,
+   "sha1": "9867f684d01b70b36f7a4cd9c495e0a6bc0d7a28"
+  },
+  {
+   "path": "capes/Lunar/krtzyymoonscape.png",
+   "size": 6991,
+   "sha1": "c38c77d07da3567b3b893ba9e03b1c6e686be95e"
+  },
+  {
+   "path": "capes/Lunar/lctesterred.png",
+   "size": 80701,
+   "sha1": "0243651b2c16b70eeee3a45ca7631afcffca34e3"
+  },
+  {
+   "path": "capes/Lunar/legomaestro.png",
+   "size": 3562,
+   "sha1": "2e73a4b7b95616b53350d0041878ccd721d01589"
+  },
+  {
+   "path": "capes/Lunar/lightbluestripedcloak.png",
+   "size": 424812,
+   "sha1": "736626e840c41c4e45912d00972c523ab3deb46e"
+  },
+  {
+   "path": "capes/Lunar/lightgreenlunarclover.png",
+   "size": 108339,
+   "sha1": "434e4c232cdc8a2ca4a2486b90e510043d7f1345"
+  },
+  {
+   "path": "capes/Lunar/lightpinkstripedcloak.png",
+   "size": 412882,
+   "sha1": "8239f68cb91db69a1fb6ca58ac7de1832acc6ce6"
+  },
+  {
+   "path": "capes/Lunar/lithuania.png",
+   "size": 8713,
+   "sha1": "52f935cb879d18b9ca477d8757f025ed028a4684"
+  },
+  {
+   "path": "capes/Lunar/lolitsalexcottagecore.png",
+   "size": 12719,
+   "sha1": "a8a1dbcb7825a3079457a3916f373056444a5f11"
+  },
+  {
+   "path": "capes/Lunar/lolitsalexkoifish.png",
+   "size": 3921,
+   "sha1": "f9473fb700ad0505265fad40158dbed818459d1b"
+  },
+  {
+   "path": "capes/Lunar/looshyicecream.png",
+   "size": 2052,
+   "sha1": "9607af776c68ddc9b1bd2e9851734aa00f8d7c2d"
+  },
+  {
+   "path": "capes/Lunar/looshystrawberryicecream.png",
+   "size": 2053,
+   "sha1": "4990a94c78703058f92f9fd036f35c0c3df9ba8c"
+  },
+  {
+   "path": "capes/Lunar/loyalty.png",
+   "size": 174935,
+   "sha1": "e52ad06dfa7e41acd47f1fd45a7fab73c5153446"
+  },
+  {
+   "path": "capes/Lunar/lunar_client_1.png",
+   "size": 59047,
+   "sha1": "fd6585c5de4a7b2ce9a4712de123fba026c7d54d"
+  },
+  {
+   "path": "capes/Lunar/lunar_client_2.png",
+   "size": 208211,
+   "sha1": "d95b57e9b92ffbab3ab634058f803b31f97c0dd0"
+  },
+  {
+   "path": "capes/Lunar/lunar_client_3.png",
+   "size": 208013,
+   "sha1": "3f1ee6bb62f50b6542abb65fc7c338b4638c3457"
+  },
+  {
+   "path": "capes/Lunar/lunar_client_4.png",
+   "size": 26051,
+   "sha1": "37b21a072cf9b424e86dfd80d7de38e466094d97"
+  },
+  {
+   "path": "capes/Lunar/lunar_client_5.png",
+   "size": 246806,
+   "sha1": "33af99672d0cca078ba55ad68195391ef58bb283"
+  },
+  {
+   "path": "capes/Lunar/lunar_client_6.png",
+   "size": 313785,
+   "sha1": "11b72f2ea1975f0d82de60820b5ad6c910b84258"
+  },
+  {
+   "path": "capes/Lunar/lunar_client_7.png",
+   "size": 227627,
+   "sha1": "15b8b7043b421f5e65d13f20cd610f6feb2b60b7"
+  },
+  {
+   "path": "capes/Lunar/lunar_network_1.png",
+   "size": 22501,
+   "sha1": "ac29e1d7775c31a87174ca99fdf4d5118615258f"
+  },
+  {
+   "path": "capes/Lunar/lunar_network_2.png",
+   "size": 317353,
+   "sha1": "e5e2bd08be87619b42aafc7a3eebff795fbc241e"
+  },
+  {
+   "path": "capes/Lunar/lunar_network_3.png",
+   "size": 25796,
+   "sha1": "28c8a75f46312d86f2a3e653e229e95b1e538488"
+  },
+  {
+   "path": "capes/Lunar/lunaraqua.png",
+   "size": 306040,
+   "sha1": "98198c611264898c18b40ba0d53f69334ddf60cd"
+  },
+  {
+   "path": "capes/Lunar/lunarbedwarstourney.png",
+   "size": 368858,
+   "sha1": "bf8c20b7f207cf9fbcef0c9d5387742fa2947748"
+  },
+  {
+   "path": "capes/Lunar/lunarchampsgold.png",
+   "size": 197068,
+   "sha1": "adb4ad16971c70ad5e919aeb98683b977d0ae8bd"
+  },
+  {
+   "path": "capes/Lunar/lunarchampsgoldaug21.png",
+   "size": 266331,
+   "sha1": "18a8f6b2efb83b0d6497ad9c8796ceca9d443b38"
+  },
+  {
+   "path": "capes/Lunar/lunarchampssilver.png",
+   "size": 196078,
+   "sha1": "0bf30eb3784b6927ed132a0c90393ef7692975d3"
+  },
+  {
+   "path": "capes/Lunar/lunarchampssilveraug21.png",
+   "size": 238682,
+   "sha1": "8dbaaa9c9ab97c88729177c19f0ac93424723c34"
+  },
+  {
+   "path": "capes/Lunar/lunarclientblue.png",
+   "size": 299742,
+   "sha1": "41812a148334fdf7b3909953da05ca8fef02a4db"
+  },
+  {
+   "path": "capes/Lunar/lunarclientsilver2.png",
+   "size": 404706,
+   "sha1": "82e59da3178b28de81c711654a9245ac7e87f6c8"
+  },
+  {
+   "path": "capes/Lunar/lunarclientstaff2.png",
+   "size": 74739,
+   "sha1": "8c2b6fd195325fcb23d347e8d4636fce05ad38dc"
+  },
+  {
+   "path": "capes/Lunar/lunarcomicsblackandhiwtecloak.png",
+   "size": 97396,
+   "sha1": "ffe6e8f3313bdade126f7c19c61727d62aef4bb3"
+  },
+  {
+   "path": "capes/Lunar/lunarcomicscolurfulcloak.png",
+   "size": 448302,
+   "sha1": "a1d65292d89b4b1a358e916a3a5bc7f978d0c4e1"
+  },
+  {
+   "path": "capes/Lunar/lunarcomicsorangecloak.png",
+   "size": 187525,
+   "sha1": "d1dbd3fdd64b25ba2cc93667111f6ab6be10c5cb"
+  },
+  {
+   "path": "capes/Lunar/lunarcomicsredcloak.png",
+   "size": 186431,
+   "sha1": "6e49d9baa2b57961936045507849efbae498fe58"
+  },
+  {
+   "path": "capes/Lunar/lunarcomicsyellowcloak.png",
+   "size": 300981,
+   "sha1": "b1550df845e08a61248d98ed67c676cb5d1fe994"
+  },
+  {
+   "path": "capes/Lunar/lunardaisy.png",
+   "size": 138934,
+   "sha1": "a8268092bb287a5c6f7249db1d3833acce016c08"
+  },
+  {
+   "path": "capes/Lunar/lunarflame.png",
+   "size": 164003,
+   "sha1": "f86d4d03aadc4d7c5a1ef9fe6f5005d6b865bdc4"
+  },
+  {
+   "path": "capes/Lunar/lunarfriends.png",
+   "size": 13755,
+   "sha1": "67c37f589151449cd0a9a3fd64e6ddf0ffe144d3"
+  },
+  {
+   "path": "capes/Lunar/lunarhalloween.png",
+   "size": 313236,
+   "sha1": "74e01f0aa37468fe9ef55d28c701904d6e4d4255"
+  },
+  {
+   "path": "capes/Lunar/lunarirelandlogo.png",
+   "size": 43181,
+   "sha1": "9208f967e69037b8f8908c6aca5aae532c67787e"
+  },
+  {
+   "path": "capes/Lunar/lunarjackpotblack.png",
+   "size": 80599,
+   "sha1": "319251a0a9c4eebc9d699fc1bde4dd1acac69803"
+  },
+  {
+   "path": "capes/Lunar/lunarjackpotblue.png",
+   "size": 414988,
+   "sha1": "384476bc80e32eeb03ce3d421da4c2a07f6e8566"
+  },
+  {
+   "path": "capes/Lunar/lunarjuly1.png",
+   "size": 84126,
+   "sha1": "88498e7a7214624e25aba0e1b6fbd359c9ad0e61"
+  },
+  {
+   "path": "capes/Lunar/lunarjuly2.png",
+   "size": 145129,
+   "sha1": "bd9b54c3f1935b50a9e008357218a4cbdfc61966"
+  },
+  {
+   "path": "capes/Lunar/lunarjuly3.png",
+   "size": 154381,
+   "sha1": "9c955ee3e818bcd23c7298b702907aad100a4f05"
+  },
+  {
+   "path": "capes/Lunar/lunarlightning.png",
+   "size": 323135,
+   "sha1": "55020a1f7153814166c9530a620abef5f7755de9"
+  },
+  {
+   "path": "capes/Lunar/lunarnetworkstore.png",
+   "size": 17166,
+   "sha1": "f4189f260f2b6544a3d6dd97267abb48f44291d6"
+  },
+  {
+   "path": "capes/Lunar/lunarshowdown1.png",
+   "size": 67947,
+   "sha1": "226abe00a6ea81b64ae61b1952a466556091fe2d"
+  },
+  {
+   "path": "capes/Lunar/lunarshowdown2.png",
+   "size": 358230,
+   "sha1": "aa50c8daaae0a71aaa1b4ce9279f7e18e5498008"
+  },
+  {
+   "path": "capes/Lunar/lunarspringterrain.png",
+   "size": 289432,
+   "sha1": "a509a0020b25afca68be8223dad41e900e96d515"
+  },
+  {
+   "path": "capes/Lunar/lunarstaffblack.png",
+   "size": 31346,
+   "sha1": "d4ca903a3907cb84616aa8779fa2386a19d8bcd7"
+  },
+  {
+   "path": "capes/Lunar/lunarstaffwhite.png",
+   "size": 32726,
+   "sha1": "63085f36d96dea37a82405291370b06a5a9d3d5f"
+  },
+  {
+   "path": "capes/Lunar/lunarstars.png",
+   "size": 174871,
+   "sha1": "3ea4df813e8249b9c0efd1fe3231b6229a2e463a"
+  },
+  {
+   "path": "capes/Lunar/lunarsummer1.png",
+   "size": 148237,
+   "sha1": "1e4b6267d878745c9a46fb8bbc809772f082db73"
+  },
+  {
+   "path": "capes/Lunar/lunarsummer2.png",
+   "size": 186255,
+   "sha1": "a01876684fc21ad8ea4cfeb42e024db22b2c5234"
+  },
+  {
+   "path": "capes/Lunar/lunarsummer3.png",
+   "size": 222633,
+   "sha1": "38123de4ceac59e92832defaedf43e6d165d6eaf"
+  },
+  {
+   "path": "capes/Lunar/lunarsummer4.png",
+   "size": 1462,
+   "sha1": "e0c92ed563a7712a4f1b54aa1946c2f729ba0398"
+  },
+  {
+   "path": "capes/Lunar/lunarsummer5.png",
+   "size": 728,
+   "sha1": "5c475aadace23ba7efe75c5beb69511dce51b871"
+  },
+  {
+   "path": "capes/Lunar/lunarsummer6.png",
+   "size": 571,
+   "sha1": "9eaa0dd39513165c73790f59adf03841d98b3728"
+  },
+  {
+   "path": "capes/Lunar/lunarsummer7.png",
+   "size": 687,
+   "sha1": "dd97181713a72177e2a7059a92849c76b0b3cfad"
+  },
+  {
+   "path": "capes/Lunar/lunartranslator.png",
+   "size": 54488,
+   "sha1": "0577b99ee4fc18fbba4a34abc3a4981a5fcf5e5a"
+  },
+  {
+   "path": "capes/Lunar/maccaritablue.png",
+   "size": 6075,
+   "sha1": "217c427dacc8452305b4e4e7f3949df69b77b4e6"
+  },
+  {
+   "path": "capes/Lunar/map1eotw.png",
+   "size": 314025,
+   "sha1": "656c0c03af46619af03edd57e4ed0463826dc908"
+  },
+  {
+   "path": "capes/Lunar/map1nasa.png",
+   "size": 212080,
+   "sha1": "5b69d42e0505ed8321f2ec9c777be5e31d994df9"
+  },
+  {
+   "path": "capes/Lunar/marcel.png",
+   "size": 566,
+   "sha1": "399815c9082fbd5d0c2ae1965221c328332a2052"
+  },
+  {
+   "path": "capes/Lunar/marceldarkdoge.png",
+   "size": 2025,
+   "sha1": "f6ce31de1530cff3f8d4831a1088b1782d22e12b"
+  },
+  {
+   "path": "capes/Lunar/marcellightdoge.png",
+   "size": 1522,
+   "sha1": "ed0660f4abe665094a186f7bda0b8dbab767a146"
+  },
+  {
+   "path": "capes/Lunar/marcelred1.png",
+   "size": 1084,
+   "sha1": "b0f658ee76084860b811599e8a9ce50474d198e6"
+  },
+  {
+   "path": "capes/Lunar/marcelred2.png",
+   "size": 1520,
+   "sha1": "ba8b4d0127c24a77a15431258ff57c4c501758d1"
+  },
+  {
+   "path": "capes/Lunar/marcelsword1.png",
+   "size": 2331,
+   "sha1": "44d0695578db16410ea4c246d210e8345de995e9"
+  },
+  {
+   "path": "capes/Lunar/marcelsword2.png",
+   "size": 2334,
+   "sha1": "45c509bb88d0f42ab65fbc6cc9f6af3664d42446"
+  },
+  {
+   "path": "capes/Lunar/marcelsword3.png",
+   "size": 2259,
+   "sha1": "8d77272cbd8bd384bc40e4b88540cf3ff0cdcc0e"
+  },
+  {
+   "path": "capes/Lunar/mcblockdaily.png",
+   "size": 48403,
+   "sha1": "85d8f9a420ad59078d068300ea3f85ab0be59bed"
+  },
+  {
+   "path": "capes/Lunar/mcteamsblack.png",
+   "size": 151620,
+   "sha1": "a0c0a7e61ce65dbc0cd06680b4b4405ad8633a78"
+  },
+  {
+   "path": "capes/Lunar/mcteamscape.png",
+   "size": 575569,
+   "sha1": "b16639aeff9301317169c8a159a034349bdf6abf"
+  },
+  {
+   "path": "capes/Lunar/mcteamsglitch.png",
+   "size": 197007,
+   "sha1": "7a9151e97c219c6e36508f47efb57d92a1bcfeb1"
+  },
+  {
+   "path": "capes/Lunar/mcteamsrainbow.png",
+   "size": 161202,
+   "sha1": "8abde59ea2b83f6d25fbc87b4547edb371970810"
+  },
+  {
+   "path": "capes/Lunar/mcucloak.png",
+   "size": 155934,
+   "sha1": "28275780e8b18285253bff2c758c21d51f4ce6e0"
+  },
+  {
+   "path": "capes/Lunar/meezoid.png",
+   "size": 1796,
+   "sha1": "1ac0e404ab366db813e3a3f4be2ed4c041bffc45"
+  },
+  {
+   "path": "capes/Lunar/megapvpgold.png",
+   "size": 3366,
+   "sha1": "48bb8419fabfe98b6f4a61c3d325d30478af8512"
+  },
+  {
+   "path": "capes/Lunar/megapvpred.png",
+   "size": 3244,
+   "sha1": "a7048ffa1ce9c739549dc08faca0c93944469de6"
+  },
+  {
+   "path": "capes/Lunar/meltdown.png",
+   "size": 8242,
+   "sha1": "e542292af3732946cacb036ac3fea154b7abfdad"
+  },
+  {
+   "path": "capes/Lunar/metalicsilveraugust.png",
+   "size": 442790,
+   "sha1": "77681fb2b47095b7fa2d5232093c4a1ea28f3d9b"
+  },
+  {
+   "path": "capes/Lunar/mexico.png",
+   "size": 36981,
+   "sha1": "733f7a3e4911ce00feedd08d9cc93882a1553718"
+  },
+  {
+   "path": "capes/Lunar/midnightgrayaugust.png",
+   "size": 111795,
+   "sha1": "5a19bce7e47fa9c362bc93bc0ffd42ab6422c9ce"
+  },
+  {
+   "path": "capes/Lunar/migration.png",
+   "size": 461,
+   "sha1": "2fd6f87f38f2e2091ac2050beeee166acb3d2253"
+  },
+  {
+   "path": "capes/Lunar/migration_cape-1.png",
+   "size": 235500,
+   "sha1": "c1636ff9d0707c8a47e325fb9188e9c2d16fe096"
+  },
+  {
+   "path": "capes/Lunar/migration_cape.png",
+   "size": 85255,
+   "sha1": "57fb3482e5f764119ad2cbe14e48bb282200a36a"
+  },
+  {
+   "path": "capes/Lunar/minejunkiered.png",
+   "size": 236740,
+   "sha1": "81a1e434c4bbdd696d9babbe424290eb9b63d22a"
+  },
+  {
+   "path": "capes/Lunar/minejunkiesnow.png",
+   "size": 271720,
+   "sha1": "e755c0f352674877d37c2a3716515e3f316fe685"
+  },
+  {
+   "path": "capes/Lunar/mojira.png",
+   "size": 1216,
+   "sha1": "9f21e477d272827892cea5f1b8bc7c7e2e9eb34a"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_1.png",
+   "size": 5668,
+   "sha1": "f85e9bdc306d1cb472d7ef8d0a5cc39ead68d141"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_2.png",
+   "size": 20283,
+   "sha1": "84eda8ac99ac3a64536301d20ad04a64eaf22cb9"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_3.png",
+   "size": 12929,
+   "sha1": "ef944ac00caa9b60b6ede6a81ed5c5a28ae81d53"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_4.png",
+   "size": 19005,
+   "sha1": "34e024b0ef5353ae1bc0efa891517358d826df5d"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_5.png",
+   "size": 16412,
+   "sha1": "f820233c7a9385d45cf9e6c71816a588b4771e20"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_6.png",
+   "size": 19945,
+   "sha1": "59a6b3406b582491b149836879c434fd1098f202"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_7.png",
+   "size": 299034,
+   "sha1": "1fbb444d128487ec2ba230dac3eeb64d3e63077f"
+  },
+  {
+   "path": "capes/Lunar/moonsworth_8.png",
+   "size": 401487,
+   "sha1": "e3de3deede41da9f85e0c7289e1bc7f85b4e9ccf"
+  },
+  {
+   "path": "capes/Lunar/mountain.png",
+   "size": 2118,
+   "sha1": "29c5e7848c0d702728b8ce736080eb3a526ec974"
+  },
+  {
+   "path": "capes/Lunar/mythicblack.png",
+   "size": 341863,
+   "sha1": "ab3cceaf6f147cdd9575b57f5e70ded9fd6852ba"
+  },
+  {
+   "path": "capes/Lunar/mythicwhite.png",
+   "size": 343816,
+   "sha1": "638621745970904cc40eb4534700e51a208c9232"
+  },
+  {
+   "path": "capes/Lunar/nasa.png",
+   "size": 176607,
+   "sha1": "494122ed658b1a7e1e2586343f7af4477ba680d4"
+  },
+  {
+   "path": "capes/Lunar/nehnehgreen.png",
+   "size": 232157,
+   "sha1": "11f1a3ee7dc85fd6a8649c64ba96df34962a9077"
+  },
+  {
+   "path": "capes/Lunar/nehnehpurple.png",
+   "size": 503785,
+   "sha1": "8c09118d65c94189f2e7fa166d55a03c6364818d"
+  },
+  {
+   "path": "capes/Lunar/nehnehred.png",
+   "size": 481274,
+   "sha1": "cfff00ad837442069a7005f57e5bb0c5e3ab0f21"
+  },
+  {
+   "path": "capes/Lunar/nehnehrose.png",
+   "size": 491819,
+   "sha1": "3cf0add92f0cccee609dcfc16ffac9e765d7dd4e"
+  },
+  {
+   "path": "capes/Lunar/nerdemoji.png",
+   "size": 43635,
+   "sha1": "87d959ee3b40c4411ee826f6121c553e861d7ea3"
+  },
+  {
+   "path": "capes/Lunar/netherlands.png",
+   "size": 8687,
+   "sha1": "73cc1e323c31a15db82605f03be9feba09c060c5"
+  },
+  {
+   "path": "capes/Lunar/new_year.png",
+   "size": 1453,
+   "sha1": "1e1dcc5e00e05b2e58c3baa647408cfb96dcbb1a"
+  },
+  {
+   "path": "capes/Lunar/newyear2020.png",
+   "size": 242808,
+   "sha1": "a2e59a012be7763d40e56e1ace6a87b8e4cefdec"
+  },
+  {
+   "path": "capes/Lunar/newyearfireworks.png",
+   "size": 203740,
+   "sha1": "260ba0a2810b758db6a999f1d2def949c2e070ed"
+  },
+  {
+   "path": "capes/Lunar/newzealand.png",
+   "size": 38168,
+   "sha1": "0ad99b95f5320a90a39fc80f7eb3d5569314a7c1"
+  },
+  {
+   "path": "capes/Lunar/norway.png",
+   "size": 8716,
+   "sha1": "c54c59cad07b1d5195ebbd9b9c0f355bc1b93a0d"
+  },
+  {
+   "path": "capes/Lunar/notnicoblue.png",
+   "size": 5290,
+   "sha1": "22cc76e5a088de7549d7c98428729d984c299dcc"
+  },
+  {
+   "path": "capes/Lunar/notnicosunset.png",
+   "size": 4645,
+   "sha1": "78132a5105a3494c929bf24bcf0deaf498f08246"
+  },
+  {
+   "path": "capes/Lunar/nrg.png",
+   "size": 125836,
+   "sha1": "de88db1c4abed5e22aaf22c257aac020583b8eaa"
+  },
+  {
+   "path": "capes/Lunar/orangefoglogo.png",
+   "size": 89620,
+   "sha1": "df04bf8c40a6b91e7ae53ea0dc0af72b3388f10a"
+  },
+  {
+   "path": "capes/Lunar/orangelunareggs.png",
+   "size": 246440,
+   "sha1": "9cb2edf97d9dfa8933e4829dd51f2278f6e38dcc"
+  },
+  {
+   "path": "capes/Lunar/orangetiltedlogocloak.png",
+   "size": 44185,
+   "sha1": "e216fdfa19d134648d6263aabed5b8d70bdd5bb0"
+  },
+  {
+   "path": "capes/Lunar/palikka1.png",
+   "size": 1035,
+   "sha1": "0469bc61e9e50754b739f6468257dd194244a4d9"
+  },
+  {
+   "path": "capes/Lunar/pancape.png",
+   "size": 1143,
+   "sha1": "daa33e69d5df930f887cb4fb33a1356a58c9dc00"
+  },
+  {
+   "path": "capes/Lunar/pearlwhiteaugust.png",
+   "size": 108340,
+   "sha1": "186c16f83a2e98a167b916d88e4a6d77c5122573"
+  },
+  {
+   "path": "capes/Lunar/peru.png",
+   "size": 41897,
+   "sha1": "c83a6e8205fd41002c6d5026dd65eb4830b70588"
+  },
+  {
+   "path": "capes/Lunar/pi_black.png",
+   "size": 12692,
+   "sha1": "c5862be670ccaa8c7cce9f3c96c6dbac21fc56c2"
+  },
+  {
+   "path": "capes/Lunar/pi_white.png",
+   "size": 14263,
+   "sha1": "c3998330c4f27a1c91fc4bcf399552d4669de3d7"
+  },
+  {
+   "path": "capes/Lunar/pinkandwhitehearts.png",
+   "size": 693,
+   "sha1": "cd8b5b3bb82777f257d1cb56def5042a85296afa"
+  },
+  {
+   "path": "capes/Lunar/pinkawarenessheart.png",
+   "size": 74108,
+   "sha1": "162c10f5f9604cc5e88a4afba9e997545ad47157"
+  },
+  {
+   "path": "capes/Lunar/pinklunartulips.png",
+   "size": 226733,
+   "sha1": "7cac5001e00b1ea345b805cf1d88c8297e056b4c"
+  },
+  {
+   "path": "capes/Lunar/pinkstripedcloak.png",
+   "size": 495321,
+   "sha1": "688e4f762d074bd79f86b26c513e232cfcba77d7"
+  },
+  {
+   "path": "capes/Lunar/pixelatedblack.png",
+   "size": 27626,
+   "sha1": "eaddef5726319509d4dd06c7376933f9dd2bc9fe"
+  },
+  {
+   "path": "capes/Lunar/pixelatedblue.png",
+   "size": 30944,
+   "sha1": "92330232846c71f3356a760806961b832f818f9a"
+  },
+  {
+   "path": "capes/Lunar/pixelatedcyan.png",
+   "size": 30161,
+   "sha1": "3ba341650fd7d300e136c60f676d825f0b34f498"
+  },
+  {
+   "path": "capes/Lunar/pixelatedgold.png",
+   "size": 30415,
+   "sha1": "4ff0f08cbe59b4a25843c371529752df4f3fe623"
+  },
+  {
+   "path": "capes/Lunar/pixelatedgreen.png",
+   "size": 31793,
+   "sha1": "a3c507bbe1fca45abaa0ba96632d8c281e0f3cdd"
+  },
+  {
+   "path": "capes/Lunar/pixelatedpink.png",
+   "size": 30699,
+   "sha1": "6473f947bb2925c8d244a1493cb89758f84b3bb2"
+  },
+  {
+   "path": "capes/Lunar/pixelatedpurple.png",
+   "size": 31335,
+   "sha1": "07f5e46db646b867493beca0ceb0b83a7dc80b5d"
+  },
+  {
+   "path": "capes/Lunar/pixelatedred.png",
+   "size": 29981,
+   "sha1": "146884eca8bd68640e02476aad4c65c6f265acfc"
+  },
+  {
+   "path": "capes/Lunar/poland.png",
+   "size": 8645,
+   "sha1": "42a77594fd2fe9ade7b304ed97adbc24f9f9ea51"
+  },
+  {
+   "path": "capes/Lunar/portugal.png",
+   "size": 39123,
+   "sha1": "0b57cb65fbd2f925420b631af8db946ae16846b1"
+  },
+  {
+   "path": "capes/Lunar/potsgwinner1.png",
+   "size": 153177,
+   "sha1": "54a7990be79aea1a440243ff01f4b8bf3ecf95dc"
+  },
+  {
+   "path": "capes/Lunar/pride.png",
+   "size": 8711,
+   "sha1": "96c2c691fced9a7917b8788b130c50b8edb27413"
+  },
+  {
+   "path": "capes/Lunar/punch.png",
+   "size": 12037,
+   "sha1": "4115d67ed7787d3c9793b5eb38224257a6970909"
+  },
+  {
+   "path": "capes/Lunar/purplefoglogo.png",
+   "size": 206730,
+   "sha1": "77aa6849e62868da503d864da0f4aa6369dea811"
+  },
+  {
+   "path": "capes/Lunar/purpletiltedlogocloak.png",
+   "size": 50334,
+   "sha1": "d242ddc4e80091df2f2a0a937e06a166867c852e"
+  },
+  {
+   "path": "capes/Lunar/puxqh.png",
+   "size": 663283,
+   "sha1": "94ff2bd703c16388716992a27cbb7c15e89cc51d"
+  },
+  {
+   "path": "capes/Lunar/pyronicblack.png",
+   "size": 137207,
+   "sha1": "e2e492de98350a9c8fffae8cc492d0a5b5b071d4"
+  },
+  {
+   "path": "capes/Lunar/pyronicred.png",
+   "size": 304877,
+   "sha1": "df58df97b876bc2cef6aa8dbe3ac1a4e2395dc33"
+  },
+  {
+   "path": "capes/Lunar/pyronicredorange.png",
+   "size": 497521,
+   "sha1": "e7c95b93e5830858b87ef71c7929843bb7db7c23"
+  },
+  {
+   "path": "capes/Lunar/rain.png",
+   "size": 957,
+   "sha1": "607c6435ecd5e5a247a8522cb3904ef511e2ab5f"
+  },
+  {
+   "path": "capes/Lunar/raindynasty.png",
+   "size": 2194,
+   "sha1": "8ced59933bc800541b0b2e1f630437afffb611e0"
+  },
+  {
+   "path": "capes/Lunar/rankedbedwars.png",
+   "size": 34543,
+   "sha1": "aa576ce0606e3ce9852c43b6651bc1d9ef378e70"
+  },
+  {
+   "path": "capes/Lunar/rankedbedwarsmap.png",
+   "size": 392311,
+   "sha1": "3217105efd7cee27c55e54cb940ce4ccb404871d"
+  },
+  {
+   "path": "capes/Lunar/rankedbedwarswhite.png",
+   "size": 31234,
+   "sha1": "ef41fc55624cbcbd6c8cdd071fda21ca4676a8d4"
+  },
+  {
+   "path": "capes/Lunar/rapidraidz.png",
+   "size": 184163,
+   "sha1": "56cf1c3838a3f011c9e8cb67bf4eabd840d16e72"
+  },
+  {
+   "path": "capes/Lunar/raspberrypinkaugust.png",
+   "size": 130957,
+   "sha1": "0f520c8216c0b8f5d1cd12e336fbbe3da4fe0c01"
+  },
+  {
+   "path": "capes/Lunar/realms.png",
+   "size": 1236,
+   "sha1": "c17bddc1610a25b9f93b35034e66eff40c32d81a"
+  },
+  {
+   "path": "capes/Lunar/redfoglogo.png",
+   "size": 55875,
+   "sha1": "ce22d7bf81df989d616772f21d3a9edceca37a1f"
+  },
+  {
+   "path": "capes/Lunar/redorangestripedcloak.png",
+   "size": 419756,
+   "sha1": "d48f9b1d0b066c2be28a479a2e6e3a5f29512ef8"
+  },
+  {
+   "path": "capes/Lunar/redstripedcloak.png",
+   "size": 307339,
+   "sha1": "d48a995e465e41cf016895c58aabca11b91d9c9d"
+  },
+  {
+   "path": "capes/Lunar/redsupreme.png",
+   "size": 175540,
+   "sha1": "ee56719ac8567b23f06d75311bcf12a5c0094f54"
+  },
+  {
+   "path": "capes/Lunar/redtiltedlogocloak.png",
+   "size": 50110,
+   "sha1": "a5044315ffdd52c50c7a7b377551b23851cbec0e"
+  },
+  {
+   "path": "capes/Lunar/refraction.png",
+   "size": 2805,
+   "sha1": "5c1250652cef14f287798cf9f68d7eae4e064538"
+  },
+  {
+   "path": "capes/Lunar/refractionsugar.png",
+   "size": 1401,
+   "sha1": "9c0cea0261ce8d8bec11b44868d8d6ff901ed79f"
+  },
+  {
+   "path": "capes/Lunar/requiem.png",
+   "size": 119887,
+   "sha1": "02cce1b4a491fe4619a080e876b8e82a2c6f1e08"
+  },
+  {
+   "path": "capes/Lunar/retirementhome.png",
+   "size": 252799,
+   "sha1": "1bed2730764c6dc536394dbcbdb8c549a5898ddf"
+  },
+  {
+   "path": "capes/Lunar/rky.png",
+   "size": 725,
+   "sha1": "35a79d091150600896c134ee4deaf3b0902cd543"
+  },
+  {
+   "path": "capes/Lunar/rkycake.png",
+   "size": 1793,
+   "sha1": "95d949c645b784b8a602a354beab8892da5ac604"
+  },
+  {
+   "path": "capes/Lunar/rkycarrot.png",
+   "size": 836,
+   "sha1": "dadabc2499d125bf2fb3a97cc94a670a799a2c2d"
+  },
+  {
+   "path": "capes/Lunar/rkychungus.png",
+   "size": 5127,
+   "sha1": "93c86e80cd9a26aec23a3720e65ee4bd67bd1cd4"
+  },
+  {
+   "path": "capes/Lunar/rkyspringbunny.png",
+   "size": 3523,
+   "sha1": "744a095b81864067af4b63352828748f08372bf2"
+  },
+  {
+   "path": "capes/Lunar/russia.png",
+   "size": 8791,
+   "sha1": "60a506caf0c30b88eb1eba5b7c8067c0554bfb19"
+  },
+  {
+   "path": "capes/Lunar/s5archer.png",
+   "size": 212763,
+   "sha1": "7392dab90f3548d1a6f0b3a605a6bc0eacb813be"
+  },
+  {
+   "path": "capes/Lunar/s5axe.png",
+   "size": 209983,
+   "sha1": "33aa2e65db0f39930ea8e57c969ab647a46bd8af"
+  },
+  {
+   "path": "capes/Lunar/s5bridges.png",
+   "size": 209073,
+   "sha1": "5ec419203fb9d55182d7fc3d8e4ac5a28d079eae"
+  },
+  {
+   "path": "capes/Lunar/s5builduhc.png",
+   "size": 228049,
+   "sha1": "3a672860b0794ff70ae99fa2d3e884f2f0e0c7e4"
+  },
+  {
+   "path": "capes/Lunar/s5debuff.png",
+   "size": 221229,
+   "sha1": "48bfc48857330e2314c19ef8b4823b43322cb8af"
+  },
+  {
+   "path": "capes/Lunar/s5global.png",
+   "size": 247077,
+   "sha1": "68ae9739faf961ad37ef17da02b5293b97ac0586"
+  },
+  {
+   "path": "capes/Lunar/s5nodebuff.png",
+   "size": 213551,
+   "sha1": "eb79730727744f7093645c72da07c0327e467d5f"
+  },
+  {
+   "path": "capes/Lunar/s5soup.png",
+   "size": 212980,
+   "sha1": "c87794eaab94566d84f48ec58563d3ac4d3ee625"
+  },
+  {
+   "path": "capes/Lunar/s5vanilla.png",
+   "size": 229105,
+   "sha1": "6650fdb9fb34c3f5f2c8c97f7cd9da6a4341e8ed"
+  },
+  {
+   "path": "capes/Lunar/s8archer.png",
+   "size": 442597,
+   "sha1": "f4600f30bcd6daf444c80f367aad887c315b969f"
+  },
+  {
+   "path": "capes/Lunar/s8axe.png",
+   "size": 427609,
+   "sha1": "38d44fa5496f8161f2c8f2776db298f935d937b7"
+  },
+  {
+   "path": "capes/Lunar/s8bridges.png",
+   "size": 441073,
+   "sha1": "8fad5d89bce20836571796e1951c1c893b157e33"
+  },
+  {
+   "path": "capes/Lunar/s8builduhc.png",
+   "size": 437802,
+   "sha1": "ff9ca8303f3ed1b5738b33bba82d80df6f8f0e47"
+  },
+  {
+   "path": "capes/Lunar/s8debuff.png",
+   "size": 422541,
+   "sha1": "39c759afb0f36e05f600ec4b5b1f684b0a2a3502"
+  },
+  {
+   "path": "capes/Lunar/s8global.png",
+   "size": 453434,
+   "sha1": "f53b1cd02a01eb387423a5e127ffb4d712d00e88"
+  },
+  {
+   "path": "capes/Lunar/s8nodebuff.png",
+   "size": 431439,
+   "sha1": "55c63fb9c7fdceb23d3819855672e63b04ab08e2"
+  },
+  {
+   "path": "capes/Lunar/s8soup.png",
+   "size": 427776,
+   "sha1": "74528aa73e89f7559d837693299fde819ba2be31"
+  },
+  {
+   "path": "capes/Lunar/s8vanilla.png",
+   "size": 439444,
+   "sha1": "4817a616ab124bc4ccff3e4f5f36b2e38f029636"
+  },
+  {
+   "path": "capes/Lunar/sad.png",
+   "size": 256,
+   "sha1": "0eb76505422583ed02f7bce72e01bdb5e0145688"
+  },
+  {
+   "path": "capes/Lunar/sademoji.png",
+   "size": 39756,
+   "sha1": "ad3861fe40e6893e04cf35328dd74497204d697c"
+  },
+  {
+   "path": "capes/Lunar/sakura.png",
+   "size": 303829,
+   "sha1": "854d88d845f56c06e7f655b59cadba01ce91a027"
+  },
+  {
+   "path": "capes/Lunar/sammygreengray.png",
+   "size": 1601,
+   "sha1": "296ec49627bf5d18c8eb28c4abc1f6431b8f02c8"
+  },
+  {
+   "path": "capes/Lunar/sammygreenwhite.png",
+   "size": 690,
+   "sha1": "3d9484effa5f95aa6ef4e43fadfab59667ab09bb"
+  },
+  {
+   "path": "capes/Lunar/scarletorangeaugust.png",
+   "size": 325589,
+   "sha1": "2e2f99057ed3f7d790b1f2a2d38a32efeb787885"
+  },
+  {
+   "path": "capes/Lunar/season1_archer.png",
+   "size": 71075,
+   "sha1": "6897f0d87ec1452fd0e5b41332fbd9d7a66667cf"
+  },
+  {
+   "path": "capes/Lunar/season1_bunkers.png",
+   "size": 83897,
+   "sha1": "ebbe71d55d457f505284d37cc648b6f5a5d37fa0"
+  },
+  {
+   "path": "capes/Lunar/season1_debuff.png",
+   "size": 74630,
+   "sha1": "a0d5edf555bc017aad2da631ebe5865922f15aee"
+  },
+  {
+   "path": "capes/Lunar/season1_gapple.png",
+   "size": 71687,
+   "sha1": "8dd6df44980b9bbcf2acfedefb2c169ea547cd40"
+  },
+  {
+   "path": "capes/Lunar/season1_global.png",
+   "size": 79180,
+   "sha1": "76bb63003bf01ecc38db091287e0e5deff2000d1"
+  },
+  {
+   "path": "capes/Lunar/season1_kitmap.png",
+   "size": 71337,
+   "sha1": "d095c80b6556edb259bad8550c1e52f4361ea262"
+  },
+  {
+   "path": "capes/Lunar/season1_nodebuff.png",
+   "size": 74838,
+   "sha1": "50f3d531261424412bca5455b9f52c136aac9507"
+  },
+  {
+   "path": "capes/Lunar/season1_soup.png",
+   "size": 72056,
+   "sha1": "eb5ba8bb319b4c4b9cde96167f6ca1de74f79ac5"
+  },
+  {
+   "path": "capes/Lunar/season1_sumo.png",
+   "size": 75749,
+   "sha1": "f76ef6b497f8fda5ba85d79737374c11bf09fb79"
+  },
+  {
+   "path": "capes/Lunar/season1_uhc.png",
+   "size": 83390,
+   "sha1": "efd1246b6e840cad204fc7a532d87f8ea589911c"
+  },
+  {
+   "path": "capes/Lunar/season1_vaultbattles.png",
+   "size": 80592,
+   "sha1": "324a99d9b14a6cd7bb52a778077f5fad57bcecdd"
+  },
+  {
+   "path": "capes/Lunar/season3archer.png",
+   "size": 95096,
+   "sha1": "2b89631ecb15edf2f9cf6c83078a0a0770031abf"
+  },
+  {
+   "path": "capes/Lunar/season3axe.png",
+   "size": 134927,
+   "sha1": "7429e0a40ebdd8a37f4a03ad7e07066f27f06de8"
+  },
+  {
+   "path": "capes/Lunar/season3bridges.png",
+   "size": 121081,
+   "sha1": "4a872feed8b20b52752c7d53a5f1c5126c1f70a7"
+  },
+  {
+   "path": "capes/Lunar/season3build.png",
+   "size": 124391,
+   "sha1": "71744b393d973340e33e3cbd548520c9fbb5ec2c"
+  },
+  {
+   "path": "capes/Lunar/season3debuff.png",
+   "size": 132922,
+   "sha1": "8c29898e5a5f4cebdab5617d51eaaa0aac01cf4f"
+  },
+  {
+   "path": "capes/Lunar/season3gapple.png",
+   "size": 130633,
+   "sha1": "8fe367415f4a0603db5708f741106d7cd7719cca"
+  },
+  {
+   "path": "capes/Lunar/season3global.png",
+   "size": 133391,
+   "sha1": "bab6462df839840843222f7c7508c62639f4b641"
+  },
+  {
+   "path": "capes/Lunar/season3nodebuff.png",
+   "size": 144108,
+   "sha1": "3c235f20f79f732105f54b39eb208b688fd4c138"
+  },
+  {
+   "path": "capes/Lunar/season3soup.png",
+   "size": 101758,
+   "sha1": "3b6c661304f19d19c8ffcc31974de1e4b3491bff"
+  },
+  {
+   "path": "capes/Lunar/season3sumo.png",
+   "size": 140821,
+   "sha1": "59a2479c7f8cf62118c847a9e88d10b3c9afcc87"
+  },
+  {
+   "path": "capes/Lunar/season3vanilla.png",
+   "size": 134022,
+   "sha1": "78d77b2d56ec3ac23e17560782a317ab958fbdd8"
+  },
+  {
+   "path": "capes/Lunar/season4archer.png",
+   "size": 108027,
+   "sha1": "dfd790cfbf57d352048cbad91cef78f83dd19a12"
+  },
+  {
+   "path": "capes/Lunar/season4axe.png",
+   "size": 141201,
+   "sha1": "e18af903b0a9712246eda8f8cbb5d6be7ccb3d43"
+  },
+  {
+   "path": "capes/Lunar/season4bridges.png",
+   "size": 158118,
+   "sha1": "2166bf2a39a1fffd269297b75bbea01e68a8f36f"
+  },
+  {
+   "path": "capes/Lunar/season4build.png",
+   "size": 148520,
+   "sha1": "cf64be37fb7d8691d4cbddc673fd5c737e9bda11"
+  },
+  {
+   "path": "capes/Lunar/season4debuff.png",
+   "size": 107709,
+   "sha1": "9958263d1b22d3787c57723145be7ef546894dba"
+  },
+  {
+   "path": "capes/Lunar/season4gapple.png",
+   "size": 111094,
+   "sha1": "2b02e8edd4a422fcde9ee5bb29f6f27c6dbd8bd8"
+  },
+  {
+   "path": "capes/Lunar/season4global.png",
+   "size": 135388,
+   "sha1": "e6b563362ffe771530be6b44984db2201bdd8c9d"
+  },
+  {
+   "path": "capes/Lunar/season4nodebuff.png",
+   "size": 123779,
+   "sha1": "f65202f637a3a5ae64c2668fc29a004ca1a53320"
+  },
+  {
+   "path": "capes/Lunar/season4soup.png",
+   "size": 114407,
+   "sha1": "cc167a57f4e811e1cc3b2dadcb3f50c46a7a4743"
+  },
+  {
+   "path": "capes/Lunar/season4sumo.png",
+   "size": 115054,
+   "sha1": "bc3697628c0f81fca19b052cdbb34c987c2dc188"
+  },
+  {
+   "path": "capes/Lunar/season4vanilla.png",
+   "size": 133331,
+   "sha1": "63980246d37c22bc6361ea95c30eb4559827d31c"
+  },
+  {
+   "path": "capes/Lunar/season6archer.png",
+   "size": 161104,
+   "sha1": "e58c919d917ed51d2ec79296a76567d19928f05f"
+  },
+  {
+   "path": "capes/Lunar/season6axe.png",
+   "size": 150916,
+   "sha1": "d3c3e2e7c276258f66cb392604a5b43869dfb4dd"
+  },
+  {
+   "path": "capes/Lunar/season6bridges.png",
+   "size": 161750,
+   "sha1": "996bbdb9d4c03229c77a7804f3f490f575af0295"
+  },
+  {
+   "path": "capes/Lunar/season6build.png",
+   "size": 164493,
+   "sha1": "b9a0e0eb9c6758f88883117b013f34f83f420c8e"
+  },
+  {
+   "path": "capes/Lunar/season6debuff.png",
+   "size": 170825,
+   "sha1": "d83d47009bae9fec5fb4e13a234c5d5b5475af91"
+  },
+  {
+   "path": "capes/Lunar/season6global.png",
+   "size": 185907,
+   "sha1": "fe7be833df9b2d79c975a15e92c46fcd4bdd0049"
+  },
+  {
+   "path": "capes/Lunar/season6nodebuff.png",
+   "size": 157573,
+   "sha1": "40bb92463dc9fa815857aa8584d897a5acdcdd64"
+  },
+  {
+   "path": "capes/Lunar/season6soup.png",
+   "size": 145133,
+   "sha1": "e4d7aa409939ef0f9cd803c16b56ef7dfe4b6d9f"
+  },
+  {
+   "path": "capes/Lunar/season6vanilla.png",
+   "size": 172095,
+   "sha1": "86270d53de0dba71ee9eda9e9b006f153e230c48"
+  },
+  {
+   "path": "capes/Lunar/season7archer.png",
+   "size": 137737,
+   "sha1": "e6a32cda3fe13260fa48a5a78f2eddb3d299da44"
+  },
+  {
+   "path": "capes/Lunar/season7axe.png",
+   "size": 129765,
+   "sha1": "0f57f3d3b1bf02db786ef994f68bef0c94c29e58"
+  },
+  {
+   "path": "capes/Lunar/season7bridges.png",
+   "size": 139639,
+   "sha1": "1396e6c1d1177a092b2e8d12b52bf37f60016f21"
+  },
+  {
+   "path": "capes/Lunar/season7build.png",
+   "size": 163630,
+   "sha1": "686ec2f96160502e094ebc986dd88e853c4f2df4"
+  },
+  {
+   "path": "capes/Lunar/season7debuff.png",
+   "size": 148964,
+   "sha1": "007db0cb8ff86f32d4190b393713a0e73815c6ed"
+  },
+  {
+   "path": "capes/Lunar/season7global.png",
+   "size": 173795,
+   "sha1": "5a6e84fb92a027d6289361dc35e404d58a593c4f"
+  },
+  {
+   "path": "capes/Lunar/season7nodebuff.png",
+   "size": 138429,
+   "sha1": "da40a4f14a10eb346e254a68f32bef97442fdf71"
+  },
+  {
+   "path": "capes/Lunar/season7soup.png",
+   "size": 138403,
+   "sha1": "1757496e6bdba6f351ea46ce33d5eb92436c3d20"
+  },
+  {
+   "path": "capes/Lunar/season7vanilla.png",
+   "size": 151611,
+   "sha1": "63d9eaa100960084b5978d5fb6a12fd8924fb4ac"
+  },
+  {
+   "path": "capes/Lunar/season_2_axe.png",
+   "size": 108671,
+   "sha1": "5d8d15a4f492e1db776b272b239e39dcd24ab40b"
+  },
+  {
+   "path": "capes/Lunar/season_2_bridges.png",
+   "size": 126548,
+   "sha1": "726ba4c9cbef53db49dd8f38979a9736873558bd"
+  },
+  {
+   "path": "capes/Lunar/season_2_builduhc.png",
+   "size": 124970,
+   "sha1": "1f6bd429a19f3442ec2f76ac8fdac566a4aa2c66"
+  },
+  {
+   "path": "capes/Lunar/season_2_debuff.png",
+   "size": 85011,
+   "sha1": "aaa401b8dcb7be059ef44dda20c3bfff633bd03e"
+  },
+  {
+   "path": "capes/Lunar/season_2_gapple.png",
+   "size": 84172,
+   "sha1": "7b58c09ff7c33ef12831415d64b726b2fd166fd8"
+  },
+  {
+   "path": "capes/Lunar/season_2_global.png",
+   "size": 141593,
+   "sha1": "910c3d531a334841301569b0ce4b0cbcb8ebf614"
+  },
+  {
+   "path": "capes/Lunar/season_2_nodebuff.png",
+   "size": 110395,
+   "sha1": "06b76897b7fa72bd11dc1852fa37599671f1b0e6"
+  },
+  {
+   "path": "capes/Lunar/season_2_soup.png",
+   "size": 115453,
+   "sha1": "53ef2e8acdba0921070e56c143169d0fde2af246"
+  },
+  {
+   "path": "capes/Lunar/season_2_sumo.png",
+   "size": 90033,
+   "sha1": "c0214062657a37de160204859b983e95bfe197ec"
+  },
+  {
+   "path": "capes/Lunar/season_2_vanilla.png",
+   "size": 130418,
+   "sha1": "1ea23d543cc3f85cd7ae84f64b0a1aff97e57882"
+  },
+  {
+   "path": "capes/Lunar/serbia.png",
+   "size": 54023,
+   "sha1": "dee7d56f7a033abc8c97b31a2bf1222add43e011"
+  },
+  {
+   "path": "capes/Lunar/shadowapples1.png",
+   "size": 3133,
+   "sha1": "ce82081c3c3d430838d4e081dca026dc7759d133"
+  },
+  {
+   "path": "capes/Lunar/shadowapples2.png",
+   "size": 1032,
+   "sha1": "8c7bd81a15f84b35d24e3b500b45e21cca1132d0"
+  },
+  {
+   "path": "capes/Lunar/shadowapples3.png",
+   "size": 978,
+   "sha1": "d2e9864f8dcafff29657b1666ab89b41de60db76"
+  },
+  {
+   "path": "capes/Lunar/shadowapples4.png",
+   "size": 1389,
+   "sha1": "96fe08f8a1f13a20b6f8a43b94e846e03e271bbc"
+  },
+  {
+   "path": "capes/Lunar/shamrockflag.png",
+   "size": 1270,
+   "sha1": "639b6ca99d5ed760f47b9275a0138c7e7642e032"
+  },
+  {
+   "path": "capes/Lunar/shesmineleft.png",
+   "size": 4767,
+   "sha1": "7adb2f8671e704ee59dd6f9cab77ddce2789b696"
+  },
+  {
+   "path": "capes/Lunar/shesmineright.png",
+   "size": 4757,
+   "sha1": "a819055ffc3734a48d369420dc102fcfa21a0635"
+  },
+  {
+   "path": "capes/Lunar/shotbowcloak.png",
+   "size": 80458,
+   "sha1": "cb7cc0ee6031ed15f40678c113c8288bab8ff606"
+  },
+  {
+   "path": "capes/Lunar/slantedmarbleblue.png",
+   "size": 351211,
+   "sha1": "e9f380b6dc415307446996248940ec9cb3fb9a28"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblegray.png",
+   "size": 343487,
+   "sha1": "f0c650d7e9362a94d9806b4a8e0151d1ab74b5e9"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblegreen.png",
+   "size": 370202,
+   "sha1": "4956c26a6ff300718b506f8ed4d70fdffa483853"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblelime.png",
+   "size": 348060,
+   "sha1": "9aa9f4db3d12a8c37d6814ca09f26123f14a0384"
+  },
+  {
+   "path": "capes/Lunar/slantedmarbleorange.png",
+   "size": 378214,
+   "sha1": "b6cea495c0f1b15a7c35973221878bff10ed7f42"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblepink.png",
+   "size": 390184,
+   "sha1": "b939bb512aea3e1a3d156f0f0e900ffeeecad2cc"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblepurple.png",
+   "size": 386120,
+   "sha1": "2c09c7f0826d9beb776d4e5eac393276ae290041"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblered.png",
+   "size": 289987,
+   "sha1": "1823f83b708307738eb60f42c9103240427792b4"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblerose.png",
+   "size": 479339,
+   "sha1": "d1387f64e70167d59d3c69ed217e74bddc6f5e5e"
+  },
+  {
+   "path": "capes/Lunar/slantedmarbleteal.png",
+   "size": 387536,
+   "sha1": "ba97d1de520c11809a155a4612c04bf9d05e1bcf"
+  },
+  {
+   "path": "capes/Lunar/slantedmarblewhite.png",
+   "size": 342729,
+   "sha1": "a6c5ad1ed94ea1eef90c42efee13220f00650944"
+  },
+  {
+   "path": "capes/Lunar/slantedmarbleyellow.png",
+   "size": 440469,
+   "sha1": "9709b86fa3b520dfb451be4444c23de00b372dbf"
+  },
+  {
+   "path": "capes/Lunar/smileemoji.png",
+   "size": 44960,
+   "sha1": "c1e711ca12160e40b9e117d81339ae25cb617da8"
+  },
+  {
+   "path": "capes/Lunar/sn1.png",
+   "size": 67825,
+   "sha1": "1893ae35c26ae1b98b45ad411e81b95ad40c576c"
+  },
+  {
+   "path": "capes/Lunar/snifferfishmushroom1.png",
+   "size": 5559,
+   "sha1": "574e13207dbabaab3497a69208ecbeb316c118dd"
+  },
+  {
+   "path": "capes/Lunar/snifferfishmushroom2.png",
+   "size": 5203,
+   "sha1": "4df8cd953d9b9135e3632b4aee080c53ed014db8"
+  },
+  {
+   "path": "capes/Lunar/snowman.png",
+   "size": 1293,
+   "sha1": "573b0c083295c3590fe667621af4498bb665014c"
+  },
+  {
+   "path": "capes/Lunar/sotw_cn6.png",
+   "size": 329301,
+   "sha1": "f647373cd24db7a9aab0e0b9dd91e2f35688a3b7"
+  },
+  {
+   "path": "capes/Lunar/sotw_xelvy.png",
+   "size": 330406,
+   "sha1": "064122c98dc9d6ba496d4283eadb6b63d0fb5901"
+  },
+  {
+   "path": "capes/Lunar/soupcape.png",
+   "size": 322298,
+   "sha1": "234b4bd8ec633be38d6ddd2188e69067d6349f7d"
+  },
+  {
+   "path": "capes/Lunar/souppvpseason3.png",
+   "size": 77442,
+   "sha1": "0b615f92ec49964d86dc89701a1134426614b8bb"
+  },
+  {
+   "path": "capes/Lunar/southkorea.png",
+   "size": 35433,
+   "sha1": "06ff8251727e9510fcb9574e2fa38aa400d20d8f"
+  },
+  {
+   "path": "capes/Lunar/spade.png",
+   "size": 1214,
+   "sha1": "af151a9260797a8fef8eb0c609dcef5169857671"
+  },
+  {
+   "path": "capes/Lunar/spain.png",
+   "size": 31838,
+   "sha1": "a5a545e6cc0de728b21d6990fedf3ff4c39d16a4"
+  },
+  {
+   "path": "capes/Lunar/specular.png",
+   "size": 8530,
+   "sha1": "fccc50c5e7ff7d8968054b024c8a985be6daf809"
+  },
+  {
+   "path": "capes/Lunar/specularburritoplanets.png",
+   "size": 1486,
+   "sha1": "0bcd13178813bc7952c413518b7a1ee6ed9a33c0"
+  },
+  {
+   "path": "capes/Lunar/specularsun.png",
+   "size": 2067,
+   "sha1": "0b0e5ccc1df84e35f88eaec395152fae12b0f930"
+  },
+  {
+   "path": "capes/Lunar/speedsilver.png",
+   "size": 673,
+   "sha1": "7de919c07b7e09e668cebbaf16c8b8df74743d46"
+  },
+  {
+   "path": "capes/Lunar/squads_map1_base.png",
+   "size": 282884,
+   "sha1": "f6b9d57bb4239acaae69511187ca7f6305ca96ad"
+  },
+  {
+   "path": "capes/Lunar/squads_map1_eotw.png",
+   "size": 345713,
+   "sha1": "5ecad12c6b7cb68ffba0f41090879c0d5413e943"
+  },
+  {
+   "path": "capes/Lunar/squads_map2_base.png",
+   "size": 74670,
+   "sha1": "857f90e058a18219a30c97636612975f3067be22"
+  },
+  {
+   "path": "capes/Lunar/squads_map2_eotw.png",
+   "size": 76339,
+   "sha1": "af97be08b6cd79f5e1432566365a0ea8eb00276a"
+  },
+  {
+   "path": "capes/Lunar/squadsmap6.png",
+   "size": 196513,
+   "sha1": "097192ed898022329d13dcdd6cd7913c1c5bff84"
+  },
+  {
+   "path": "capes/Lunar/staffsummer.png",
+   "size": 148201,
+   "sha1": "eed4692a1f4b4951617e6384e95c018f2cf87644"
+  },
+  {
+   "path": "capes/Lunar/staffxmas2021.png",
+   "size": 217722,
+   "sha1": "2aab8798553e0c090bb7fcb5bbe7d6a248fb081a"
+  },
+  {
+   "path": "capes/Lunar/stambul.png",
+   "size": 226291,
+   "sha1": "a2425a9fd454ff0150fcf131b3e5b993dcffc6b1"
+  },
+  {
+   "path": "capes/Lunar/star.png",
+   "size": 1293,
+   "sha1": "a7f514df8db7af4c8a6b6f1daa1acee17a4f5b2a"
+  },
+  {
+   "path": "capes/Lunar/stpatrick.png",
+   "size": 1593,
+   "sha1": "da1e8055fbfa0acb7285fdb8bae046ae48140beb"
+  },
+  {
+   "path": "capes/Lunar/stpatricksclover.png",
+   "size": 136475,
+   "sha1": "d2a8a9db3c9ea3d086e3aacb2aecb89d06a4f8c9"
+  },
+  {
+   "path": "capes/Lunar/stpatricksgold.png",
+   "size": 310216,
+   "sha1": "0c66a358380810ed89f8abb024b102ac98ca1957"
+  },
+  {
+   "path": "capes/Lunar/stpatricksgoodluck.png",
+   "size": 243930,
+   "sha1": "8c23f57ad7a24b2151389f594ecc6da2ef174552"
+  },
+  {
+   "path": "capes/Lunar/stpatrickshat.png",
+   "size": 234589,
+   "sha1": "86d29b42f9e0e91fb958bea086f54b8963c244f1"
+  },
+  {
+   "path": "capes/Lunar/stpatrickslogo.png",
+   "size": 152225,
+   "sha1": "8638b028e589ef7d14d0878739bd420acd8c2a8d"
+  },
+  {
+   "path": "capes/Lunar/straightfaceemoji.png",
+   "size": 43752,
+   "sha1": "fde72ea0ab46fd0c13dd74842ac25f265a6f3c46"
+  },
+  {
+   "path": "capes/Lunar/suchspeed.png",
+   "size": 2697,
+   "sha1": "d3a06d89870238f2e01e4cbbfdce4f8555ce1b41"
+  },
+  {
+   "path": "capes/Lunar/suchspeedflame.png",
+   "size": 2572,
+   "sha1": "f5df1feaa8e18201875b3240deeffb016cf5523c"
+  },
+  {
+   "path": "capes/Lunar/suchspeedlava.png",
+   "size": 2486,
+   "sha1": "1fbe71e7a321c417fe6996f36ecb73f22c6be1b6"
+  },
+  {
+   "path": "capes/Lunar/sunsetpier.png",
+   "size": 38087,
+   "sha1": "b8ddabcf955ef7400f31b658c3a122dd36db34ee"
+  },
+  {
+   "path": "capes/Lunar/sunsetsilhouette.png",
+   "size": 5682,
+   "sha1": "41f96d748e83b2e6585b0e8a5c4d2422117dd2b2"
+  },
+  {
+   "path": "capes/Lunar/swampiestrawberry.png",
+   "size": 668,
+   "sha1": "25e16cb5dde4eb38f426a1558832f69d3b7f84f5"
+  },
+  {
+   "path": "capes/Lunar/sweden.png",
+   "size": 9009,
+   "sha1": "f8771021661855a7a570b05f68a514a001e51794"
+  },
+  {
+   "path": "capes/Lunar/swift.png",
+   "size": 111153,
+   "sha1": "88f370d9218740de69d47e5db227573df22aeb4f"
+  },
+  {
+   "path": "capes/Lunar/teams_map_2_base_ninja.png",
+   "size": 162353,
+   "sha1": "cd4d6e782e645d7f7227be8cb80b78eaa17337fd"
+  },
+  {
+   "path": "capes/Lunar/teams_map_2_base_quebec.png",
+   "size": 120039,
+   "sha1": "5a2293ed1b70ed1af762fc1961ff2ac5ea76381d"
+  },
+  {
+   "path": "capes/Lunar/teams_map_2_eotw.png",
+   "size": 85503,
+   "sha1": "09d4c1238486af8bbf2b19185bb96da286691260"
+  },
+  {
+   "path": "capes/Lunar/teams_map_3_eotw.png",
+   "size": 76721,
+   "sha1": "214aa622ef9f48b0a4e3f43ce95809ff7c2df821"
+  },
+  {
+   "path": "capes/Lunar/teamsmap4.png",
+   "size": 322314,
+   "sha1": "d9d624a7a7a2324f67c122d31a8754a00aee1dd0"
+  },
+  {
+   "path": "capes/Lunar/teamsmap5base.png",
+   "size": 403036,
+   "sha1": "8325e05bff117157c88968c157462b11c02283cd"
+  },
+  {
+   "path": "capes/Lunar/teamsmap5eotw.png",
+   "size": 155267,
+   "sha1": "4535192369b9991f8e03584bfcec66fffe356986"
+  },
+  {
+   "path": "capes/Lunar/teamsmap6eotw.png",
+   "size": 125308,
+   "sha1": "ca133ed711c97b916ab729448184d4f0cbb0d83d"
+  },
+  {
+   "path": "capes/Lunar/teamsmap7eotw.png",
+   "size": 228939,
+   "sha1": "7361aac2fadd88c99743a80893d574132f91a14c"
+  },
+  {
+   "path": "capes/Lunar/teamsmap8eotw.png",
+   "size": 228232,
+   "sha1": "5fc68d9537e22cf3a300bed525ac8f3321d742c3"
+  },
+  {
+   "path": "capes/Lunar/teiko.png",
+   "size": 144316,
+   "sha1": "023f06770562139dd2dd27fcf429c730e3b65dde"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingleaf.png",
+   "size": 860,
+   "sha1": "eae3aa8c60276dc59fa4406f59ba0583d3452ab0"
+  },
+  {
+   "path": "capes/Lunar/thanksgivinglunar2020.png",
+   "size": 126751,
+   "sha1": "b8c987eca67ba047c85279d58759a7da1001511a"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingpilgrim.png",
+   "size": 853,
+   "sha1": "0c102bf9e53385a5905cc20244f120098103d009"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkey.png",
+   "size": 743,
+   "sha1": "d9a1fbfcbf82e1423fde084d227e28d3b511c4d8"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeybrown.png",
+   "size": 2303,
+   "sha1": "52725faaacb4cad8b7ea725fa66751837f9e5b20"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeyorange.png",
+   "size": 2298,
+   "sha1": "aaec304429a4afab9fc113d4deaf157ea30ee902"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeyred.png",
+   "size": 2291,
+   "sha1": "dd9196aded386522b2f2cedb0ddc70bc0955f742"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeyshadesbrown.png",
+   "size": 2212,
+   "sha1": "28ac49b4cd3d5df6c9a2cc0e36dfa31f7002be08"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeyshadesorange.png",
+   "size": 2162,
+   "sha1": "320a17fa3190be8e2e65e887609bab92a1f139ac"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeyshadesred.png",
+   "size": 2288,
+   "sha1": "1ae24256d64e8fd0226dd34b270e6e1917263178"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeyshadesyellow.png",
+   "size": 2207,
+   "sha1": "21e038e7a611d392ff7f0a2688440dc192993f54"
+  },
+  {
+   "path": "capes/Lunar/thanksgivingturkeyyellow.png",
+   "size": 2288,
+   "sha1": "d100ba7630afd418a0f605f95113926c145f978a"
+  },
+  {
+   "path": "capes/Lunar/theyremineleft.png",
+   "size": 4707,
+   "sha1": "f6023196e68dbf6b50e2eeee652e90daf4229717"
+  },
+  {
+   "path": "capes/Lunar/thgeyremineright.png",
+   "size": 4694,
+   "sha1": "fbe3605847d1412f7d3fecb47e0172c3ef7a4774"
+  },
+  {
+   "path": "capes/Lunar/thofjulyamericanflag.png",
+   "size": 10339,
+   "sha1": "d57fe644402393f13fd55039cfd5627f4719b299"
+  },
+  {
+   "path": "capes/Lunar/tigerlogo.png",
+   "size": 203732,
+   "sha1": "9c8b4dfe54021206098a2c11ef4c9a85130e706e"
+  },
+  {
+   "path": "capes/Lunar/tongueoutemoji.png",
+   "size": 47013,
+   "sha1": "c7b3902022c437e42e6002d1a13265ce0da16959"
+  },
+  {
+   "path": "capes/Lunar/totoro.png",
+   "size": 74865,
+   "sha1": "a70037829ef49746eb953b1599ed5b0d4fba1a6a"
+  },
+  {
+   "path": "capes/Lunar/tournament_cape_1.png",
+   "size": 134431,
+   "sha1": "6ff9113290365794d2f72e04aac3db1e7b7e5d32"
+  },
+  {
+   "path": "capes/Lunar/tournament_cape_2.png",
+   "size": 122838,
+   "sha1": "3c7dc5f1d292bd9dcbf4c17620f250a02df00b59"
+  },
+  {
+   "path": "capes/Lunar/tournament_cape_3.png",
+   "size": 112570,
+   "sha1": "80b836cbff7dab40b8cdc03a6aab3c1c94db8e7d"
+  },
+  {
+   "path": "capes/Lunar/tryhard.png",
+   "size": 2031,
+   "sha1": "c3905e102181a7fee4d15eb76de219a68d012f7e"
+  },
+  {
+   "path": "capes/Lunar/tryhardgiveaway.png",
+   "size": 273780,
+   "sha1": "972660eef32e152f99ff600958ced169d24640a3"
+  },
+  {
+   "path": "capes/Lunar/tryhardinfinity.png",
+   "size": 2559,
+   "sha1": "4aa61e6e15a2f6fd8c148451067e951b7ef2062d"
+  },
+  {
+   "path": "capes/Lunar/tsm.png",
+   "size": 256549,
+   "sha1": "09301348fe4d7292fdf806e9be2d48cd86ff7c61"
+  },
+  {
+   "path": "capes/Lunar/twitch_1.png",
+   "size": 13511,
+   "sha1": "8f8f8d56812fabb190b4da2d69d3f4a95646b2f7"
+  },
+  {
+   "path": "capes/Lunar/twitch_2.png",
+   "size": 13311,
+   "sha1": "8c236b255a69c452e73d4d61bd1fb3d18d7b7171"
+  },
+  {
+   "path": "capes/Lunar/uchiha.png",
+   "size": 65381,
+   "sha1": "5dc11f4bd69c9f3e12e60962c3c473f6a1b9bb40"
+  },
+  {
+   "path": "capes/Lunar/uk.png",
+   "size": 42134,
+   "sha1": "c288f903b6aaf5b669efdf207c254d3566db7100"
+  },
+  {
+   "path": "capes/Lunar/ultra_cape_1.png",
+   "size": 62644,
+   "sha1": "de6583c5d9c062dc89a8daa682b8131be0f0973f"
+  },
+  {
+   "path": "capes/Lunar/ultra_cape_2.png",
+   "size": 56356,
+   "sha1": "c2ed65ec0d798f6c4b6d37077eea69f47b968a00"
+  },
+  {
+   "path": "capes/Lunar/usa.png",
+   "size": 42429,
+   "sha1": "42eddc180756cc25b2addfd7e5fd1400dd53e342"
+  },
+  {
+   "path": "capes/Lunar/valeintes2021queen.png",
+   "size": 4841,
+   "sha1": "827c458afb727c4e335e068f1b25dd85031e26f6"
+  },
+  {
+   "path": "capes/Lunar/valentine_cape_1.png",
+   "size": 226036,
+   "sha1": "3d79d07124a88684293f1e06ac6bd6718065ef84"
+  },
+  {
+   "path": "capes/Lunar/valentine_cape_2.png",
+   "size": 230490,
+   "sha1": "387a7a6b73feee1207ed83c472e865257e3d5eee"
+  },
+  {
+   "path": "capes/Lunar/valentine_cape_3.png",
+   "size": 281034,
+   "sha1": "27d7391bf3e9c9df63d52380cd70022bdd28adb5"
+  },
+  {
+   "path": "capes/Lunar/valentine_cape_4.png",
+   "size": 212689,
+   "sha1": "9a5a3c56747ba115b5d63b36a9e0f912d3642bdb"
+  },
+  {
+   "path": "capes/Lunar/valentinecupid.png",
+   "size": 184715,
+   "sha1": "c2f8771a2ef096412f3b2a978cb1b9d9b4b86a32"
+  },
+  {
+   "path": "capes/Lunar/valentinehearts.png",
+   "size": 180130,
+   "sha1": "4ee5ea87ef87562c09139f4e223d25f254b9ff83"
+  },
+  {
+   "path": "capes/Lunar/valentinehearts2.png",
+   "size": 47140,
+   "sha1": "c8e2d7ea4aa8fdd1c7e580c9ca3b9ec354cf2551"
+  },
+  {
+   "path": "capes/Lunar/valentines2021bear.png",
+   "size": 782,
+   "sha1": "b160d43e26eff56629cdf0723fdbdf3bf072a304"
+  },
+  {
+   "path": "capes/Lunar/valentines2021cupidheart.png",
+   "size": 1592,
+   "sha1": "f7fbc1322e99774173b35b0c171830f54afe22d1"
+  },
+  {
+   "path": "capes/Lunar/valentines2021hearts.png",
+   "size": 6734,
+   "sha1": "43f14c0063b2a0ca6da1ad49bbba7bf393d0892d"
+  },
+  {
+   "path": "capes/Lunar/valentines2021king.png",
+   "size": 4378,
+   "sha1": "f5d32ca32c2db73bfb7883d36478b1c9d676cdf5"
+  },
+  {
+   "path": "capes/Lunar/valentines2021lovepattern.png",
+   "size": 1471,
+   "sha1": "4572dd287ad28999a4e1e2a117cc28dddf755adc"
+  },
+  {
+   "path": "capes/Lunar/valentines2021lunarcupid.png",
+   "size": 99055,
+   "sha1": "148c2019fa3a5029ce3e8907b072fe788d4a8218"
+  },
+  {
+   "path": "capes/Lunar/valentines2021pinkhearts.png",
+   "size": 108761,
+   "sha1": "2c89df4745e20f4bfce644b4637dfe4f8aa0e7c8"
+  },
+  {
+   "path": "capes/Lunar/valentines2021redheart.png",
+   "size": 7719,
+   "sha1": "580fc4083a6b963fb4a056b15832d521df3e3863"
+  },
+  {
+   "path": "capes/Lunar/valentines2021xoxo.png",
+   "size": 4056,
+   "sha1": "d8fb8f220a31601796bee41ba5bd4abda9c7aff9"
+  },
+  {
+   "path": "capes/Lunar/vapeblitzkrieg.png",
+   "size": 40191,
+   "sha1": "8d31698272d442ce120bcb65dfe647dc8e773f19"
+  },
+  {
+   "path": "capes/Lunar/veltpvp.png",
+   "size": 112178,
+   "sha1": "1c6af7621b589be1898914be855dfb302b98afe1"
+  },
+  {
+   "path": "capes/Lunar/venezuela.png",
+   "size": 16931,
+   "sha1": "7ffea8d95e7b3e10a11e0f2964fc880308e5c18c"
+  },
+  {
+   "path": "capes/Lunar/vers.png",
+   "size": 1995,
+   "sha1": "4a8e3d3b0ab39c32e0540c4e29b4679f9edc6837"
+  },
+  {
+   "path": "capes/Lunar/violetstripedcloak.png",
+   "size": 494730,
+   "sha1": "fe0635b90838addb681dd1f00d018bd49d2c64f9"
+  },
+  {
+   "path": "capes/Lunar/viper4black.png",
+   "size": 686159,
+   "sha1": "e3bed738af5ade0f1a631c4bd2b338ce6853803c"
+  },
+  {
+   "path": "capes/Lunar/viper4white.png",
+   "size": 45522,
+   "sha1": "563f2a5a95ef1cced576428b47ddec033555a5f2"
+  },
+  {
+   "path": "capes/Lunar/viperautumncloak.png",
+   "size": 218565,
+   "sha1": "a292e2ce4d3ceda2402f7fe2dc8ada32026c32ba"
+  },
+  {
+   "path": "capes/Lunar/viperbabyblue.png",
+   "size": 62488,
+   "sha1": "e81ae3c9facade5351e6990688f10d46f89005a4"
+  },
+  {
+   "path": "capes/Lunar/viperbabygreen.png",
+   "size": 61073,
+   "sha1": "ca24b115f4bd3e50cd17fbfb76777ca8837c7f7a"
+  },
+  {
+   "path": "capes/Lunar/viperbabyyellow.png",
+   "size": 62343,
+   "sha1": "2bba0c823f7679492275e505fd40c1b47b5b9c25"
+  },
+  {
+   "path": "capes/Lunar/viperblack.png",
+   "size": 360408,
+   "sha1": "77d18c08ab8e686df0220daeb85f41409f1f99e0"
+  },
+  {
+   "path": "capes/Lunar/viperblue.png",
+   "size": 77736,
+   "sha1": "a863d9674f1e9f03cf09fb334ae90d5a41cc0d77"
+  },
+  {
+   "path": "capes/Lunar/vipercandycane.png",
+   "size": 46331,
+   "sha1": "8b5b47caf66a6e55e08defb7611dfd3f5fcb7cf6"
+  },
+  {
+   "path": "capes/Lunar/viperchristmasblue.png",
+   "size": 125796,
+   "sha1": "4e77a93d0d071db15ad44b198da10111616dc1e8"
+  },
+  {
+   "path": "capes/Lunar/viperchristmasred.png",
+   "size": 129517,
+   "sha1": "35b7ea5eb6b7266a0ca2403c01d43a42ef663fb9"
+  },
+  {
+   "path": "capes/Lunar/viperhalloweencloak.png",
+   "size": 115940,
+   "sha1": "3233921cbce809363534aa090e8aeded4cc68e12"
+  },
+  {
+   "path": "capes/Lunar/vipermcfire.png",
+   "size": 289340,
+   "sha1": "d5d115d95accb5d5972fa61b6130e0ab3126878e"
+  },
+  {
+   "path": "capes/Lunar/viperorange.png",
+   "size": 138873,
+   "sha1": "d1012dbf29759aa329688dddab7e0918d5c2aca1"
+  },
+  {
+   "path": "capes/Lunar/viperpink.png",
+   "size": 592731,
+   "sha1": "aa019630a80e3c47c4ecf2b45cff4ff79b201a41"
+  },
+  {
+   "path": "capes/Lunar/viperred.png",
+   "size": 629712,
+   "sha1": "f9b84f35eb7c26f3a1072f02189dd43dba211c80"
+  },
+  {
+   "path": "capes/Lunar/viperstorecloak1.png",
+   "size": 48315,
+   "sha1": "a72ae547078a5038b1dbcdb10a91092d5b1a6d8f"
+  },
+  {
+   "path": "capes/Lunar/viperstorecloak2.png",
+   "size": 43013,
+   "sha1": "6ca446c2fbf77759cee111fb3f98b93e27b44856"
+  },
+  {
+   "path": "capes/Lunar/vipervalentinecloak.png",
+   "size": 65096,
+   "sha1": "fc52a6d7a9be476880d40823557d8fdc27f9517d"
+  },
+  {
+   "path": "capes/Lunar/viperwhite.png",
+   "size": 631610,
+   "sha1": "d822bd695dae2422f53b0e6c9da9d100b6d06a5b"
+  },
+  {
+   "path": "capes/Lunar/voltage.png",
+   "size": 95976,
+   "sha1": "778c47c70dc1ebd196f414fd8e808ffcbf38f34a"
+  },
+  {
+   "path": "capes/Lunar/vomitemoji.png",
+   "size": 46608,
+   "sha1": "9336b458476d51c385395d90696dfb049fc687f0"
+  },
+  {
+   "path": "capes/Lunar/watermcblue.png",
+   "size": 147767,
+   "sha1": "3d0d1ed3ea732dc52b75e6412cea2267c9f88ef8"
+  },
+  {
+   "path": "capes/Lunar/wechat.png",
+   "size": 2653,
+   "sha1": "c139e1721aea05f27443151d3447e0b4188e9e02"
+  },
+  {
+   "path": "capes/Lunar/weebs.png",
+   "size": 501645,
+   "sha1": "c15ed98da46547511a94c98a4c8dbb0bc5fdafce"
+  },
+  {
+   "path": "capes/Lunar/whiteandblackhearts.png",
+   "size": 439,
+   "sha1": "dcfbee2e97e5a6975a3ce480569728c88aee5c16"
+  },
+  {
+   "path": "capes/Lunar/whitechromalogo.png",
+   "size": 25242,
+   "sha1": "e85abd9a422dd2e7b147c7d7f47dab2be3550d55"
+  },
+  {
+   "path": "capes/Lunar/whiteheart.png",
+   "size": 7905,
+   "sha1": "c0bcc06d30dc00d7b685b9f7af7d485932c26fa0"
+  },
+  {
+   "path": "capes/Lunar/whitetiltedlogocloak.png",
+   "size": 51544,
+   "sha1": "c3d4435b78db564e43e4713823e9e68b9247c4f2"
+  },
+  {
+   "path": "capes/Lunar/wine.png",
+   "size": 3004,
+   "sha1": "78ce0c44d5316b4a49a13a38b43758db0cb2628e"
+  },
+  {
+   "path": "capes/Lunar/winkemoji.png",
+   "size": 40143,
+   "sha1": "b60dd5ee67fa673a1339d9cd7549270681ba4113"
+  },
+  {
+   "path": "capes/Lunar/winterhat.png",
+   "size": 2381,
+   "sha1": "c98b6e7d2864d1c8aa0e372e096d4f856030dee8"
+  },
+  {
+   "path": "capes/Lunar/wintertree.png",
+   "size": 4414,
+   "sha1": "0bb81763fe6c7b98d19e21f78413b322b6a9e2fb"
+  },
+  {
+   "path": "capes/Lunar/wisp.png",
+   "size": 599,
+   "sha1": "58db65f65d833ee0e20cdd0ec127f264b3d91b80"
+  },
+  {
+   "path": "capes/Lunar/wispexe.png",
+   "size": 557,
+   "sha1": "84fa80df841c84ec00d37a60bcd63c33067a3a7e"
+  },
+  {
+   "path": "capes/Lunar/wispexecandle.png",
+   "size": 595,
+   "sha1": "b79ec729f15d428ae05a8165717dd2693b28214c"
+  },
+  {
+   "path": "capes/Lunar/xmaslunarmoon.png",
+   "size": 974,
+   "sha1": "cd905b56617bcd6a32dc965f47a61b46debf2e0c"
+  },
+  {
+   "path": "capes/Lunar/xmassnowman8bit.png",
+   "size": 1098,
+   "sha1": "d52a443305139dd2907daa157aec62dbbf39f180"
+  },
+  {
+   "path": "capes/Lunar/xmastree8bit.png",
+   "size": 1177,
+   "sha1": "c02fb58a4d358baf37fa955ef95b449069e0d8b6"
+  },
+  {
+   "path": "capes/Lunar/xmaswreath.png",
+   "size": 1152,
+   "sha1": "105ae2c21ac44188f2c79bba9925915a270aa1d6"
+  },
+  {
+   "path": "capes/Lunar/xnestorio1.png",
+   "size": 2451,
+   "sha1": "153df559e28b17074487cb467c6486ceea5df96d"
+  },
+  {
+   "path": "capes/Lunar/xnestoriopink.png",
+   "size": 915,
+   "sha1": "d30fef2375ae03a583ce77d6a65f5c8e9db5b914"
+  },
+  {
+   "path": "capes/Lunar/xnestorioredrose.png",
+   "size": 962,
+   "sha1": "fd33a342c67bd1fadb5086c6e7913e10e735c5e1"
+  },
+  {
+   "path": "capes/Lunar/y420.png",
+   "size": 71245,
+   "sha1": "a9f589099b9c643171b00c06887534f1e074cab5"
+  },
+  {
+   "path": "capes/Lunar/y42020.png",
+   "size": 126098,
+   "sha1": "14c0a5b38e82c0ef7af6ec08b66f05efcfebacc7"
+  },
+  {
+   "path": "capes/Lunar/y420private.png",
+   "size": 152368,
+   "sha1": "a4c8504cac6ceb8173ab5ddc826444dbf95987db"
+  },
+  {
+   "path": "capes/Lunar/yeetsquad.png",
+   "size": 357026,
+   "sha1": "dffb2581fe8084ebed1ce343c87419e325347287"
+  },
+  {
+   "path": "capes/Lunar/yellowfoglogo.png",
+   "size": 69510,
+   "sha1": "93d5732ecda2e52e152d6a813d27b9931f634c19"
+  },
+  {
+   "path": "capes/Lunar/yellowlunarchicks.png",
+   "size": 144155,
+   "sha1": "43e34c83bf00d0a058ad778f12d364b0f51d5bab"
+  },
+  {
+   "path": "capes/Lunar/yellowtiltedlogocloak.png",
+   "size": 46611,
+   "sha1": "30af3b3e7b9261071f14af0bcb745da6263105b5"
+  },
+  {
+   "path": "capes/Lunar/youtube_1.png",
+   "size": 13665,
+   "sha1": "5dba7285c1fc829da2d0b0a8dff02cfdaeadbe0f"
+  },
+  {
+   "path": "capes/Lunar/youtube_2.png",
+   "size": 20795,
+   "sha1": "ac69e84722997f293049107170a0747ad1063998"
+  },
+  {
+   "path": "capes/Lunar/youtube_3.png",
+   "size": 18302,
+   "sha1": "502437adfdd7dcbc231fffc2dacfc0113267d793"
+  },
+  {
+   "path": "capes/Lunar/youtubeheart.png",
+   "size": 14823,
+   "sha1": "c6245ec19d2a31eab683dbf94be113420fc1611e"
+  },
+  {
+   "path": "capes/Lunar/yukiaim.png",
+   "size": 348361,
+   "sha1": "1a10dec5b9d1cb9aa592840aa7a84af31a297301"
+  },
+  {
+   "path": "capes/Lunar/zonixblack.png",
+   "size": 43860,
+   "sha1": "bff4b3d5d39bb99ccbe44debbfa02a65efe2c64e"
+  },
+  {
+   "path": "capes/Lunar/zonixwhite.png",
+   "size": 35421,
+   "sha1": "d2413482aea416a94fae0a66da0ced7673243c86"
+  },
+  {
+   "path": "capes/Lunar/zova.png",
+   "size": 8367,
+   "sha1": "b494443e05333d021eec02f1d840121f6400cf58"
+  },
+  {
+   "path": "capes/Minecon/minecon_2011.png",
+   "size": 8418,
+   "sha1": "96d825435a48d406b685d1fef19ec1a406519fb0"
+  },
+  {
+   "path": "capes/Minecon/minecon_2012.png",
+   "size": 8452,
+   "sha1": "b2b63d1e68ba94c7eaa62447f79f57d0bd18782c"
+  },
+  {
+   "path": "capes/Minecon/minecon_2013.png",
+   "size": 8666,
+   "sha1": "089b2e7da9572dd304f0456dbe2416242d6cefdb"
+  },
+  {
+   "path": "capes/Minecon/minecon_2015.png",
+   "size": 8324,
+   "sha1": "89b91a4fac1e8415d980e498bf260964a909811c"
+  },
+  {
+   "path": "capes/Minecon/minecon_2016.png",
+   "size": 8112,
+   "sha1": "f2c061b72a20120b7f530438a0d8a0b80a0f4053"
+  },
+  {
+   "path": "capes/OkenAaa/oken_01.png",
+   "size": 21928,
+   "sha1": "dcada0cd0a71a52841e33391e3f202bd402be32c"
+  },
+  {
+   "path": "capes/OkenAaa/oken_02.anim.png",
+   "size": 1429764,
+   "sha1": "830ae7c27ab83bd493671578edb554085cb5acbc"
+  },
+  {
+   "path": "capes/OkenAaa/oken_02.png",
+   "size": 37368,
+   "sha1": "031364693abff3791b7607efafd9013057e2f900"
+  },
+  {
+   "path": "capes/OkenAaa/oken_03.anim.png",
+   "size": 381865,
+   "sha1": "a4dd9ab9c883be4310d4a8f66a3756af102beec8"
+  },
+  {
+   "path": "capes/OkenAaa/oken_03.png",
+   "size": 19272,
+   "sha1": "964a744eada21edf65741abffa5caff27b883d65"
+  },
+  {
+   "path": "capes/OkenAaa/oken_04.png",
+   "size": 5895,
+   "sha1": "4e12750386384ebb36a5a078992725ecb04527a9"
+  },
+  {
+   "path": "capes/OkenAaa/oken_05.png",
+   "size": 34856,
+   "sha1": "ea4c8d8b644c26dc211b2d96ed05d5474a44e5b6"
+  },
+  {
+   "path": "capes/OkenAaa/oken_06.png",
+   "size": 23977,
+   "sha1": "2cce99e53af43aa791e4dee38eeba98b4521138f"
+  },
+  {
+   "path": "capes/OkenAaa/oken_07.png",
+   "size": 30424,
+   "sha1": "94400158fc3fd8fe1e4c830a1fa992e154e923d9"
+  },
+  {
+   "path": "capes/OkenAaa/oken_08.png",
+   "size": 9615,
+   "sha1": "2f71a89ff6a6593a49fa66b47d57e4bf011eeb81"
+  },
+  {
+   "path": "capes/OkenAaa/oken_09.png",
+   "size": 31055,
+   "sha1": "ae7c8f72d3fd461a8cab9ed7822410f7da3e12f4"
+  },
+  {
+   "path": "capes/OkenAaa/oken_10.anim.png",
+   "size": 251619,
+   "sha1": "cc3370760b6009bbcdf1124cbc35e434376a1c04"
+  },
+  {
+   "path": "capes/OkenAaa/oken_10.png",
+   "size": 9576,
+   "sha1": "e243119e005388038e5dff9b811f61dec9c28012"
+  },
+  {
+   "path": "capes/OkenAaa/oken_11.png",
+   "size": 22258,
+   "sha1": "1c2339fabce311ddeb749b79690242a824eba2bc"
+  },
+  {
+   "path": "capes/OkenAaa/oken_12.png",
+   "size": 31377,
+   "sha1": "0d7606403e70af04c32a05d179114816a34036ef"
+  },
+  {
+   "path": "capes/OkenAaa/oken_13.png",
+   "size": 32605,
+   "sha1": "e5bc494b2dd5d8deacd9c568ee150e1b28147960"
+  },
+  {
+   "path": "capes/OkenAaa/oken_14.anim.png",
+   "size": 455457,
+   "sha1": "af693c5d253cd958eb2540929d47e3bc0fa323e1"
+  },
+  {
+   "path": "capes/OkenAaa/oken_14.png",
+   "size": 26951,
+   "sha1": "a2019339f3cb25238c18689852ed264f29044776"
+  },
+  {
+   "path": "capes/OkenAaa/oken_15.png",
+   "size": 26816,
+   "sha1": "298bafcf3dec6ed9c57833f11e52bceb57af94f6"
+  },
+  {
+   "path": "capes/OkenAaa/oken_16.anim.png",
+   "size": 1001119,
+   "sha1": "4d052e246b67398ee616fda8f409bd455f5b049f"
+  },
+  {
+   "path": "capes/OkenAaa/oken_16.png",
+   "size": 33885,
+   "sha1": "46c98d90614669452d60667f8c6617fd83e6ea78"
+  },
+  {
+   "path": "capes/OkenAaa/oken_17.anim.png",
+   "size": 552920,
+   "sha1": "582ec4339e6bb2fd13583cb79c28e6a2afffcceb"
+  },
+  {
+   "path": "capes/OkenAaa/oken_17.png",
+   "size": 26878,
+   "sha1": "6263dcfde9631d0c7fcf07064939b1c76bf50537"
+  },
+  {
+   "path": "capes/OkenAaa/oken_18.png",
+   "size": 18062,
+   "sha1": "d31c71fa17299db6c13e53f6ff232fe6d788c9d5"
+  },
+  {
+   "path": "capes/OkenAaa/oken_19.anim.png",
+   "size": 242868,
+   "sha1": "83a636de0227a88d787472d59d935473de47ad5c"
+  },
+  {
+   "path": "capes/OkenAaa/oken_19.png",
+   "size": 19422,
+   "sha1": "9a796ccb8e0b95304d508be09620d5e8161167dd"
+  },
+  {
+   "path": "capes/OkenAaa/oken_20.anim.png",
+   "size": 520735,
+   "sha1": "76604912282e53227eedf576aae898256ad9c124"
+  },
+  {
+   "path": "capes/OkenAaa/oken_20.png",
+   "size": 27221,
+   "sha1": "b4c8930f762c85b9c8a45b64d33d26270d649590"
+  },
+  {
+   "path": "capes/OkenAaa/oken_21.png",
+   "size": 2367,
+   "sha1": "85defd7b459056abefd9968ca3753f854e8d46c7"
+  },
+  {
+   "path": "capes/OkenAaa/oken_22.anim.png",
+   "size": 274019,
+   "sha1": "2cc2e565fd196c533d361824d125033f56aa88b5"
+  },
+  {
+   "path": "capes/OkenAaa/oken_22.png",
+   "size": 9468,
+   "sha1": "fd4710f64f7eaa5ded80aeaa896ee2e3409b666e"
+  },
+  {
+   "path": "capes/OkenAaa/oken_23.png",
+   "size": 15600,
+   "sha1": "4637613398a73ffef767abffff0eabcbc807f51e"
+  },
+  {
+   "path": "capes/OkenAaa/oken_24.png",
+   "size": 15660,
+   "sha1": "c592b56ccfa1b9c90e1b7c295fc3a6448bb4b2c8"
+  },
+  {
+   "path": "capes/OkenAaa/oken_25.png",
+   "size": 34716,
+   "sha1": "9445d8c25ae0124e3248abf7871f6da49fbde1bc"
+  },
+  {
+   "path": "capes/OkenAaa/oken_26.png",
+   "size": 25758,
+   "sha1": "9c542bd7e6c80664ec5d4fecc0815ffc76a202c7"
+  },
+  {
+   "path": "capes/OkenAaa/oken_27.png",
+   "size": 8915,
+   "sha1": "98bb90dbe4832ab450b4497866335a8ceef851bf"
+  },
+  {
+   "path": "capes/OkenAaa/oken_28.anim.png",
+   "size": 712317,
+   "sha1": "5791aa065d125ec2eeb17faa92643b6a4d44eafd"
+  },
+  {
+   "path": "capes/OkenAaa/oken_28.png",
+   "size": 33302,
+   "sha1": "b7b860a83ca915f1e2b6606ed247cda0bacdeaa5"
+  },
+  {
+   "path": "capes/OkenAaa/oken_29.anim.png",
+   "size": 1232395,
+   "sha1": "5cc5eed7a17220c95b116668fe1d2c706974d55b"
+  },
+  {
+   "path": "capes/OkenAaa/oken_29.png",
+   "size": 34521,
+   "sha1": "a11f1c7def0651da8d6d38ecc45d55ad3e8b7043"
+  },
+  {
+   "path": "capes/OkenAaa/oken_30.anim.png",
+   "size": 2592398,
+   "sha1": "fbb84e142d8cd8faec9458b529135a5e93a97eb6"
+  },
+  {
+   "path": "capes/OkenAaa/oken_30.png",
+   "size": 10103,
+   "sha1": "3a318595da494f843f7dd8d559314a90ad8e4562"
+  },
+  {
+   "path": "capes/OkenAaa/oken_31.png",
+   "size": 26872,
+   "sha1": "25c760000bb630dd69e28c3ec30b8c7090f7c203"
+  },
+  {
+   "path": "capes/OkenAaa/oken_32.png",
+   "size": 30132,
+   "sha1": "5f12ab447aedaa0a058d504900f67a3d43f67bbe"
+  },
+  {
+   "path": "capes/OkenAaa/oken_33.anim.png",
+   "size": 1334160,
+   "sha1": "9d4af7e501a76c360ef15f3fefb3422ca6a1df5f"
+  },
+  {
+   "path": "capes/OkenAaa/oken_33.png",
+   "size": 35365,
+   "sha1": "0ae8c9d05d89a4219175c9a0b74600dcc2b0bf9e"
+  },
+  {
+   "path": "capes/OkenAaa/oken_34.anim.png",
+   "size": 579293,
+   "sha1": "13631b0298f8b0f22a1beedae8dd5fdd396ae850"
+  },
+  {
+   "path": "capes/OkenAaa/oken_34.png",
+   "size": 27700,
+   "sha1": "b3fba7fae0046f69f0d63df6f59d0674df2a1256"
+  },
+  {
+   "path": "capes/OkenAaa/oken_35.anim.png",
+   "size": 854252,
+   "sha1": "7b521453976aff2926ce0ae4091a349f12ddcc87"
+  },
+  {
+   "path": "capes/OkenAaa/oken_35.png",
+   "size": 30817,
+   "sha1": "626aa012fe4d092e632750f7e700a5a7f215fa16"
+  },
+  {
+   "path": "capes/OkenAaa/oken_36.anim.png",
+   "size": 633415,
+   "sha1": "cb666a0ab1916b9616691c2f4047a617755db809"
+  },
+  {
+   "path": "capes/OkenAaa/oken_36.png",
+   "size": 11752,
+   "sha1": "a6c5a7ad72c74c59bc8541f9289b624b624393c6"
+  },
+  {
+   "path": "capes/OkenAaa/oken_37.png",
+   "size": 20112,
+   "sha1": "44d625bf0bfa737cb9482d764b9e5c75e06bc010"
+  },
+  {
+   "path": "capes/OkenAaa/oken_38.anim.png",
+   "size": 775772,
+   "sha1": "e918c026442b1b8507f4a414156f2ab75f799b42"
+  },
+  {
+   "path": "capes/OkenAaa/oken_38.png",
+   "size": 32245,
+   "sha1": "540f218254175bf34cf9b196ba10f3a7b91be863"
+  },
+  {
+   "path": "capes/OkenAaa/oken_39.png",
+   "size": 29501,
+   "sha1": "ea79ea69b05df74f80efe051c677362b24fa4c83"
+  },
+  {
+   "path": "capes/OkenAaa/oken_40.anim.png",
+   "size": 507316,
+   "sha1": "6efe04a5b59560ab60a912e96b40b2d54978e9a4"
+  },
+  {
+   "path": "capes/OkenAaa/oken_40.png",
+   "size": 22596,
+   "sha1": "f1a7dd84efc019dc73e376c8eed14b033f39306e"
+  },
+  {
+   "path": "capes/OkenAaa/oken_41.png",
+   "size": 34220,
+   "sha1": "7764e0bb72cbbb31aaa319cdef110439680d836b"
+  },
+  {
+   "path": "capes/OkenAaa/oken_42.png",
+   "size": 6955,
+   "sha1": "35bc721c8eb590808e2bc534d5aa0e93bebd7099"
+  },
+  {
+   "path": "capes/OkenAaa/oken_43.png",
+   "size": 8550,
+   "sha1": "8b2b732d1157bbd5685fbcacc33825f153120e46"
+  },
+  {
+   "path": "capes/OkenAaa/oken_44.anim.png",
+   "size": 512550,
+   "sha1": "eb498cca5f256bf3f094626eb9a75bc5b3c45742"
+  },
+  {
+   "path": "capes/OkenAaa/oken_44.png",
+   "size": 27695,
+   "sha1": "5543b7a1b655ff523cb592a73d6b46fbf1685e55"
+  },
+  {
+   "path": "capes/OkenAaa/oken_45.png",
+   "size": 29356,
+   "sha1": "f38a2ecd352049c4761765c797987ca8c2c575cf"
+  },
+  {
+   "path": "capes/OkenAaa/oken_46.png",
+   "size": 25617,
+   "sha1": "07ad6617579d3545d57efeff527cfb50098cb7ca"
+  },
+  {
+   "path": "capes/OkenAaa/oken_47.anim.png",
+   "size": 46645,
+   "sha1": "a51943926d2c19293c03acaff5f132722d0e228d"
+  },
+  {
+   "path": "capes/OkenAaa/oken_47.png",
+   "size": 11904,
+   "sha1": "865dbd8fb22dd8d69a4968b9f09464a48b855c21"
+  },
+  {
+   "path": "capes/OkenAaa/oken_48.anim.png",
+   "size": 651078,
+   "sha1": "c2e5333707a7b138b8cdd0dfc1dde4ea0f3c7b13"
+  },
+  {
+   "path": "capes/OkenAaa/oken_48.png",
+   "size": 9216,
+   "sha1": "765aab6471cb5a4637c1a0bd3e34b1a33214fb23"
+  },
+  {
+   "path": "capes/OkenAaa/oken_49.png",
+   "size": 37227,
+   "sha1": "3cbb2eb9d4491c7f24127c181a15288e3909a7d0"
+  },
+  {
+   "path": "capes/OkenAaa/oken_50.anim.png",
+   "size": 425741,
+   "sha1": "aa09947fc107788978bb7fb431ef87b692561908"
+  },
+  {
+   "path": "capes/OkenAaa/oken_50.png",
+   "size": 29821,
+   "sha1": "65845cf6d1a7a61003d7fc98f9c5e1fc78609b71"
+  },
+  {
+   "path": "capes/OkenAaa/oken_51.anim.png",
+   "size": 705943,
+   "sha1": "5d820d2c6181779a14c8389693191f33d4937604"
+  },
+  {
+   "path": "capes/OkenAaa/oken_51.png",
+   "size": 35222,
+   "sha1": "785c7510d7787c6516f7735d22933b88aaebdab4"
+  },
+  {
+   "path": "capes/OkenAaa/oken_52.anim.png",
+   "size": 6999915,
+   "sha1": "44953f3630502efe65a3faf1c472917522b189bf"
+  },
+  {
+   "path": "capes/OkenAaa/oken_52.png",
+   "size": 87745,
+   "sha1": "d725aa3591ab337e499a2892ee65e333d3c57e8b"
+  },
+  {
+   "path": "capes/OkenAaa/oken_53.png",
+   "size": 6827,
+   "sha1": "969c9a540c71242c42184e7d724f77d657f1538a"
+  },
+  {
+   "path": "capes/OkenAaa/oken_54.png",
+   "size": 29046,
+   "sha1": "63505021ec34a29f4dc4d048b0e3ad921c98364d"
+  },
+  {
+   "path": "capes/OkenAaa/oken_55.anim.png",
+   "size": 673129,
+   "sha1": "409a18aa7e0ccbb6be964e21d3e1b23fd401d83d"
+  },
+  {
+   "path": "capes/OkenAaa/oken_55.png",
+   "size": 34333,
+   "sha1": "228a5ba31983f34b50baf4514601f2ccc4cb7cd1"
+  },
+  {
+   "path": "capes/OkenAaa/oken_56.png",
+   "size": 22797,
+   "sha1": "a7003d47233c2f7e652f52310fb3eae71a680294"
+  },
+  {
+   "path": "capes/OkenAaa/oken_57.png",
+   "size": 34492,
+   "sha1": "7a4515a9f185199f16191cb7b4d9a09eb5495bba"
+  },
+  {
+   "path": "capes/OkenAaa/oken_58.png",
+   "size": 33190,
+   "sha1": "b64a75d02fdc4dd38c4cdfd5ff9a75556ce4305a"
+  },
+  {
+   "path": "capes/OkenAaa/oken_59.anim.png",
+   "size": 399725,
+   "sha1": "2e28d2890cbf50f07825bb299442329cc88ff09c"
+  },
+  {
+   "path": "capes/OkenAaa/oken_59.png",
+   "size": 12003,
+   "sha1": "4c74f7342a53121e2bd4b2764de2e3438c3c4b31"
+  },
+  {
+   "path": "capes/OkenAaa/oken_60.anim.png",
+   "size": 502533,
+   "sha1": "699ca02e894acf837dbe795927e04ca7eb6b4d86"
+  },
+  {
+   "path": "capes/OkenAaa/oken_60.png",
+   "size": 6752,
+   "sha1": "8f5de44397fb3e9f1856fa6fd74ceb66373ebc5c"
+  },
+  {
+   "path": "capes/OkenAaa/oken_61.anim.png",
+   "size": 726199,
+   "sha1": "b1f8362a52a94a34953e5ad22ed5310c33459d1d"
+  },
+  {
+   "path": "capes/OkenAaa/oken_61.png",
+   "size": 20271,
+   "sha1": "af833f935780321812ee3ba946614cfc5cebdc46"
+  },
+  {
+   "path": "capes/OkenAaa/oken_62.png",
+   "size": 27093,
+   "sha1": "0ca8e93c42bdd2725434d5ca929a803256df069a"
+  },
+  {
+   "path": "capes/OkenAaa/oken_63.png",
+   "size": 11737,
+   "sha1": "245c9559323632bcac3f0a265131612d52575fae"
+  },
+  {
+   "path": "capes/OkenAaa/oken_64.png",
+   "size": 29938,
+   "sha1": "35be3827bb2dd5ce11a5ae44551f36360e7a96cd"
+  },
+  {
+   "path": "capes/OkenAaa/oken_65.png",
+   "size": 30687,
+   "sha1": "43636ff7a885baeb6c4c699be4f377232e68ce7d"
+  },
+  {
+   "path": "capes/Pack Oken/3_of_diamonds.png",
+   "size": 4567,
+   "sha1": "60023e335f5ac871ea1b62e005b54c0876adb359"
+  },
+  {
+   "path": "capes/Pack Oken/8bit_ice_mountains.png",
+   "size": 12879,
+   "sha1": "4fac20c02f20eb1bbc032c415e6374be0c51d465"
+  },
+  {
+   "path": "capes/Pack Oken/8bit_night_city.png",
+   "size": 9095,
+   "sha1": "fe9d11209c3f24e43c206b609e0a8e96c3b3e7fb"
+  },
+  {
+   "path": "capes/Pack Oken/8bit_snowy_volcano.png",
+   "size": 14166,
+   "sha1": "b02115dd53fc4a4ff949a2dde582d8c9eb0f11d0"
+  },
+  {
+   "path": "capes/Pack Oken/artifact.png",
+   "size": 3494,
+   "sha1": "d16b2d343245b1bce06fd6857b06db6708c10527"
+  },
+  {
+   "path": "capes/Pack Oken/battle_games_basic.png",
+   "size": 11000,
+   "sha1": "b45855e8a0851a74e98c61c79b6e8f8f48ee591f"
+  },
+  {
+   "path": "capes/Pack Oken/battle_games_gold.png",
+   "size": 45444,
+   "sha1": "a22af8b89d9305816595f21a37360eabd86ccd05"
+  },
+  {
+   "path": "capes/Pack Oken/battle_games_x.png",
+   "size": 6815,
+   "sha1": "947e29353c2f606bfb8a29091d6760cb00a371fd"
+  },
+  {
+   "path": "capes/Pack Oken/beach.png",
+   "size": 4255,
+   "sha1": "b2fb5c59af7a4c8dd9e70fd537cd0879f7da33cd"
+  },
+  {
+   "path": "capes/Pack Oken/bee.png",
+   "size": 38399,
+   "sha1": "c066e012e57dc996c5767d62bc3a0bd0ee843ad1"
+  },
+  {
+   "path": "capes/Pack Oken/blue_turtle.png",
+   "size": 27553,
+   "sha1": "8650f3830d60fb0bde8dc5edfa7e6cdf27f0d125"
+  },
+  {
+   "path": "capes/Pack Oken/cactus.png",
+   "size": 3545,
+   "sha1": "181b7fd4c20045a2ae31465469da5f97fd380bfb"
+  },
+  {
+   "path": "capes/Pack Oken/candy_stick.png",
+   "size": 18465,
+   "sha1": "c8c0af6e5da5f32c0c3632e5bc16c59e8a1390df"
+  },
+  {
+   "path": "capes/Pack Oken/castlebreaker.png",
+   "size": 5306,
+   "sha1": "0ab8796b0bcfacde314492a03c609f3ca98b5373"
+  },
+  {
+   "path": "capes/Pack Oken/cat_emoticon.png",
+   "size": 1553,
+   "sha1": "5ef39bd7cb55d35295e82920aa6dfdd22cd994ed"
+  },
+  {
+   "path": "capes/Pack Oken/cb_8bit_city.png",
+   "size": 27268,
+   "sha1": "d2e40250e6a827833456171f246f92f1f423e4b1"
+  },
+  {
+   "path": "capes/Pack Oken/cb_8bit_mountains.png",
+   "size": 46281,
+   "sha1": "b9d4a8c6efcfaa5cfad0483535006fd7aada1413"
+  },
+  {
+   "path": "capes/Pack Oken/cb_abstract.png",
+   "size": 54275,
+   "sha1": "fcd4a0482153f2abbd0676f2f3e890561d5ba226"
+  },
+  {
+   "path": "capes/Pack Oken/cb_black_purple_city.png",
+   "size": 15037,
+   "sha1": "f811689a9c1184ffb4cde468a67d2a6bf78d602e"
+  },
+  {
+   "path": "capes/Pack Oken/cb_blue.png",
+   "size": 20630,
+   "sha1": "9be2427f313be7dc568940252c337c5b44694d31"
+  },
+  {
+   "path": "capes/Pack Oken/cb_blue_galaxy.png",
+   "size": 28906,
+   "sha1": "3429726e72cae57aa53c5e6fd5da28e6c0a94ffe"
+  },
+  {
+   "path": "capes/Pack Oken/cb_cherry_tree.png",
+   "size": 73352,
+   "sha1": "020d63a1a3e9cf5fb730344a97781e4ee53accaf"
+  },
+  {
+   "path": "capes/Pack Oken/cb_chroma.png",
+   "size": 3090,
+   "sha1": "949955f0bd11d3668b436bcbe55b74d90b03b2b7"
+  },
+  {
+   "path": "capes/Pack Oken/cb_chroma_outline.png",
+   "size": 3138,
+   "sha1": "679e61f1f4761419c3b726612edf1f34f70c2bd0"
+  },
+  {
+   "path": "capes/Pack Oken/cb_cyan_galaxy.png",
+   "size": 29249,
+   "sha1": "285714575493c6cca09a0189e0cfa1aa5ce72b66"
+  },
+  {
+   "path": "capes/Pack Oken/cb_droplets.png",
+   "size": 34753,
+   "sha1": "0995f0cd576f1429dbe207fc4f093d8f7f2fb5cb"
+  },
+  {
+   "path": "capes/Pack Oken/cb_enderman.png",
+   "size": 6010,
+   "sha1": "0ff9dd95b79cafc866c7321bfdb2e5ff2f40b4f1"
+  },
+  {
+   "path": "capes/Pack Oken/cb_forest.png",
+   "size": 4927,
+   "sha1": "b36b058351b28350157050671efe46df5bbd6288"
+  },
+  {
+   "path": "capes/Pack Oken/cb_gold.png",
+   "size": 14588,
+   "sha1": "2648a8a69cbee078ade36d7b4648100210083ee0"
+  },
+  {
+   "path": "capes/Pack Oken/cb_golden_apple.png",
+   "size": 4545,
+   "sha1": "bcf21cfc482c2ae6db1cc7323fd3fdcce2bcd84d"
+  },
+  {
+   "path": "capes/Pack Oken/cb_golden_yellow.png",
+   "size": 21277,
+   "sha1": "fc25d8bf115248daddba493d68e989da258d2d37"
+  },
+  {
+   "path": "capes/Pack Oken/cb_green.png",
+   "size": 20623,
+   "sha1": "810aa9f5368d700c4203ce89bcdf5ba5e2a3e40a"
+  },
+  {
+   "path": "capes/Pack Oken/cb_grey_galaxy.png",
+   "size": 20520,
+   "sha1": "c5c4b7b30d9e5650e4bbba869ecf7875dc411765"
+  },
+  {
+   "path": "capes/Pack Oken/cb_lands.png",
+   "size": 12301,
+   "sha1": "31ca65226b8de7a73d8c10a6d637e571b20c72f3"
+  },
+  {
+   "path": "capes/Pack Oken/cb_landscape.png",
+   "size": 65505,
+   "sha1": "e670d06ab40c44dc6e9951251657761bd88a1790"
+  },
+  {
+   "path": "capes/Pack Oken/cb_lights.png",
+   "size": 43938,
+   "sha1": "9d121a82b67154fa1128e196eaed3bc5526e5abc"
+  },
+  {
+   "path": "capes/Pack Oken/cb_lines.png",
+   "size": 33696,
+   "sha1": "71e2ad7d4db8b75ef950afe73fdbb2852647d659"
+  },
+  {
+   "path": "capes/Pack Oken/cb_mushroom.png",
+   "size": 5988,
+   "sha1": "5b691ad0f3eed657266e5ac46e2c710c9c1074c2"
+  },
+  {
+   "path": "capes/Pack Oken/cb_night.png",
+   "size": 33780,
+   "sha1": "3e643a0325058cb39c56943804baa3bab390e6cd"
+  },
+  {
+   "path": "capes/Pack Oken/cb_night_cityscape.png",
+   "size": 40093,
+   "sha1": "6c0a9c145e7801f4feaad122fa25da2d257b32d3"
+  },
+  {
+   "path": "capes/Pack Oken/cb_nitro.png",
+   "size": 60821,
+   "sha1": "0d86d1630a3732dea2f1c1faa33833fc23ade193"
+  },
+  {
+   "path": "capes/Pack Oken/cb_no_connection.png",
+   "size": 10928,
+   "sha1": "3c19f08e989b1dd7a15374914ebe69413e996f2b"
+  },
+  {
+   "path": "capes/Pack Oken/cb_orange.png",
+   "size": 21417,
+   "sha1": "7153e0f5977c49d000378e709168769d71f64dd1"
+  },
+  {
+   "path": "capes/Pack Oken/cb_orange_purple_city.png",
+   "size": 15500,
+   "sha1": "edf5d0554e216781d5f87160e9a2b8a65c74a596"
+  },
+  {
+   "path": "capes/Pack Oken/cb_pink.png",
+   "size": 20824,
+   "sha1": "95f0b36a2da80a5eba8f2872801d90f3a937b16f"
+  },
+  {
+   "path": "capes/Pack Oken/cb_pixels.png",
+   "size": 4174,
+   "sha1": "5626fa91abe8a45c63a88b4bb0826c83d6270949"
+  },
+  {
+   "path": "capes/Pack Oken/cb_purple.png",
+   "size": 21035,
+   "sha1": "f9a156e9c9703437f26bad713d4e0cd74f598fb8"
+  },
+  {
+   "path": "capes/Pack Oken/cb_purple_galaxy.png",
+   "size": 35372,
+   "sha1": "b67e559e2598d3ca4dfd936d435f5cfd7abed87a"
+  },
+  {
+   "path": "capes/Pack Oken/cb_rainbow.png",
+   "size": 25065,
+   "sha1": "ce6de576e7a5f5c9fbc62de44918a3e669bc820e"
+  },
+  {
+   "path": "capes/Pack Oken/cb_red.png",
+   "size": 20449,
+   "sha1": "194f5d4e07196eabbdf130870440390de38e4597"
+  },
+  {
+   "path": "capes/Pack Oken/cb_red_purple_city.png",
+   "size": 15431,
+   "sha1": "7c9ae94cc7e77b3b2bad1484f1f25f69a4f59e3a"
+  },
+  {
+   "path": "capes/Pack Oken/cb_red_sky.png",
+   "size": 40021,
+   "sha1": "51b11c30390e22c24e977d33341a631bf9bf8806"
+  },
+  {
+   "path": "capes/Pack Oken/cb_reflections.png",
+   "size": 11577,
+   "sha1": "1756238daf209c4816984655bb02622ea2f29245"
+  },
+  {
+   "path": "capes/Pack Oken/cb_sea.png",
+   "size": 57255,
+   "sha1": "efcb43a4af01ea08b0e477881397a7fccd53e562"
+  },
+  {
+   "path": "capes/Pack Oken/cb_sea_sunset.png",
+   "size": 31762,
+   "sha1": "f8dd4cc83ec87728bc819951b4b8647b63e8e787"
+  },
+  {
+   "path": "capes/Pack Oken/cb_sky.png",
+   "size": 51312,
+   "sha1": "5a308ed221b25423b74afc09a6101dc9162875f3"
+  },
+  {
+   "path": "capes/Pack Oken/cb_software.png",
+   "size": 5226,
+   "sha1": "d0239614118f4207c30531dfc29626ad4a5f17ca"
+  },
+  {
+   "path": "capes/Pack Oken/cb_solid_black.png",
+   "size": 3718,
+   "sha1": "23f4e2b1c9a774b17489c8a0c3765bb227457a20"
+  },
+  {
+   "path": "capes/Pack Oken/cb_solid_red.png",
+   "size": 2609,
+   "sha1": "958091bbe01d5dd446432c0a625b9ad62b5e36f5"
+  },
+  {
+   "path": "capes/Pack Oken/cb_solid_white.png",
+   "size": 3600,
+   "sha1": "5aaa9f64e523fc3690ffe6a7b50c4780d9a62f52"
+  },
+  {
+   "path": "capes/Pack Oken/cb_spruce.png",
+   "size": 51811,
+   "sha1": "6a46865cc4e3ae380d05ac8cd70797b1dffa5fa2"
+  },
+  {
+   "path": "capes/Pack Oken/cb_summer.png",
+   "size": 25168,
+   "sha1": "cea913d13d5c61bc4d5dd80299b9877c0b28b49c"
+  },
+  {
+   "path": "capes/Pack Oken/cb_supernova.png",
+   "size": 69219,
+   "sha1": "18567f3d62d3861f65caaf1a6b175d37f338e7ea"
+  },
+  {
+   "path": "capes/Pack Oken/cb_teal.png",
+   "size": 21102,
+   "sha1": "b1c523a8c577342596e903c9aa4d5aab0e7c98b0"
+  },
+  {
+   "path": "capes/Pack Oken/cb_tokyo.png",
+   "size": 29781,
+   "sha1": "09f1350610c0b1e54facca1ff475e6df6ba49e91"
+  },
+  {
+   "path": "capes/Pack Oken/cb_vampire.png",
+   "size": 2838,
+   "sha1": "84fd360218e9ba40eec7d95f312b215576fe9eef"
+  },
+  {
+   "path": "capes/Pack Oken/cb_waves.png",
+   "size": 71882,
+   "sha1": "64ef3b1d78ff90ccb0a5c44131dbf8397efcf60c"
+  },
+  {
+   "path": "capes/Pack Oken/cb_white_purple_city.png",
+   "size": 15648,
+   "sha1": "44e94b5f3a1aab5a06a2e32dc77c8429497cb529"
+  },
+  {
+   "path": "capes/Pack Oken/cb_winter.png",
+   "size": 73616,
+   "sha1": "68e30d2133d0569515b2f1d339db03f48544ad32"
+  },
+  {
+   "path": "capes/Pack Oken/cb_yellow.png",
+   "size": 20755,
+   "sha1": "2f77a8a7deb71a49423aec7eb7a2130a9802d003"
+  },
+  {
+   "path": "capes/Pack Oken/cb_yellow_galaxy.png",
+   "size": 34648,
+   "sha1": "97e34a5378c8b798dd8e45c2259c99ce556f3ce7"
+  },
+  {
+   "path": "capes/Pack Oken/chatty.png",
+   "size": 4355,
+   "sha1": "b9cf272ea82f459d6c1bff41caca1da4c53fc648"
+  },
+  {
+   "path": "capes/Pack Oken/cheatbreaker.png",
+   "size": 63899,
+   "sha1": "37ec8e888d5e8fa424b136ad13d4d7003a59fcf4"
+  },
+  {
+   "path": "capes/Pack Oken/cherry_tree.png",
+   "size": 4770,
+   "sha1": "212ab0fb4f810aacf5d1484ce136a53075c513b1"
+  },
+  {
+   "path": "capes/Pack Oken/chess_pawn.png",
+   "size": 4931,
+   "sha1": "00556db9fe6f397194567cafb3a99eba56b21ce5"
+  },
+  {
+   "path": "capes/Pack Oken/cold_basic.png",
+   "size": 13186,
+   "sha1": "16fdd305cad90650df57b99819ad6ec23a355263"
+  },
+  {
+   "path": "capes/Pack Oken/cold_night.png",
+   "size": 13180,
+   "sha1": "37cc33a566506ca4d883927d138b06941a850311"
+  },
+  {
+   "path": "capes/Pack Oken/cold_stark.png",
+   "size": 24049,
+   "sha1": "46b2e01b3f2ef0e82923d5c9495cdea44771da86"
+  },
+  {
+   "path": "capes/Pack Oken/cow_abduction.png",
+   "size": 61353,
+   "sha1": "fcd3cfd6db0d628f6e7129ba37b2ec1ef3782495"
+  },
+  {
+   "path": "capes/Pack Oken/creeper.png",
+   "size": 6128,
+   "sha1": "26be07cfd9311113857e4ffc4345d6001a55fab5"
+  },
+  {
+   "path": "capes/Pack Oken/crown.png",
+   "size": 7542,
+   "sha1": "f845fb1cc5464083152f05adb0fe51c43be28aeb"
+  },
+  {
+   "path": "capes/Pack Oken/dealer.png",
+   "size": 9342,
+   "sha1": "86f7c08432f513d822b0508e85e21c8412c4fa37"
+  },
+  {
+   "path": "capes/Pack Oken/diamond.png",
+   "size": 13668,
+   "sha1": "2754ea668075753eabc69d26539965ed1c01aa07"
+  },
+  {
+   "path": "capes/Pack Oken/emerald.png",
+   "size": 14460,
+   "sha1": "789a729b66ef1e02d43bc18502ef4e2c727fb591"
+  },
+  {
+   "path": "capes/Pack Oken/enchanting_table.png",
+   "size": 11627,
+   "sha1": "2b554f56da4247a3669334f3d4c49e3ba73f4486"
+  },
+  {
+   "path": "capes/Pack Oken/enderman.png",
+   "size": 6995,
+   "sha1": "27d379e418a93cc08bed3e1e6cbe59a79dfcc925"
+  },
+  {
+   "path": "capes/Pack Oken/fire.png",
+   "size": 4986,
+   "sha1": "c025e5480732c41bff6aa133fe64154fea8860ce"
+  },
+  {
+   "path": "capes/Pack Oken/fishing.png",
+   "size": 4690,
+   "sha1": "cfe3a811d48c956102cd6cdaae04cc43d7c492d3"
+  },
+  {
+   "path": "capes/Pack Oken/fishy_business.png",
+   "size": 70549,
+   "sha1": "bcd8a698036a4548c041928d2cc9e6fe18f6cbd6"
+  },
+  {
+   "path": "capes/Pack Oken/flame.png",
+   "size": 5292,
+   "sha1": "72d12f60a4c295f26f79eb05852a33867b48a11b"
+  },
+  {
+   "path": "capes/Pack Oken/flower_golem.png",
+   "size": 59602,
+   "sha1": "53167ce28307d735a97b3f2e490dfb7f196c0e6d"
+  },
+  {
+   "path": "capes/Pack Oken/fluffy.png",
+   "size": 5089,
+   "sha1": "8fb6012f9be0312dba5a6dc6823c27206bc30aae"
+  },
+  {
+   "path": "capes/Pack Oken/foggy_blue_cb.png",
+   "size": 30501,
+   "sha1": "b99e3cec09d5416d643e347dfcc599721bc0fc4b"
+  },
+  {
+   "path": "capes/Pack Oken/foggy_red_cb.png",
+   "size": 30103,
+   "sha1": "f0d5ad28402dfc1ed9bf40bc760ed9682c025c11"
+  },
+  {
+   "path": "capes/Pack Oken/forest_house.png",
+   "size": 25658,
+   "sha1": "aecfae6378381b69d4b57ad3a6871dd6105c7eb8"
+  },
+  {
+   "path": "capes/Pack Oken/furnace.png",
+   "size": 5002,
+   "sha1": "35045f30aff496fb2e611cbfe84b001e711322ff"
+  },
+  {
+   "path": "capes/Pack Oken/futuristic_cb.png",
+   "size": 4732,
+   "sha1": "fbd9502845b9907d621e6c4140a6df3ea2170b99"
+  },
+  {
+   "path": "capes/Pack Oken/ghast.png",
+   "size": 5471,
+   "sha1": "94f9dad5e3555c6b927144b5fda3e0950e490948"
+  },
+  {
+   "path": "capes/Pack Oken/gold_ingot.png",
+   "size": 14622,
+   "sha1": "1af4b32e1fa3327701a532684eb7fc9e4c014dac"
+  },
+  {
+   "path": "capes/Pack Oken/golden_apple.png",
+   "size": 15548,
+   "sha1": "c48ada02c38d1e79d7853d0a63cbcf697e82389e"
+  },
+  {
+   "path": "capes/Pack Oken/goldenpvp_network_forest.png",
+   "size": 71629,
+   "sha1": "8c256ec7f108ed196d39231ab1915323499420f6"
+  },
+  {
+   "path": "capes/Pack Oken/goldenpvp_network_sea.png",
+   "size": 58643,
+   "sha1": "3f3d9afdc8b6693f8bc6988373213e41a8e65040"
+  },
+  {
+   "path": "capes/Pack Oken/grave_bane.png",
+   "size": 43648,
+   "sha1": "52854b7df917036b9afd4aaefae301adeb161a27"
+  },
+  {
+   "path": "capes/Pack Oken/grin_emoticon.png",
+   "size": 1605,
+   "sha1": "dc765f9955edb4bf980c161a60a02fd53795077d"
+  },
+  {
+   "path": "capes/Pack Oken/half_a_heart.png",
+   "size": 8335,
+   "sha1": "d20d5ed1b56572be2c7c9c8cfd1306b5a709090f"
+  },
+  {
+   "path": "capes/Pack Oken/heart_emoticon.png",
+   "size": 1626,
+   "sha1": "c4d6ebf8f81a93cf2e2796342572d5f2501dbb22"
+  },
+  {
+   "path": "capes/Pack Oken/holidays_tree.png",
+   "size": 12223,
+   "sha1": "e6693dd3748f658d2c2aab171457f994752d1740"
+  },
+  {
+   "path": "capes/Pack Oken/i_use_arch_btw.png",
+   "size": 4138,
+   "sha1": "82137cb3bcdcd8df5346f287e591e4c62a0b94ff"
+  },
+  {
+   "path": "capes/Pack Oken/instant_damage.png",
+   "size": 5622,
+   "sha1": "d7dffe793ac83ea73cb19e5629c190e3debb9ee8"
+  },
+  {
+   "path": "capes/Pack Oken/iron_ingot.png",
+   "size": 14217,
+   "sha1": "01e37d17ba7a9b415d42457a4baf3353b6bd101d"
+  },
+  {
+   "path": "capes/Pack Oken/lapis.png",
+   "size": 11939,
+   "sha1": "5ccbfec64a9bbaebe62329e972e7a3e0b3751452"
+  },
+  {
+   "path": "capes/Pack Oken/layers.png",
+   "size": 5405,
+   "sha1": "9b9c50e10c227b5f3a5c91d18446a25e9541ef52"
+  },
+  {
+   "path": "capes/Pack Oken/light_bulb.png",
+   "size": 4372,
+   "sha1": "be0f22dfa7560fae2a3e559d037e13746d86fb68"
+  },
+  {
+   "path": "capes/Pack Oken/lightning_rod.png",
+   "size": 64594,
+   "sha1": "cba6cc267fa34cd78f77c1bca0bb5b0a636510ac"
+  },
+  {
+   "path": "capes/Pack Oken/lightning_rod_artifact.png",
+   "size": 66791,
+   "sha1": "940c2521a6c001d6d2e385ddd7cab768068c7a0c"
+  },
+  {
+   "path": "capes/Pack Oken/lucky_block.png",
+   "size": 42735,
+   "sha1": "a34e859f9d32c6945bedce71477a461b22417e0d"
+  },
+  {
+   "path": "capes/Pack Oken/magma_cream.png",
+   "size": 32118,
+   "sha1": "165095ea0b5089050bc9a6403096b40c1182d55d"
+  },
+  {
+   "path": "capes/Pack Oken/matrix.png",
+   "size": 21103,
+   "sha1": "ba4142516860ee2b017e5545f6f67fa422fa3bd2"
+  },
+  {
+   "path": "capes/Pack Oken/midnight.png",
+   "size": 8893,
+   "sha1": "4000c816329e237d84788417a7b4bbabe924bea0"
+  },
+  {
+   "path": "capes/Pack Oken/minehq_network_black.png",
+   "size": 5639,
+   "sha1": "82b1466e6f58389c1ee357d41e2eb399e95a10b1"
+  },
+  {
+   "path": "capes/Pack Oken/minehq_network_white.png",
+   "size": 6446,
+   "sha1": "08decf64593661dc5d8e08466386c0f99fd3eb84"
+  },
+  {
+   "path": "capes/Pack Oken/moon.png",
+   "size": 6699,
+   "sha1": "1e1019a82ffc8c00ad979efac80c74eddfe3433c"
+  },
+  {
+   "path": "capes/Pack Oken/mushroom.png",
+   "size": 3442,
+   "sha1": "2bd32fe14a5dce68dc3ef0359401074b73be3295"
+  },
+  {
+   "path": "capes/Pack Oken/netherite.png",
+   "size": 5200,
+   "sha1": "99be8c032f155d6bd700e6d79f09df1e218b0edf"
+  },
+  {
+   "path": "capes/Pack Oken/nitro_booster.png",
+   "size": 3831,
+   "sha1": "46ad6f2e7c2a5392398307df927048090947fd43"
+  },
+  {
+   "path": "capes/Pack Oken/ocb_youtube_famous.png",
+   "size": 45003,
+   "sha1": "d0f6dbe777909788b5b9f8d8e9cd7afbc69f7f94"
+  },
+  {
+   "path": "capes/Pack Oken/offline_cheatbreaker.png",
+   "size": 39212,
+   "sha1": "a9c2dddc3c8920c946ed62cab9fc6a30e5937901"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_black.png",
+   "size": 10379,
+   "sha1": "13516439dc75a133144aaaea5b7c4ffb9cc5de2b"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_blue.png",
+   "size": 3016,
+   "sha1": "48cd3c5680fe2ca0eb9a1e75cea05b70c195ca73"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_blue_outline.png",
+   "size": 2684,
+   "sha1": "de66b052a3d56df4efbca0b23bfc8d30266eeaa0"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_green.png",
+   "size": 3030,
+   "sha1": "e245d4d5cdd306c76e352087feb3f4f9f41525c0"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_green_outline.png",
+   "size": 2724,
+   "sha1": "486c1de900ec787e5fee52f2e22d8593b2140ca9"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_red.png",
+   "size": 2996,
+   "sha1": "e395f139612546d012bf5f6123004ed9ee98f5f0"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_red_outline.png",
+   "size": 2721,
+   "sha1": "243a563bd26f74de99076843a0ea819eb8d279cd"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_vampire.png",
+   "size": 3144,
+   "sha1": "d926e23852d13d36d912b6f11480f19273d0859e"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_vampire_outline.png",
+   "size": 2713,
+   "sha1": "c1282ddef5c20b3a1915d43ea0519c74066e8e05"
+  },
+  {
+   "path": "capes/Pack Oken/og_cb_white.png",
+   "size": 5613,
+   "sha1": "e24d9679cabfd7401d4736ad3387100853e6cdb8"
+  },
+  {
+   "path": "capes/Pack Oken/panda.png",
+   "size": 3566,
+   "sha1": "0ecc641363b24ec54aba7d8fb87e16954339e01d"
+  },
+  {
+   "path": "capes/Pack Oken/phantom.png",
+   "size": 39664,
+   "sha1": "24b019d487abc46021b8865b91287796936d6524"
+  },
+  {
+   "path": "capes/Pack Oken/pitch_black_cb.png",
+   "size": 2480,
+   "sha1": "5076b8e702a66de3a898e0a86762ee6558ea00b9"
+  },
+  {
+   "path": "capes/Pack Oken/poison.png",
+   "size": 5072,
+   "sha1": "a06ff62d5984f8844dd5edcd5e04d1913221fe8d"
+  },
+  {
+   "path": "capes/Pack Oken/polar_bear.png",
+   "size": 63098,
+   "sha1": "8718d24ce04da35e77d954045a09c41b74b2a65a"
+  },
+  {
+   "path": "capes/Pack Oken/potion.png",
+   "size": 21211,
+   "sha1": "e1121c0f5cde72f8cdf3d824875f63ac19c9aabc"
+  },
+  {
+   "path": "capes/Pack Oken/prismatic_cb.png",
+   "size": 30384,
+   "sha1": "b98e3d25bc4b3039f6f1680cd9a5b03bfa22f3ee"
+  },
+  {
+   "path": "capes/Pack Oken/pumpkin.png",
+   "size": 5923,
+   "sha1": "79017ec66f89f39f3cda88cf554315944f7ba42d"
+  },
+  {
+   "path": "capes/Pack Oken/pvprivals.png",
+   "size": 26630,
+   "sha1": "4dda7d31f61106da8c5a919037412237515dbd18"
+  },
+  {
+   "path": "capes/Pack Oken/redstone.png",
+   "size": 13939,
+   "sha1": "8a1f8e953f421a039f5cb6a2949d542f4cd178da"
+  },
+  {
+   "path": "capes/Pack Oken/rose.png",
+   "size": 6965,
+   "sha1": "7b0cb764a9b07d1db76ec06fe224e7cc321457fd"
+  },
+  {
+   "path": "capes/Pack Oken/ruby.png",
+   "size": 15794,
+   "sha1": "ae339bfbfa3c99542878710bf960e0bffe007c95"
+  },
+  {
+   "path": "capes/Pack Oken/sea_midnight.png",
+   "size": 49265,
+   "sha1": "8a461f9c30e2072b870ee991174481f2912acf5c"
+  },
+  {
+   "path": "capes/Pack Oken/sea_shell.png",
+   "size": 6003,
+   "sha1": "d7f6bd424c69df1d00480c5569870671bd214654"
+  },
+  {
+   "path": "capes/Pack Oken/sea_sunset.png",
+   "size": 9575,
+   "sha1": "af4ea44b2ec78683dcfa22076f55ddafccca1859"
+  },
+  {
+   "path": "capes/Pack Oken/shield.png",
+   "size": 4790,
+   "sha1": "356c3885414ddce3cdddf572eaf45b65119338c9"
+  },
+  {
+   "path": "capes/Pack Oken/ship.png",
+   "size": 4041,
+   "sha1": "4b9eb7ec972398007ed05fba7941f1731dc47850"
+  },
+  {
+   "path": "capes/Pack Oken/shock_emoticon.png",
+   "size": 1535,
+   "sha1": "5425bb41fad50af9d86a1d5557c270ef942c44cf"
+  },
+  {
+   "path": "capes/Pack Oken/shulker.png",
+   "size": 9595,
+   "sha1": "4014fa0c600798b2035560a0a4844cd4fb2f2cd8"
+  },
+  {
+   "path": "capes/Pack Oken/smily_emoticon.png",
+   "size": 1484,
+   "sha1": "b22051477893fe63a4aff271cb0990d9c19dd33a"
+  },
+  {
+   "path": "capes/Pack Oken/snowball.png",
+   "size": 20347,
+   "sha1": "c088167401ca702dd6e5d0a10ad222d0c8cecb73"
+  },
+  {
+   "path": "capes/Pack Oken/snowy_mountains.png",
+   "size": 16410,
+   "sha1": "e276c6f095a868195323c2c83be75f7a3147f382"
+  },
+  {
+   "path": "capes/Pack Oken/soup.png",
+   "size": 26397,
+   "sha1": "5e26a767dbb9d38e369335b2ceef5d800d5b81f9"
+  },
+  {
+   "path": "capes/Pack Oken/space_invaders.png",
+   "size": 16854,
+   "sha1": "936cd536f70649eeb744b8eec95a1d9f62299b4d"
+  },
+  {
+   "path": "capes/Pack Oken/starry_night.png",
+   "size": 27727,
+   "sha1": "bbc22de4e8313d5e5bdf844aa0605c90ad99d019"
+  },
+  {
+   "path": "capes/Pack Oken/sunset.png",
+   "size": 28617,
+   "sha1": "77a8460d7e49a9b4b65d0a722c88030a1c4a33a7"
+  },
+  {
+   "path": "capes/Pack Oken/sword.png",
+   "size": 19063,
+   "sha1": "08f6ca64d6e45ad8f43171382704e22e2496f2d7"
+  },
+  {
+   "path": "capes/Pack Oken/tiktok.png",
+   "size": 23720,
+   "sha1": "b72377829d9b6de82ac3f6a940ba2934b9befb52"
+  },
+  {
+   "path": "capes/Pack Oken/tiktok_famous.png",
+   "size": 22467,
+   "sha1": "1d5b8dc72a50b515b26c6114a2b52bd4e7d20e02"
+  },
+  {
+   "path": "capes/Pack Oken/totem.png",
+   "size": 23210,
+   "sha1": "e444139017aa17c4e0c99301636b393d2c015e5a"
+  },
+  {
+   "path": "capes/Pack Oken/turtle.png",
+   "size": 24812,
+   "sha1": "b4eb8e40e58b5b765c0c096995cc14d93cff5ba5"
+  },
+  {
+   "path": "capes/Pack Oken/twitch.png",
+   "size": 4365,
+   "sha1": "f9bca1c6dfd6e24ad1b5dc98ac19a22e7f0f844d"
+  },
+  {
+   "path": "capes/Pack Oken/twitch_famous.png",
+   "size": 4783,
+   "sha1": "b8524855033bf0e81ea2413a7740ac286d065275"
+  },
+  {
+   "path": "capes/Pack Oken/ultra_network_black.png",
+   "size": 8710,
+   "sha1": "fafbc672c81be2fce58e7e724d7317557491fedb"
+  },
+  {
+   "path": "capes/Pack Oken/ultra_network_white.png",
+   "size": 8832,
+   "sha1": "88d5a00d28381ef872e9aad8852126613d0d0c6a"
+  },
+  {
+   "path": "capes/Pack Oken/unicycle_frog.png",
+   "size": 3683,
+   "sha1": "d608bf459a4bfe729c7cb3fe52d6cf19bdd6b908"
+  },
+  {
+   "path": "capes/Pack Oken/volcano.png",
+   "size": 6840,
+   "sha1": "90ec4231996c04cd600a9e23ca165a95d67997e5"
+  },
+  {
+   "path": "capes/Pack Oken/wild_cb.png",
+   "size": 46679,
+   "sha1": "b7b0f87a0c16914c368c8d57d4398ce3d3a16d66"
+  },
+  {
+   "path": "capes/Pack Oken/wither.png",
+   "size": 6352,
+   "sha1": "a142615d06313131c87f51314392b2a6fde3a075"
+  },
+  {
+   "path": "capes/Pack Oken/youtube.png",
+   "size": 4375,
+   "sha1": "32925c58965c9df1780bcff229a71ba378e8d72d"
+  },
+  {
+   "path": "capes/Pack Oken/youtube_famous.png",
+   "size": 5352,
+   "sha1": "d84eee11a81d7b3681c989af851ad608c0783a77"
+  },
+  {
+   "path": "capes/Pack Oken/ziblacking.png",
+   "size": 39984,
+   "sha1": "8989e35bd695cc2084e3ff4c0dcd5a2ffa8f5a1f"
+  },
+  {
+   "path": "capes/Ufficiali/anniversario_15.png",
+   "size": 8632,
+   "sha1": "f0071f56768e44bf6c09c942d58169dc9a2a61f0"
+  },
+  {
+   "path": "capes/Ufficiali/birthday.png",
+   "size": 7912,
+   "sha1": "3ca451771845f014091a1346765e1cec1709c6ff"
+  },
+  {
+   "path": "capes/Ufficiali/blueprint.png",
+   "size": 8550,
+   "sha1": "bb747f86bbcefdf09fe61de67d728d3a734d3cc6"
+  },
+  {
+   "path": "capes/Ufficiali/builder.png",
+   "size": 8356,
+   "sha1": "f90722312e47cee81c7d0765cd18c5feb6785a87"
+  },
+  {
+   "path": "capes/Ufficiali/cherry_blossom.png",
+   "size": 7489,
+   "sha1": "66c7b3984de19077e9dc0386d9d2ec858504f7e1"
+  },
+  {
+   "path": "capes/Ufficiali/chinese_translator.png",
+   "size": 9388,
+   "sha1": "77df359a2dffbda0d65756e2c02fb281d5135040"
+  },
+  {
+   "path": "capes/Ufficiali/cobalt.png",
+   "size": 9920,
+   "sha1": "29549fb69f397b9effd4633b71db40fbf02aab21"
+  },
+  {
+   "path": "capes/Ufficiali/common.png",
+   "size": 7932,
+   "sha1": "ef98a47860729af697a4c9b249cdd61b26010776"
+  },
+  {
+   "path": "capes/Ufficiali/copper.png",
+   "size": 9692,
+   "sha1": "c619e82bd1f3f8d881d2c9586f6c69332e762fd1"
+  },
+  {
+   "path": "capes/Ufficiali/crafter.png",
+   "size": 8417,
+   "sha1": "758dae7b3caa4599a0522ce7509c755f944f6c1d"
+  },
+  {
+   "path": "capes/Ufficiali/followers.png",
+   "size": 9973,
+   "sha1": "b6792062c9f8afa51c5c1bd852c81c3d186fb719"
+  },
+  {
+   "path": "capes/Ufficiali/founders.png",
+   "size": 8177,
+   "sha1": "b43b94075e4428b230ecec46e717c31aa48b9558"
+  },
+  {
+   "path": "capes/Ufficiali/home.png",
+   "size": 7067,
+   "sha1": "a28a5decb1d1bda71cfdc612ab0be3fd9b54be09"
+  },
+  {
+   "path": "capes/Ufficiali/mcc_15.png",
+   "size": 9112,
+   "sha1": "23c8f4244795c14102d04afeec9fd5b985cf40f5"
+  },
+  {
+   "path": "capes/Ufficiali/menace.png",
+   "size": 8061,
+   "sha1": "c675bf1016706e6dc186dec97ec49aecb5577a8e"
+  },
+  {
+   "path": "capes/Ufficiali/migrator.png",
+   "size": 8397,
+   "sha1": "5bd102508d532735f07d41513384259543a5e9bf"
+  },
+  {
+   "path": "capes/Ufficiali/millionth_customer.png",
+   "size": 9854,
+   "sha1": "8477d4b62eb9784e12fd7093e2ea127671c45cac"
+  },
+  {
+   "path": "capes/Ufficiali/minecraft_experience.png",
+   "size": 8914,
+   "sha1": "4f79c3188172b9e1f8f5bce6468fa70f29831a52"
+  },
+  {
+   "path": "capes/Ufficiali/mojang.png",
+   "size": 8746,
+   "sha1": "894aa700b8e676facc3e347660213c6cea33834b"
+  },
+  {
+   "path": "capes/Ufficiali/mojang_classic.png",
+   "size": 8884,
+   "sha1": "c264d369d725f791f55f4c0f3f3a490a40028485"
+  },
+  {
+   "path": "capes/Ufficiali/mojang_office.png",
+   "size": 7474,
+   "sha1": "7c9b75859b44a63c7563fd8cdc91b874d5cf2842"
+  },
+  {
+   "path": "capes/Ufficiali/mojang_studios.png",
+   "size": 6748,
+   "sha1": "c4bb0f723c9224ac66c59d056fe37d1a55c0737b"
+  },
+  {
+   "path": "capes/Ufficiali/mojira_moderator.png",
+   "size": 9944,
+   "sha1": "94a3d726c433374ded43203a41fb8a37e87cc154"
+  },
+  {
+   "path": "capes/Ufficiali/moonlight_trail.png",
+   "size": 7496,
+   "sha1": "0b19d3493fcb70300b6b8677f98787f6016d8336"
+  },
+  {
+   "path": "capes/Ufficiali/oxeye.png",
+   "size": 6975,
+   "sha1": "2208302fe3492eb293b7ab4b312a0d95a3b25378"
+  },
+  {
+   "path": "capes/Ufficiali/pan.png",
+   "size": 7956,
+   "sha1": "6944dda95c7440aea768d860517101bf53a848d2"
+  },
+  {
+   "path": "capes/Ufficiali/prismarine.png",
+   "size": 11569,
+   "sha1": "336d01e3f5c119fab077c06f61aab9da843a945d"
+  },
+  {
+   "path": "capes/Ufficiali/purple_heart.png",
+   "size": 10584,
+   "sha1": "35662fc739316701f227f9050fa228308f7913d2"
+  },
+  {
+   "path": "capes/Ufficiali/realms_mapmaker.png",
+   "size": 8770,
+   "sha1": "a8628b71e72981fdda25140694abd24613987d12"
+  },
+  {
+   "path": "capes/Ufficiali/scrolls.png",
+   "size": 9553,
+   "sha1": "46c20e81461f01493a560a18e5075a2036f9059b"
+  },
+  {
+   "path": "capes/Ufficiali/translator.png",
+   "size": 8949,
+   "sha1": "df33109517c7d1efc09138dde457529e264e5e7d"
+  },
+  {
+   "path": "capes/Ufficiali/turtle_mojang.png",
+   "size": 8178,
+   "sha1": "aacf674037535d487ba660c6ccc03e5f0f97d264"
+  },
+  {
+   "path": "capes/Ufficiali/valentine.png",
+   "size": 10270,
+   "sha1": "25361de450ee9670635daaaeb1eaa5e38bb4a132"
+  },
+  {
+   "path": "capes/Ufficiali/vanilla.png",
+   "size": 9990,
+   "sha1": "e804153078cc31c414bb655f27eedf4c3e3a5910"
+  },
+  {
+   "path": "capes/Ufficiali/yearn.png",
+   "size": 8310,
+   "sha1": "312d121e1ff51da0d3096643ce1dfd33e79aed87"
+  },
+  {
+   "path": "capes/Ufficiali/zombie_horse.png",
+   "size": 10702,
+   "sha1": "baeef439e08e59d9446f073933d180404e44e93b"
+  },
+  {
+   "path": "capes/exile.png",
+   "size": 3091546,
+   "sha1": "28380195113e523f5a8cf5c13163e1e96ceef265"
+  },
+  {
+   "path": "capes/exile.txt",
+   "size": 134,
+   "sha1": "d3933303170713025e74149ead4b5e969cb5161a"
+  },
+  {
+   "path": "capes/exile_carosello.anim.png",
+   "size": 479712,
+   "sha1": "cd6a7ee553eedf0411c9de027e057f7ef0e54d9f"
+  },
+  {
+   "path": "capes/exile_carosello.png",
+   "size": 40388,
+   "sha1": "ac5610bf43f761550be9d0b99e0a99e6ec4fe5af"
+  },
+  {
+   "path": "capes/exile_carosello.txt",
+   "size": 657,
+   "sha1": "f1477a51d3d265a5a8402829bfe1818a52e10b83"
+  },
+  {
+   "path": "capes/exile_fasi_lunari.anim.png",
+   "size": 395737,
+   "sha1": "3b89628ffc342c0da4e71e56bc4d4be61faf6cb4"
+  },
+  {
+   "path": "capes/exile_fasi_lunari.png",
+   "size": 41802,
+   "sha1": "8347b310a9a86be9f143ee61793fa463dd91abd5"
+  },
+  {
+   "path": "capes/exile_fasi_lunari.txt",
+   "size": 118,
+   "sha1": "eaf3e46de60a3fcf26fa24396ffde2a63f0cfae9"
+  },
+  {
+   "path": "capes/exile_foto_luna.anim.png",
+   "size": 2242988,
+   "sha1": "3371eecda1ece74e2827fa59245a59930ce2bf58"
+  },
+  {
+   "path": "capes/exile_foto_luna.png",
+   "size": 336856,
+   "sha1": "6917d450a8cf56f51a56dde75a929a9fa82dcde0"
+  },
+  {
+   "path": "capes/exile_foto_luna.txt",
+   "size": 176,
+   "sha1": "cbe3c97c607bbf38ebf71af6f7f992d1c10e79f1"
+  },
+  {
+   "path": "capes/exile_foto_scritta.anim.png",
+   "size": 2149213,
+   "sha1": "0f84ef1f5b65506df5cdde4529317d9514c2eadc"
+  },
+  {
+   "path": "capes/exile_foto_scritta.png",
+   "size": 320755,
+   "sha1": "6cfe31bc2d9dfec628c7f3ac033938eaba06ff1d"
+  },
+  {
+   "path": "capes/exile_foto_scritta.txt",
+   "size": 179,
+   "sha1": "4e99e0d15566cfb3a3be03eb378c796d1ab64ca4"
+  },
+  {
+   "path": "capes/exile_glitch.anim.png",
+   "size": 157457,
+   "sha1": "968fdfa7cd05b0dd5d05151464f50a8685b176ef"
+  },
+  {
+   "path": "capes/exile_glitch.png",
+   "size": 43248,
+   "sha1": "e81de227cf0c4e6fecd9a0416de48af3391f93e5"
+  },
+  {
+   "path": "capes/exile_glitch.txt",
+   "size": 152,
+   "sha1": "cc09e28ce341b968e717163f79f212e641cd8d38"
+  },
+  {
+   "path": "capes/exile_luna.png",
+   "size": 287649,
+   "sha1": "6727a5cc43158671eeb15fc343e906fb489a0277"
+  },
+  {
+   "path": "capes/exile_minimal.png",
+   "size": 21924,
+   "sha1": "26d279e491c024b25d396bf6059d324ae3fc081d"
+  },
+  {
+   "path": "capes/exile_notte.anim.png",
+   "size": 177109,
+   "sha1": "cde552f4d6b8cefb2eecc58150b655c4e4709bfe"
+  },
+  {
+   "path": "capes/exile_notte.png",
+   "size": 42520,
+   "sha1": "8f719d2a8eee5170c1010aed1213223ded0dd7ce"
+  },
+  {
+   "path": "capes/exile_riflesso.anim.png",
+   "size": 105757,
+   "sha1": "055127160fbd0d86ae1a1378d9b7b862c4e6743b"
+  },
+  {
+   "path": "capes/exile_riflesso.png",
+   "size": 44549,
+   "sha1": "424f43adfd31ab545ca2021eb95cb34f6de04a8c"
+  },
+  {
+   "path": "capes/exile_riflesso.txt",
+   "size": 137,
+   "sha1": "b13fc752f814aa65c583d639aed5216cef8c775b"
+  },
+  {
+   "path": "capes/exile_roster.png",
+   "size": 43319,
+   "sha1": "41fe718c6f83718e49ff0205f2cab8d1cdedf06e"
+  },
+  {
+   "path": "capes/exile_scritta.png",
+   "size": 276422,
+   "sha1": "582f370b7db0819bd78a257c25bd3f49bc25acb6"
+  },
+  {
+   "path": "capes/exile_stemma_argento.png",
+   "size": 48206,
+   "sha1": "a84e97359069752c6761312dab3f5a4b86584f0f"
+  },
+  {
+   "path": "capes/exile_stemma_bronzo.png",
+   "size": 45581,
+   "sha1": "2798207e1f3c644af28fd06162c140bbb0887320"
+  },
+  {
+   "path": "capes/exile_stemma_oro.png",
+   "size": 46333,
+   "sha1": "af94a03a1aac2f62ab32224fae54c53b34bff11f"
+  },
+  {
+   "path": "capes/midnight/midnight.png",
+   "size": 84273,
+   "sha1": "bf647eb94a2ed8e442118263a03908834fe7949a"
+  },
+  {
+   "path": "capes/midnight/midnight_glow.anim.png",
+   "size": 519618,
+   "sha1": "fd87203b37e7aa8799bc8c2155062ff13e193f43"
+  },
+  {
+   "path": "capes/midnight/midnight_glow.png",
+   "size": 84273,
+   "sha1": "bf647eb94a2ed8e442118263a03908834fe7949a"
+  },
+  {
+   "path": "identities.properties",
+   "size": 1056,
+   "sha1": "aadd268fe97a58c35721c73c071394077775e6f5"
+  },
+  {
+   "path": "members.txt",
+   "size": 554,
+   "sha1": "4d509843c0ed4c66d045338dface0724ff38c2ff"
+  }
+ ]
+}
