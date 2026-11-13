@@ -2,11 +2,6 @@
  "version": 1,
  "files": [
   {
-   "path": "capes/Exile Members/exile_criperlo.png",
-   "size": 42616,
-   "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
-  },
-  {
    "path": "capes/Exile Members/exile_nindar.png",
    "size": 40947,
    "sha1": "bc577c383a1f7e382415faad649391b244bc93a6"
@@ -65,6 +60,11 @@
    "path": "capes/Exile/exile_carosello.txt",
    "size": 657,
    "sha1": "f1477a51d3d265a5a8402829bfe1818a52e10b83"
+  },
+  {
+   "path": "capes/Exile/exile_criperlo.png",
+   "size": 42616,
+   "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
   },
   {
    "path": "capes/Exile/exile_fasi_lunari.anim.png",
