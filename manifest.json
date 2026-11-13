@@ -2,11 +2,6 @@
  "version": 1,
  "files": [
   {
-   "path": "capes/Exile Members/exile_ale6oo.png",
-   "size": 42534,
-   "sha1": "129a2e72f0fa1fdab541350619933ce2786bccb8"
-  },
-  {
    "path": "capes/Exile Members/exile_criperlo.png",
    "size": 42616,
    "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
@@ -60,6 +55,11 @@
    "path": "capes/Exile/exile.txt",
    "size": 134,
    "sha1": "d3933303170713025e74149ead4b5e969cb5161a"
+  },
+  {
+   "path": "capes/Exile/exile_ale6oo.png",
+   "size": 42534,
+   "sha1": "129a2e72f0fa1fdab541350619933ce2786bccb8"
   },
   {
    "path": "capes/Exile/exile_carosello.anim.png",
