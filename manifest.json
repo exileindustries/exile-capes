@@ -197,16 +197,6 @@
    "sha1": "af94a03a1aac2f62ab32224fae54c53b34bff11f"
   },
   {
-   "path": "capes/Exile/midnight_glow.anim.png",
-   "size": 519618,
-   "sha1": "fd87203b37e7aa8799bc8c2155062ff13e193f43"
-  },
-  {
-   "path": "capes/Exile/midnight_glow.png",
-   "size": 84273,
-   "sha1": "bf647eb94a2ed8e442118263a03908834fe7949a"
-  },
-  {
    "path": "capes/Factions/Amerinide.png",
    "size": 290980,
    "sha1": "b4ec68b638c255a3e1ba406e1c300f031f6456d5"
@@ -818,6 +808,16 @@
   },
   {
    "path": "capes/Midnight/midnight.png",
+   "size": 84273,
+   "sha1": "bf647eb94a2ed8e442118263a03908834fe7949a"
+  },
+  {
+   "path": "capes/Midnight/midnight_glow.anim.png",
+   "size": 519618,
+   "sha1": "fd87203b37e7aa8799bc8c2155062ff13e193f43"
+  },
+  {
+   "path": "capes/Midnight/midnight_glow.png",
    "size": 84273,
    "sha1": "bf647eb94a2ed8e442118263a03908834fe7949a"
   },
