@@ -2,11 +2,6 @@
  "version": 1,
  "files": [
   {
-   "path": "capes/Exile Members/exile_nindar.png",
-   "size": 40947,
-   "sha1": "bc577c383a1f7e382415faad649391b244bc93a6"
-  },
-  {
    "path": "capes/Exile Members/exile_nyzoo.png",
    "size": 41759,
    "sha1": "e4246bd07b0aa896f54efb75999b8165f35a7531"
@@ -145,6 +140,11 @@
    "path": "capes/Exile/exile_minimal.png",
    "size": 21924,
    "sha1": "26d279e491c024b25d396bf6059d324ae3fc081d"
+  },
+  {
+   "path": "capes/Exile/exile_nindar.png",
+   "size": 40947,
+   "sha1": "bc577c383a1f7e382415faad649391b244bc93a6"
   },
   {
    "path": "capes/Exile/exile_notte.anim.png",
