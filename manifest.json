@@ -7,11 +7,6 @@
    "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
   },
   {
-   "path": "capes/Exile Members/exile_mich.png",
-   "size": 40086,
-   "sha1": "a3c9221521e1b2a3a813f41ce614d2e505e79a23"
-  },
-  {
    "path": "capes/Exile Members/exile_nindar.png",
    "size": 40947,
    "sha1": "bc577c383a1f7e382415faad649391b244bc93a6"
@@ -140,6 +135,11 @@
    "path": "capes/Exile/exile_luna.png",
    "size": 287649,
    "sha1": "6727a5cc43158671eeb15fc343e906fb489a0277"
+  },
+  {
+   "path": "capes/Exile/exile_mich.png",
+   "size": 40086,
+   "sha1": "a3c9221521e1b2a3a813f41ce614d2e505e79a23"
   },
   {
    "path": "capes/Exile/exile_minimal.png",
