@@ -1308,13 +1308,13 @@
   },
   {
    "path": "identities.properties",
-   "size": 1056,
-   "sha1": "aadd268fe97a58c35721c73c071394077775e6f5"
+   "size": 1098,
+   "sha1": "0a363aa97a80a285762b00ee58aa8ea153fd0053"
   },
   {
    "path": "members.txt",
-   "size": 533,
-   "sha1": "37c3f76618f7029c8dbe384edd431c22d64ede9e"
+   "size": 538,
+   "sha1": "4e24049049ed4ce4f79e66f6f391f4fc1d5d5abf"
   }
  ]
 }
