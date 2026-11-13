@@ -2,11 +2,6 @@
  "version": 1,
  "files": [
   {
-   "path": "capes/Exile Members/exile_pasku.png",
-   "size": 41962,
-   "sha1": "04ce217fd13d4970009022fd65ecd004b609b586"
-  },
-  {
    "path": "capes/Exile Members/exile_vanigliamoon.png",
    "size": 42649,
    "sha1": "b3a9dc0f2850bc44128a5f76656460898bbb8ed1"
@@ -155,6 +150,11 @@
    "path": "capes/Exile/exile_oken.png",
    "size": 41391,
    "sha1": "4fdf171354341aa34fd3134327da6db15e3d8e46"
+  },
+  {
+   "path": "capes/Exile/exile_pasku.png",
+   "size": 41962,
+   "sha1": "04ce217fd13d4970009022fd65ecd004b609b586"
   },
   {
    "path": "capes/Exile/exile_riflesso.anim.png",
