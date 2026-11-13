@@ -2,11 +2,6 @@
  "version": 1,
  "files": [
   {
-   "path": "capes/Exile Members/exile_nyzoo.png",
-   "size": 41759,
-   "sha1": "e4246bd07b0aa896f54efb75999b8165f35a7531"
-  },
-  {
    "path": "capes/Exile Members/exile_oken.png",
    "size": 41391,
    "sha1": "4fdf171354341aa34fd3134327da6db15e3d8e46"
@@ -155,6 +150,11 @@
    "path": "capes/Exile/exile_notte.png",
    "size": 42520,
    "sha1": "8f719d2a8eee5170c1010aed1213223ded0dd7ce"
+  },
+  {
+   "path": "capes/Exile/exile_nyzoo.png",
+   "size": 41759,
+   "sha1": "e4246bd07b0aa896f54efb75999b8165f35a7531"
   },
   {
    "path": "capes/Exile/exile_riflesso.anim.png",
