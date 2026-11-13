@@ -7,11 +7,6 @@
    "sha1": "506c075ea9f5f33d1e9af4f5117e5699c3fea329"
   },
   {
-   "path": "capes/Exile Members/exile_lucy.png",
-   "size": 40200,
-   "sha1": "cd77b05d39f08c1be451cd9257545e52074b0634"
-  },
-  {
    "path": "capes/Exile Members/exile_mich.png",
    "size": 40086,
    "sha1": "a3c9221521e1b2a3a813f41ce614d2e505e79a23"
@@ -135,6 +130,11 @@
    "path": "capes/Exile/exile_glitch.txt",
    "size": 152,
    "sha1": "cc09e28ce341b968e717163f79f212e641cd8d38"
+  },
+  {
+   "path": "capes/Exile/exile_lucy.png",
+   "size": 40200,
+   "sha1": "cd77b05d39f08c1be451cd9257545e52074b0634"
   },
   {
    "path": "capes/Exile/exile_luna.png",
