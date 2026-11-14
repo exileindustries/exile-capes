@@ -23,7 +23,6 @@ cheat9
 pvphack
 segagliolo
 NotLucidify
-xStache
 pvphacks
 nindarr
 Grin0s
