@@ -1315,6 +1315,11 @@
    "path": "members.txt",
    "size": 543,
    "sha1": "a5c88c409dec7c47d1744df143f82a6247498a30"
+  },
+  {
+   "path": "names.properties",
+   "size": 65,
+   "sha1": "3abddd67665b39ad9c34d52a679e0ab8c886d7a2"
   }
  ]
 }
